@@ -1,0 +1,2422 @@
+[
+  {
+    "rank": 1,
+    "name": "Brazil",
+    "confed": "CONMEBOL",
+    "off": 3.13,
+    "def": 0.29,
+    "spi": 93.08,
+    "location": {
+      "country_Code": "PL"
+    }
+  },
+  {
+    "rank": 2,
+    "name": "Argentina",
+    "confed": "CONMEBOL",
+    "off": 2.9,
+    "def": 0.39,
+    "spi": 90.22,
+    "location": {
+      "country_Code": "TV"
+    }
+  },
+  {
+    "rank": 3,
+    "name": "Germany",
+    "confed": "UEFA",
+    "off": 3.44,
+    "def": 0.69,
+    "spi": 89.75,
+    "location": {
+      "country_Code": "GD"
+    }
+  },
+  {
+    "rank": 4,
+    "name": "France",
+    "confed": "UEFA",
+    "off": 2.98,
+    "def": 0.53,
+    "spi": 88.66,
+    "location": {
+      "country_Code": "PA"
+    }
+  },
+  {
+    "rank": 5,
+    "name": "England",
+    "confed": "UEFA",
+    "off": 2.74,
+    "def": 0.43,
+    "spi": 88.26,
+    "location": {
+      "country_Code": "BS"
+    }
+  },
+  {
+    "rank": 6,
+    "name": "Spain",
+    "confed": "UEFA",
+    "off": 2.56,
+    "def": 0.36,
+    "spi": 87.87,
+    "location": {
+      "country_Code": "CI"
+    }
+  },
+  {
+    "rank": 7,
+    "name": "Portugal",
+    "confed": "UEFA",
+    "off": 2.79,
+    "def": 0.53,
+    "spi": 87.02,
+    "location": {
+      "country_Code": "ES"
+    }
+  },
+  {
+    "rank": 8,
+    "name": "Netherlands",
+    "confed": "UEFA",
+    "off": 2.54,
+    "def": 0.57,
+    "spi": 83.68,
+    "location": {
+      "country_Code": "TK"
+    }
+  },
+  {
+    "rank": 9,
+    "name": "Belgium",
+    "confed": "UEFA",
+    "off": 2.51,
+    "def": 0.63,
+    "spi": 82.32,
+    "location": {
+      "country_Code": "SL"
+    }
+  },
+  {
+    "rank": 10,
+    "name": "Colombia",
+    "confed": "CONMEBOL",
+    "off": 2.16,
+    "def": 0.46,
+    "spi": 81.37,
+    "location": {
+      "country_Code": "SE"
+    }
+  },
+  {
+    "rank": 11,
+    "name": "Italy",
+    "confed": "UEFA",
+    "off": 2.29,
+    "def": 0.59,
+    "spi": 80.35,
+    "location": {
+      "country_Code": "CO"
+    }
+  },
+  {
+    "rank": 12,
+    "name": "Uruguay",
+    "confed": "CONMEBOL",
+    "off": 2.08,
+    "def": 0.5,
+    "spi": 79.47,
+    "location": {
+      "country_Code": "AQ"
+    }
+  },
+  {
+    "rank": 13,
+    "name": "Croatia",
+    "confed": "UEFA",
+    "off": 2.16,
+    "def": 0.58,
+    "spi": 78.82,
+    "location": {
+      "country_Code": "HK"
+    }
+  },
+  {
+    "rank": 14,
+    "name": "Algeria",
+    "confed": "CAF",
+    "off": 2.12,
+    "def": 0.58,
+    "spi": 78.21,
+    "location": {
+      "country_Code": "PR"
+    }
+  },
+  {
+    "rank": 15,
+    "name": "Switzerland",
+    "confed": "UEFA",
+    "off": 2.22,
+    "def": 0.67,
+    "spi": 77.65,
+    "location": {
+      "country_Code": "DE"
+    }
+  },
+  {
+    "rank": 16,
+    "name": "Japan",
+    "confed": "AFC",
+    "off": 2.01,
+    "def": 0.62,
+    "spi": 75.42,
+    "location": {
+      "country_Code": "PN"
+    }
+  },
+  {
+    "rank": 17,
+    "name": "Czech Republic",
+    "confed": "UEFA",
+    "off": 2.15,
+    "def": 0.72,
+    "spi": 75.41,
+    "location": {
+      "country_Code": "RS"
+    }
+  },
+  {
+    "rank": 18,
+    "name": "Denmark",
+    "confed": "UEFA",
+    "off": 2.07,
+    "def": 0.68,
+    "spi": 75.06,
+    "location": {
+      "country_Code": "TF"
+    }
+  },
+  {
+    "rank": 19,
+    "name": "Senegal",
+    "confed": "CAF",
+    "off": 1.88,
+    "def": 0.58,
+    "spi": 74.39,
+    "location": {
+      "country_Code": "RU"
+    }
+  },
+  {
+    "rank": 20,
+    "name": "Canada",
+    "confed": "CONCACAF",
+    "off": 2.05,
+    "def": 0.7,
+    "spi": 74.3,
+    "location": {
+      "country_Code": "KN"
+    }
+  },
+  {
+    "rank": 21,
+    "name": "Serbia",
+    "confed": "UEFA",
+    "off": 2.21,
+    "def": 0.81,
+    "spi": 74.28,
+    "location": {
+      "country_Code": "KN"
+    }
+  },
+  {
+    "rank": 22,
+    "name": "Ecuador",
+    "confed": "CONMEBOL",
+    "off": 1.92,
+    "def": 0.64,
+    "spi": 73.7,
+    "location": {
+      "country_Code": "GS"
+    }
+  },
+  {
+    "rank": 23,
+    "name": "Mexico",
+    "confed": "CONCACAF",
+    "off": 1.91,
+    "def": 0.65,
+    "spi": 73.37,
+    "location": {
+      "country_Code": "TF"
+    }
+  },
+  {
+    "rank": 24,
+    "name": "Austria",
+    "confed": "UEFA",
+    "off": 2.15,
+    "def": 0.84,
+    "spi": 72.83,
+    "location": {
+      "country_Code": "AL"
+    }
+  },
+  {
+    "rank": 25,
+    "name": "Norway",
+    "confed": "UEFA",
+    "off": 2,
+    "def": 0.74,
+    "spi": 72.45,
+    "location": {
+      "country_Code": "IE"
+    }
+  },
+  {
+    "rank": 26,
+    "name": "USA",
+    "confed": "CONCACAF",
+    "off": 1.91,
+    "def": 0.69,
+    "spi": 72.36,
+    "location": {
+      "country_Code": "GM"
+    }
+  },
+  {
+    "rank": 27,
+    "name": "South Korea",
+    "confed": "AFC",
+    "off": 1.96,
+    "def": 0.72,
+    "spi": 72.28,
+    "location": {
+      "country_Code": "KG"
+    }
+  },
+  {
+    "rank": 28,
+    "name": "Morocco",
+    "confed": "CAF",
+    "off": 1.66,
+    "def": 0.52,
+    "spi": 72.1,
+    "location": {
+      "country_Code": "CK"
+    }
+  },
+  {
+    "rank": 29,
+    "name": "Chile",
+    "confed": "CONMEBOL",
+    "off": 1.87,
+    "def": 0.77,
+    "spi": 69.53,
+    "location": {
+      "country_Code": "PA"
+    }
+  },
+  {
+    "rank": 30,
+    "name": "Ukraine",
+    "confed": "UEFA",
+    "off": 1.88,
+    "def": 0.78,
+    "spi": 69.49,
+    "location": {
+      "country_Code": "JO"
+    }
+  },
+  {
+    "rank": 31,
+    "name": "Tunisia",
+    "confed": "CAF",
+    "off": 1.58,
+    "def": 0.56,
+    "spi": 69.47,
+    "location": {
+      "country_Code": "KW"
+    }
+  },
+  {
+    "rank": 32,
+    "name": "Egypt",
+    "confed": "CAF",
+    "off": 1.65,
+    "def": 0.63,
+    "spi": 68.91,
+    "location": {
+      "country_Code": "KG"
+    }
+  },
+  {
+    "rank": 33,
+    "name": "Sweden",
+    "confed": "UEFA",
+    "off": 2.01,
+    "def": 0.92,
+    "spi": 68.76,
+    "location": {
+      "country_Code": "PE"
+    }
+  },
+  {
+    "rank": 34,
+    "name": "Scotland",
+    "confed": "UEFA",
+    "off": 1.84,
+    "def": 0.79,
+    "spi": 68.73,
+    "location": {
+      "country_Code": "NE"
+    }
+  },
+  {
+    "rank": 35,
+    "name": "Iran",
+    "confed": "AFC",
+    "off": 1.75,
+    "def": 0.72,
+    "spi": 68.52,
+    "location": {
+      "country_Code": "IO"
+    }
+  },
+  {
+    "rank": 36,
+    "name": "Venezuela",
+    "confed": "CONMEBOL",
+    "off": 1.83,
+    "def": 0.8,
+    "spi": 68.21,
+    "location": {
+      "country_Code": "AO"
+    }
+  },
+  {
+    "rank": 37,
+    "name": "Poland",
+    "confed": "UEFA",
+    "off": 1.83,
+    "def": 0.82,
+    "spi": 67.67,
+    "location": {
+      "country_Code": "YE"
+    }
+  },
+  {
+    "rank": 38,
+    "name": "Peru",
+    "confed": "CONMEBOL",
+    "off": 1.76,
+    "def": 0.79,
+    "spi": 67.17,
+    "location": {
+      "country_Code": "IR"
+    }
+  },
+  {
+    "rank": 39,
+    "name": "Russia",
+    "confed": "UEFA",
+    "off": 1.87,
+    "def": 0.9,
+    "spi": 66.74,
+    "location": {
+      "country_Code": "MC"
+    }
+  },
+  {
+    "rank": 40,
+    "name": "Turkey",
+    "confed": "UEFA",
+    "off": 1.98,
+    "def": 1,
+    "spi": 66.45,
+    "location": {
+      "country_Code": "SX"
+    }
+  },
+  {
+    "rank": 41,
+    "name": "Greece",
+    "confed": "UEFA",
+    "off": 1.49,
+    "def": 0.6,
+    "spi": 66.44,
+    "location": {
+      "country_Code": "SR"
+    }
+  },
+  {
+    "rank": 42,
+    "name": "Ivory Coast",
+    "confed": "CAF",
+    "off": 1.62,
+    "def": 0.76,
+    "spi": 65.04,
+    "location": {
+      "country_Code": "LC"
+    }
+  },
+  {
+    "rank": 43,
+    "name": "Australia",
+    "confed": "AFC",
+    "off": 1.66,
+    "def": 0.81,
+    "spi": 64.71,
+    "location": {
+      "country_Code": "AQ"
+    }
+  },
+  {
+    "rank": 44,
+    "name": "Hungary",
+    "confed": "UEFA",
+    "off": 1.69,
+    "def": 0.84,
+    "spi": 64.46,
+    "location": {
+      "country_Code": "VU"
+    }
+  },
+  {
+    "rank": 45,
+    "name": "Paraguay",
+    "confed": "CONMEBOL",
+    "off": 1.7,
+    "def": 0.88,
+    "spi": 63.87,
+    "location": {
+      "country_Code": "BI"
+    }
+  },
+  {
+    "rank": 46,
+    "name": "Nigeria",
+    "confed": "CAF",
+    "off": 1.56,
+    "def": 0.8,
+    "spi": 62.89,
+    "location": {
+      "country_Code": "VA"
+    }
+  },
+  {
+    "rank": 47,
+    "name": "Ireland",
+    "confed": "UEFA",
+    "off": 1.5,
+    "def": 0.76,
+    "spi": 62.57,
+    "location": {
+      "country_Code": "CR"
+    }
+  },
+  {
+    "rank": 48,
+    "name": "Wales",
+    "confed": "UEFA",
+    "off": 1.56,
+    "def": 0.83,
+    "spi": 62.08,
+    "location": {
+      "country_Code": "VI"
+    }
+  },
+  {
+    "rank": 49,
+    "name": "Cameroon",
+    "confed": "CAF",
+    "off": 1.6,
+    "def": 0.87,
+    "spi": 62.06,
+    "location": {
+      "country_Code": "US"
+    }
+  },
+  {
+    "rank": 50,
+    "name": "Panama",
+    "confed": "CONCACAF",
+    "off": 1.62,
+    "def": 0.93,
+    "spi": 60.9,
+    "location": {
+      "country_Code": "ID"
+    }
+  },
+  {
+    "rank": 51,
+    "name": "Mali",
+    "confed": "CAF",
+    "off": 1.4,
+    "def": 0.77,
+    "spi": 60.19,
+    "location": {
+      "country_Code": "PL"
+    }
+  },
+  {
+    "rank": 52,
+    "name": "Basque Country",
+    "confed": "UEFA",
+    "off": 1.63,
+    "def": 1,
+    "spi": 59.32,
+    "location": {
+      "country_Code": "AS"
+    }
+  },
+  {
+    "rank": 53,
+    "name": "Bosnia and Herzegovina",
+    "confed": "UEFA",
+    "off": 1.6,
+    "def": 0.99,
+    "spi": 58.95,
+    "location": {
+      "country_Code": "CV"
+    }
+  },
+  {
+    "rank": 54,
+    "name": "Finland",
+    "confed": "UEFA",
+    "off": 1.56,
+    "def": 0.97,
+    "spi": 58.64,
+    "location": {
+      "country_Code": "BY"
+    }
+  },
+  {
+    "rank": 55,
+    "name": "Romania",
+    "confed": "UEFA",
+    "off": 1.56,
+    "def": 1.02,
+    "spi": 57.65,
+    "location": {
+      "country_Code": "CI"
+    }
+  },
+  {
+    "rank": 56,
+    "name": "Uzbekistan",
+    "confed": "AFC",
+    "off": 1.59,
+    "def": 1.07,
+    "spi": 56.99,
+    "location": {
+      "country_Code": "PE"
+    }
+  },
+  {
+    "rank": 57,
+    "name": "Georgia",
+    "confed": "UEFA",
+    "off": 1.53,
+    "def": 1.03,
+    "spi": 56.56,
+    "location": {
+      "country_Code": "AM"
+    }
+  },
+  {
+    "rank": 58,
+    "name": "Slovenia",
+    "confed": "UEFA",
+    "off": 1.42,
+    "def": 0.96,
+    "spi": 55.91,
+    "location": {
+      "country_Code": "KY"
+    }
+  },
+  {
+    "rank": 59,
+    "name": "Saudi Arabia",
+    "confed": "AFC",
+    "off": 1.53,
+    "def": 1.06,
+    "spi": 55.91,
+    "location": {
+      "country_Code": "TZ"
+    }
+  },
+  {
+    "rank": 60,
+    "name": "New Zealand",
+    "confed": "OFC",
+    "off": 1.47,
+    "def": 1.01,
+    "spi": 55.79,
+    "location": {
+      "country_Code": "HT"
+    }
+  },
+  {
+    "rank": 61,
+    "name": "Bolivia",
+    "confed": "CONMEBOL",
+    "off": 1.68,
+    "def": 1.21,
+    "spi": 55.66,
+    "location": {
+      "country_Code": "IR"
+    }
+  },
+  {
+    "rank": 62,
+    "name": "Haiti",
+    "confed": "CONCACAF",
+    "off": 1.62,
+    "def": 1.17,
+    "spi": 55.32,
+    "location": {
+      "country_Code": "NR"
+    }
+  },
+  {
+    "rank": 63,
+    "name": "Ghana",
+    "confed": "CAF",
+    "off": 1.47,
+    "def": 1.03,
+    "spi": 55.26,
+    "location": {
+      "country_Code": "BG"
+    }
+  },
+  {
+    "rank": 64,
+    "name": "Burkina Faso",
+    "confed": "CAF",
+    "off": 1.29,
+    "def": 0.89,
+    "spi": 54.61,
+    "location": {
+      "country_Code": "TK"
+    }
+  },
+  {
+    "rank": 65,
+    "name": "Jamaica",
+    "confed": "CONCACAF",
+    "off": 1.48,
+    "def": 1.07,
+    "spi": 54.44,
+    "location": {
+      "country_Code": "UZ"
+    }
+  },
+  {
+    "rank": 66,
+    "name": "Montenegro",
+    "confed": "UEFA",
+    "off": 1.3,
+    "def": 0.91,
+    "spi": 54.18,
+    "location": {
+      "country_Code": "KR"
+    }
+  },
+  {
+    "rank": 67,
+    "name": "Israel",
+    "confed": "UEFA",
+    "off": 1.81,
+    "def": 1.41,
+    "spi": 54.14,
+    "location": {
+      "country_Code": "JP"
+    }
+  },
+  {
+    "rank": 68,
+    "name": "Northern Ireland",
+    "confed": "UEFA",
+    "off": 1.38,
+    "def": 0.99,
+    "spi": 54.06,
+    "location": {
+      "country_Code": "TK"
+    }
+  },
+  {
+    "rank": 69,
+    "name": "Slovakia",
+    "confed": "UEFA",
+    "off": 1.41,
+    "def": 1.02,
+    "spi": 54.01,
+    "location": {
+      "country_Code": "BQ"
+    }
+  },
+  {
+    "rank": 70,
+    "name": "Kosovo",
+    "confed": "UEFA",
+    "off": 1.6,
+    "def": 1.23,
+    "spi": 53.44,
+    "location": {
+      "country_Code": "CC"
+    }
+  },
+  {
+    "rank": 71,
+    "name": "North Macedonia",
+    "confed": "UEFA",
+    "off": 1.32,
+    "def": 0.99,
+    "spi": 52.82,
+    "location": {
+      "country_Code": "GN"
+    }
+  },
+  {
+    "rank": 72,
+    "name": "Costa Rica",
+    "confed": "CONCACAF",
+    "off": 1.37,
+    "def": 1.04,
+    "spi": 52.71,
+    "location": {
+      "country_Code": "TZ"
+    }
+  },
+  {
+    "rank": 73,
+    "name": "Iceland",
+    "confed": "UEFA",
+    "off": 1.44,
+    "def": 1.14,
+    "spi": 52.17,
+    "location": {
+      "country_Code": "GI"
+    }
+  },
+  {
+    "rank": 74,
+    "name": "Oman",
+    "confed": "AFC",
+    "off": 1.25,
+    "def": 0.95,
+    "spi": 52.01,
+    "location": {
+      "country_Code": "AG"
+    }
+  },
+  {
+    "rank": 75,
+    "name": "Guatemala",
+    "confed": "CONCACAF",
+    "off": 1.36,
+    "def": 1.07,
+    "spi": 51.65,
+    "location": {
+      "country_Code": "NU"
+    }
+  },
+  {
+    "rank": 76,
+    "name": "Albania",
+    "confed": "UEFA",
+    "off": 1.17,
+    "def": 0.91,
+    "spi": 51,
+    "location": {
+      "country_Code": "FO"
+    }
+  },
+  {
+    "rank": 77,
+    "name": "Angola",
+    "confed": "CAF",
+    "off": 1.35,
+    "def": 1.12,
+    "spi": 50.52,
+    "location": {
+      "country_Code": "PW"
+    }
+  },
+  {
+    "rank": 78,
+    "name": "Cape Verde Islands",
+    "confed": "CAF",
+    "off": 1.13,
+    "def": 0.89,
+    "spi": 50.5,
+    "location": {
+      "country_Code": "BG"
+    }
+  },
+  {
+    "rank": 79,
+    "name": "Uganda",
+    "confed": "CAF",
+    "off": 1.17,
+    "def": 0.93,
+    "spi": 50.38,
+    "location": {
+      "country_Code": "KH"
+    }
+  },
+  {
+    "rank": 80,
+    "name": "South Africa",
+    "confed": "CAF",
+    "off": 1.25,
+    "def": 1.03,
+    "spi": 50.19,
+    "location": {
+      "country_Code": "LI"
+    }
+  },
+  {
+    "rank": 81,
+    "name": "Iraq",
+    "confed": "AFC",
+    "off": 1.12,
+    "def": 0.89,
+    "spi": 50.18,
+    "location": {
+      "country_Code": "SL"
+    }
+  },
+  {
+    "rank": 82,
+    "name": "Gabon",
+    "confed": "CAF",
+    "off": 1.2,
+    "def": 0.99,
+    "spi": 49.75,
+    "location": {
+      "country_Code": "MG"
+    }
+  },
+  {
+    "rank": 83,
+    "name": "Equatorial Guinea",
+    "confed": "CAF",
+    "off": 1.29,
+    "def": 1.09,
+    "spi": 49.53,
+    "location": {
+      "country_Code": "IR"
+    }
+  },
+  {
+    "rank": 84,
+    "name": "Congo DR",
+    "confed": "CAF",
+    "off": 1.2,
+    "def": 1.05,
+    "spi": 48.34,
+    "location": {
+      "country_Code": "RO"
+    }
+  },
+  {
+    "rank": 85,
+    "name": "Bahrain",
+    "confed": "AFC",
+    "off": 1.31,
+    "def": 1.21,
+    "spi": 47.47,
+    "location": {
+      "country_Code": "UG"
+    }
+  },
+  {
+    "rank": 86,
+    "name": "Honduras",
+    "confed": "CONCACAF",
+    "off": 1.34,
+    "def": 1.24,
+    "spi": 47.36,
+    "location": {
+      "country_Code": "KN"
+    }
+  },
+  {
+    "rank": 87,
+    "name": "Namibia",
+    "confed": "CAF",
+    "off": 1.12,
+    "def": 1.03,
+    "spi": 46.96,
+    "location": {
+      "country_Code": "ZW"
+    }
+  },
+  {
+    "rank": 88,
+    "name": "Qatar",
+    "confed": "AFC",
+    "off": 1.3,
+    "def": 1.22,
+    "spi": 46.87,
+    "location": {
+      "country_Code": "ET"
+    }
+  },
+  {
+    "rank": 89,
+    "name": "Guinea",
+    "confed": "CAF",
+    "off": 1.22,
+    "def": 1.15,
+    "spi": 46.75,
+    "location": {
+      "country_Code": "BF"
+    }
+  },
+  {
+    "rank": 90,
+    "name": "Zambia",
+    "confed": "CAF",
+    "off": 1.47,
+    "def": 1.44,
+    "spi": 46.15,
+    "location": {
+      "country_Code": "IS"
+    }
+  },
+  {
+    "rank": 91,
+    "name": "Jordan",
+    "confed": "AFC",
+    "off": 1.12,
+    "def": 1.07,
+    "spi": 45.92,
+    "location": {
+      "country_Code": "SH"
+    }
+  },
+  {
+    "rank": 92,
+    "name": "El Salvador",
+    "confed": "CONCACAF",
+    "off": 1.16,
+    "def": 1.13,
+    "spi": 45.59,
+    "location": {
+      "country_Code": "MH"
+    }
+  },
+  {
+    "rank": 93,
+    "name": "Togo",
+    "confed": "CAF",
+    "off": 1.22,
+    "def": 1.23,
+    "spi": 44.66,
+    "location": {
+      "country_Code": "SC"
+    }
+  },
+  {
+    "rank": 94,
+    "name": "Bulgaria",
+    "confed": "UEFA",
+    "off": 1.23,
+    "def": 1.3,
+    "spi": 43.51,
+    "location": {
+      "country_Code": "HK"
+    }
+  },
+  {
+    "rank": 95,
+    "name": "United Arab Emirates",
+    "confed": "AFC",
+    "off": 1.04,
+    "def": 1.15,
+    "spi": 42.06,
+    "location": {
+      "country_Code": "MR"
+    }
+  },
+  {
+    "rank": 96,
+    "name": "Mauritania",
+    "confed": "CAF",
+    "off": 0.97,
+    "def": 1.08,
+    "spi": 41.79,
+    "location": {
+      "country_Code": "NA"
+    }
+  },
+  {
+    "rank": 97,
+    "name": "Trinidad and Tobago",
+    "confed": "CONCACAF",
+    "off": 1.03,
+    "def": 1.17,
+    "spi": 41.37,
+    "location": {
+      "country_Code": "AS"
+    }
+  },
+  {
+    "rank": 98,
+    "name": "Madagascar",
+    "confed": "CAF",
+    "off": 1.25,
+    "def": 1.44,
+    "spi": 41.11,
+    "location": {
+      "country_Code": "VN"
+    }
+  },
+  {
+    "rank": 99,
+    "name": "China",
+    "confed": "AFC",
+    "off": 1.03,
+    "def": 1.2,
+    "spi": 40.91,
+    "location": {
+      "country_Code": "KH"
+    }
+  },
+  {
+    "rank": 100,
+    "name": "Benin",
+    "confed": "CAF",
+    "off": 0.95,
+    "def": 1.16,
+    "spi": 39.57,
+    "location": {
+      "country_Code": "CM"
+    }
+  },
+  {
+    "rank": 101,
+    "name": "Estonia",
+    "confed": "UEFA",
+    "off": 1.04,
+    "def": 1.27,
+    "spi": 39.49,
+    "location": {
+      "country_Code": "AS"
+    }
+  },
+  {
+    "rank": 102,
+    "name": "Ethiopia",
+    "confed": "CAF",
+    "off": 1.11,
+    "def": 1.35,
+    "spi": 39.46,
+    "location": {
+      "country_Code": "MT"
+    }
+  },
+  {
+    "rank": 103,
+    "name": "Libya",
+    "confed": "CAF",
+    "off": 1.16,
+    "def": 1.42,
+    "spi": 39.43,
+    "location": {
+      "country_Code": "LT"
+    }
+  },
+  {
+    "rank": 104,
+    "name": "Vietnam",
+    "confed": "AFC",
+    "off": 0.97,
+    "def": 1.2,
+    "spi": 39.1,
+    "location": {
+      "country_Code": "RW"
+    }
+  },
+  {
+    "rank": 105,
+    "name": "Swaziland",
+    "confed": "CAF",
+    "off": 1.04,
+    "def": 1.29,
+    "spi": 39.02,
+    "location": {
+      "country_Code": "AX"
+    }
+  },
+  {
+    "rank": 106,
+    "name": "Palestine",
+    "confed": "AFC",
+    "off": 1.08,
+    "def": 1.34,
+    "spi": 38.81,
+    "location": {
+      "country_Code": "TL"
+    }
+  },
+  {
+    "rank": 107,
+    "name": "Curacao",
+    "confed": "CONCACAF",
+    "off": 1.12,
+    "def": 1.41,
+    "spi": 38.67,
+    "location": {
+      "country_Code": "GS"
+    }
+  },
+  {
+    "rank": 108,
+    "name": "Suriname",
+    "confed": "CONCACAF",
+    "off": 1.19,
+    "def": 1.51,
+    "spi": 38.32,
+    "location": {
+      "country_Code": "BM"
+    }
+  },
+  {
+    "rank": 109,
+    "name": "Kenya",
+    "confed": "CAF",
+    "off": 1.06,
+    "def": 1.36,
+    "spi": 38.29,
+    "location": {
+      "country_Code": "SG"
+    }
+  },
+  {
+    "rank": 110,
+    "name": "Luxembourg",
+    "confed": "UEFA",
+    "off": 1.06,
+    "def": 1.35,
+    "spi": 38.24,
+    "location": {
+      "country_Code": "LT"
+    }
+  },
+  {
+    "rank": 111,
+    "name": "Guinea-Bissau",
+    "confed": "CAF",
+    "off": 1,
+    "def": 1.28,
+    "spi": 38.21,
+    "location": {
+      "country_Code": "PW"
+    }
+  },
+  {
+    "rank": 112,
+    "name": "Zimbabwe",
+    "confed": "CAF",
+    "off": 1.08,
+    "def": 1.4,
+    "spi": 37.94,
+    "location": {
+      "country_Code": "NO"
+    }
+  },
+  {
+    "rank": 113,
+    "name": "Armenia",
+    "confed": "UEFA",
+    "off": 1.21,
+    "def": 1.55,
+    "spi": 37.91,
+    "location": {
+      "country_Code": "PK"
+    }
+  },
+  {
+    "rank": 114,
+    "name": "Azerbaijan",
+    "confed": "UEFA",
+    "off": 1.01,
+    "def": 1.32,
+    "spi": 37.75,
+    "location": {
+      "country_Code": "SZ"
+    }
+  },
+  {
+    "rank": 115,
+    "name": "Central African Republic",
+    "confed": "CAF",
+    "off": 1.23,
+    "def": 1.59,
+    "spi": 37.67,
+    "location": {
+      "country_Code": "IR"
+    }
+  },
+  {
+    "rank": 116,
+    "name": "Gambia",
+    "confed": "CAF",
+    "off": 0.94,
+    "def": 1.25,
+    "spi": 37.3,
+    "location": {
+      "country_Code": "AZ"
+    }
+  },
+  {
+    "rank": 117,
+    "name": "Cuba",
+    "confed": "CONCACAF",
+    "off": 0.91,
+    "def": 1.23,
+    "spi": 36.83,
+    "location": {
+      "country_Code": "LI"
+    }
+  },
+  {
+    "rank": 118,
+    "name": "Nicaragua",
+    "confed": "CONCACAF",
+    "off": 1.17,
+    "def": 1.58,
+    "spi": 36.41,
+    "location": {
+      "country_Code": "TC"
+    }
+  },
+  {
+    "rank": 119,
+    "name": "Tanzania",
+    "confed": "CAF",
+    "off": 0.95,
+    "def": 1.3,
+    "spi": 36.41,
+    "location": {
+      "country_Code": "GT"
+    }
+  },
+  {
+    "rank": 120,
+    "name": "Mozambique",
+    "confed": "CAF",
+    "off": 0.93,
+    "def": 1.3,
+    "spi": 36.07,
+    "location": {
+      "country_Code": "BT"
+    }
+  },
+  {
+    "rank": 121,
+    "name": "Congo",
+    "confed": "CAF",
+    "off": 0.89,
+    "def": 1.26,
+    "spi": 35.83,
+    "location": {
+      "country_Code": "BO"
+    }
+  },
+  {
+    "rank": 122,
+    "name": "Latvia",
+    "confed": "UEFA",
+    "off": 1.18,
+    "def": 1.63,
+    "spi": 35.63,
+    "location": {
+      "country_Code": "JM"
+    }
+  },
+  {
+    "rank": 123,
+    "name": "Belarus",
+    "confed": "UEFA",
+    "off": 1.04,
+    "def": 1.45,
+    "spi": 35.61,
+    "location": {
+      "country_Code": "PH"
+    }
+  },
+  {
+    "rank": 124,
+    "name": "Thailand",
+    "confed": "AFC",
+    "off": 1,
+    "def": 1.41,
+    "spi": 35.58,
+    "location": {
+      "country_Code": "CM"
+    }
+  },
+  {
+    "rank": 125,
+    "name": "Niger",
+    "confed": "CAF",
+    "off": 1.11,
+    "def": 1.55,
+    "spi": 35.5,
+    "location": {
+      "country_Code": "SX"
+    }
+  },
+  {
+    "rank": 126,
+    "name": "Botswana",
+    "confed": "CAF",
+    "off": 0.8,
+    "def": 1.17,
+    "spi": 35.16,
+    "location": {
+      "country_Code": "GL"
+    }
+  },
+  {
+    "rank": 127,
+    "name": "Sierra Leone",
+    "confed": "CAF",
+    "off": 1.11,
+    "def": 1.59,
+    "spi": 34.88,
+    "location": {
+      "country_Code": "CL"
+    }
+  },
+  {
+    "rank": 128,
+    "name": "Kuwait",
+    "confed": "AFC",
+    "off": 0.94,
+    "def": 1.42,
+    "spi": 33.97,
+    "location": {
+      "country_Code": "NR"
+    }
+  },
+  {
+    "rank": 129,
+    "name": "Malawi",
+    "confed": "CAF",
+    "off": 0.93,
+    "def": 1.43,
+    "spi": 33.36,
+    "location": {
+      "country_Code": "GW"
+    }
+  },
+  {
+    "rank": 130,
+    "name": "Rwanda",
+    "confed": "CAF",
+    "off": 0.7,
+    "def": 1.15,
+    "spi": 32.96,
+    "location": {
+      "country_Code": "GG"
+    }
+  },
+  {
+    "rank": 131,
+    "name": "Comoros",
+    "confed": "CAF",
+    "off": 0.98,
+    "def": 1.56,
+    "spi": 32.41,
+    "location": {
+      "country_Code": "ES"
+    }
+  },
+  {
+    "rank": 132,
+    "name": "Faroe Islands",
+    "confed": "UEFA",
+    "off": 0.95,
+    "def": 1.52,
+    "spi": 32.27,
+    "location": {
+      "country_Code": "AE"
+    }
+  },
+  {
+    "rank": 133,
+    "name": "North Korea",
+    "confed": "AFC",
+    "off": 0.81,
+    "def": 1.39,
+    "spi": 30.99,
+    "location": {
+      "country_Code": "TL"
+    }
+  },
+  {
+    "rank": 134,
+    "name": "Sudan",
+    "confed": "CAF",
+    "off": 0.94,
+    "def": 1.59,
+    "spi": 30.75,
+    "location": {
+      "country_Code": "VE"
+    }
+  },
+  {
+    "rank": 135,
+    "name": "Kazakhstan",
+    "confed": "UEFA",
+    "off": 0.92,
+    "def": 1.57,
+    "spi": 30.73,
+    "location": {
+      "country_Code": "BW"
+    }
+  },
+  {
+    "rank": 136,
+    "name": "Moldova",
+    "confed": "UEFA",
+    "off": 0.85,
+    "def": 1.52,
+    "spi": 29.77,
+    "location": {
+      "country_Code": "GU"
+    }
+  },
+  {
+    "rank": 137,
+    "name": "Tajikistan",
+    "confed": "AFC",
+    "off": 0.84,
+    "def": 1.52,
+    "spi": 29.45,
+    "location": {
+      "country_Code": "DO"
+    }
+  },
+  {
+    "rank": 138,
+    "name": "Syria",
+    "confed": "AFC",
+    "off": 1.03,
+    "def": 1.79,
+    "spi": 29.4,
+    "location": {
+      "country_Code": "AI"
+    }
+  },
+  {
+    "rank": 139,
+    "name": "Cyprus",
+    "confed": "UEFA",
+    "off": 0.91,
+    "def": 1.64,
+    "spi": 29.31,
+    "location": {
+      "country_Code": "GS"
+    }
+  },
+  {
+    "rank": 140,
+    "name": "Malta",
+    "confed": "UEFA",
+    "off": 0.84,
+    "def": 1.54,
+    "spi": 29.12,
+    "location": {
+      "country_Code": "TO"
+    }
+  },
+  {
+    "rank": 141,
+    "name": "Burundi",
+    "confed": "CAF",
+    "off": 0.81,
+    "def": 1.56,
+    "spi": 28.12,
+    "location": {
+      "country_Code": "AI"
+    }
+  },
+  {
+    "rank": 142,
+    "name": "Liberia",
+    "confed": "CAF",
+    "off": 0.85,
+    "def": 1.65,
+    "spi": 27.63,
+    "location": {
+      "country_Code": "MZ"
+    }
+  },
+  {
+    "rank": 143,
+    "name": "Dominican Republic",
+    "confed": "CONCACAF",
+    "off": 0.78,
+    "def": 1.55,
+    "spi": 27.57,
+    "location": {
+      "country_Code": "KI"
+    }
+  },
+  {
+    "rank": 144,
+    "name": "Lithuania",
+    "confed": "UEFA",
+    "off": 0.81,
+    "def": 1.65,
+    "spi": 26.55,
+    "location": {
+      "country_Code": "SG"
+    }
+  },
+  {
+    "rank": 145,
+    "name": "Martinique",
+    "confed": "CONCACAF",
+    "off": 0.97,
+    "def": 1.89,
+    "spi": 26.49,
+    "location": {
+      "country_Code": "GF"
+    }
+  },
+  {
+    "rank": 146,
+    "name": "Kyrgyzstan",
+    "confed": "AFC",
+    "off": 0.89,
+    "def": 1.84,
+    "spi": 25.45,
+    "location": {
+      "country_Code": "DE"
+    }
+  },
+  {
+    "rank": 147,
+    "name": "Lebanon",
+    "confed": "AFC",
+    "off": 0.64,
+    "def": 1.51,
+    "spi": 24.74,
+    "location": {
+      "country_Code": "GM"
+    }
+  },
+  {
+    "rank": 148,
+    "name": "Guyana",
+    "confed": "CONCACAF",
+    "off": 1.04,
+    "def": 2.12,
+    "spi": 24.65,
+    "location": {
+      "country_Code": "UZ"
+    }
+  },
+  {
+    "rank": 149,
+    "name": "Bermuda",
+    "confed": "CONCACAF",
+    "off": 1.08,
+    "def": 2.21,
+    "spi": 24.24,
+    "location": {
+      "country_Code": "CR"
+    }
+  },
+  {
+    "rank": 150,
+    "name": "Puerto Rico",
+    "confed": "CONCACAF",
+    "off": 0.9,
+    "def": 1.97,
+    "spi": 23.8,
+    "location": {
+      "country_Code": "AT"
+    }
+  },
+  {
+    "rank": 151,
+    "name": "India",
+    "confed": "AFC",
+    "off": 0.7,
+    "def": 1.67,
+    "spi": 23.65,
+    "location": {
+      "country_Code": "SX"
+    }
+  },
+  {
+    "rank": 152,
+    "name": "Chad",
+    "confed": "CAF",
+    "off": 0.82,
+    "def": 1.87,
+    "spi": 23.52,
+    "location": {
+      "country_Code": "FI"
+    }
+  },
+  {
+    "rank": 153,
+    "name": "Solomon Islands",
+    "confed": "OFC",
+    "off": 0.79,
+    "def": 1.91,
+    "spi": 22.28,
+    "location": {
+      "country_Code": "GF"
+    }
+  },
+  {
+    "rank": 154,
+    "name": "Lesotho",
+    "confed": "CAF",
+    "off": 0.69,
+    "def": 1.76,
+    "spi": 22.01,
+    "location": {
+      "country_Code": "NF"
+    }
+  },
+  {
+    "rank": 155,
+    "name": "South Sudan",
+    "confed": "CAF",
+    "off": 0.71,
+    "def": 1.8,
+    "spi": 21.83,
+    "location": {
+      "country_Code": "FJ"
+    }
+  },
+  {
+    "rank": 156,
+    "name": "Zanzibar",
+    "confed": "CAF",
+    "off": 0.49,
+    "def": 1.47,
+    "spi": 21.39,
+    "location": {
+      "country_Code": "EG"
+    }
+  },
+  {
+    "rank": 157,
+    "name": "St. Kitts and Nevis",
+    "confed": "CONCACAF",
+    "off": 0.88,
+    "def": 2.11,
+    "spi": 21.37,
+    "location": {
+      "country_Code": "LI"
+    }
+  },
+  {
+    "rank": 158,
+    "name": "Indonesia",
+    "confed": "AFC",
+    "off": 0.96,
+    "def": 2.26,
+    "spi": 21.2,
+    "location": {
+      "country_Code": "EC"
+    }
+  },
+  {
+    "rank": 159,
+    "name": "Turkmenistan",
+    "confed": "AFC",
+    "off": 0.84,
+    "def": 2.07,
+    "spi": 21.05,
+    "location": {
+      "country_Code": "BM"
+    }
+  },
+  {
+    "rank": 160,
+    "name": "Malaysia",
+    "confed": "AFC",
+    "off": 0.78,
+    "def": 2.04,
+    "spi": 20.25,
+    "location": {
+      "country_Code": "TT"
+    }
+  },
+  {
+    "rank": 161,
+    "name": "Eritrea",
+    "confed": "CAF",
+    "off": 0.79,
+    "def": 2.1,
+    "spi": 19.77,
+    "location": {
+      "country_Code": "BF"
+    }
+  },
+  {
+    "rank": 162,
+    "name": "Fiji",
+    "confed": "OFC",
+    "off": 0.62,
+    "def": 1.89,
+    "spi": 18.72,
+    "location": {
+      "country_Code": "ZW"
+    }
+  },
+  {
+    "rank": 163,
+    "name": "New Caledonia",
+    "confed": "OFC",
+    "off": 0.7,
+    "def": 2.12,
+    "spi": 17.82,
+    "location": {
+      "country_Code": "SO"
+    }
+  },
+  {
+    "rank": 164,
+    "name": "Tahiti",
+    "confed": "OFC",
+    "off": 0.74,
+    "def": 2.23,
+    "spi": 17.25,
+    "location": {
+      "country_Code": "TH"
+    }
+  },
+  {
+    "rank": 165,
+    "name": "French Guiana",
+    "confed": "CONCACAF",
+    "off": 0.8,
+    "def": 2.36,
+    "spi": 16.83,
+    "location": {
+      "country_Code": "TM"
+    }
+  },
+  {
+    "rank": 166,
+    "name": "Montserrat",
+    "confed": "CONCACAF",
+    "off": 0.83,
+    "def": 2.44,
+    "spi": 16.59,
+    "location": {
+      "country_Code": "EG"
+    }
+  },
+  {
+    "rank": 167,
+    "name": "Antigua and Barbuda",
+    "confed": "CONCACAF",
+    "off": 0.74,
+    "def": 2.31,
+    "spi": 16.35,
+    "location": {
+      "country_Code": "FM"
+    }
+  },
+  {
+    "rank": 168,
+    "name": "Andorra",
+    "confed": "UEFA",
+    "off": 0.45,
+    "def": 1.79,
+    "spi": 16.22,
+    "location": {
+      "country_Code": "OM"
+    }
+  },
+  {
+    "rank": 169,
+    "name": "Grenada",
+    "confed": "CONCACAF",
+    "off": 0.67,
+    "def": 2.21,
+    "spi": 15.99,
+    "location": {
+      "country_Code": "KG"
+    }
+  },
+  {
+    "rank": 170,
+    "name": "Vanuatu",
+    "confed": "OFC",
+    "off": 0.65,
+    "def": 2.21,
+    "spi": 15.71,
+    "location": {
+      "country_Code": "LY"
+    }
+  },
+  {
+    "rank": 171,
+    "name": "St. Lucia",
+    "confed": "CONCACAF",
+    "off": 0.58,
+    "def": 2.11,
+    "spi": 15.45,
+    "location": {
+      "country_Code": "IT"
+    }
+  },
+  {
+    "rank": 172,
+    "name": "Sao Tome and Principe",
+    "confed": "CAF",
+    "off": 0.8,
+    "def": 2.61,
+    "spi": 14.51,
+    "location": {
+      "country_Code": "AL"
+    }
+  },
+  {
+    "rank": 173,
+    "name": "Hong Kong",
+    "confed": "AFC",
+    "off": 0.37,
+    "def": 1.9,
+    "spi": 13.2,
+    "location": {
+      "country_Code": "AQ"
+    }
+  },
+  {
+    "rank": 174,
+    "name": "Belize",
+    "confed": "CONCACAF",
+    "off": 0.51,
+    "def": 2.19,
+    "spi": 13.13,
+    "location": {
+      "country_Code": "AM"
+    }
+  },
+  {
+    "rank": 175,
+    "name": "Barbados",
+    "confed": "CONCACAF",
+    "off": 0.49,
+    "def": 2.17,
+    "spi": 13.05,
+    "location": {
+      "country_Code": "UM"
+    }
+  },
+  {
+    "rank": 176,
+    "name": "Mauritius",
+    "confed": "CAF",
+    "off": 0.54,
+    "def": 2.31,
+    "spi": 12.6,
+    "location": {
+      "country_Code": "KP"
+    }
+  },
+  {
+    "rank": 177,
+    "name": "Guadeloupe",
+    "confed": "CONCACAF",
+    "off": 0.54,
+    "def": 2.32,
+    "spi": 12.53,
+    "location": {
+      "country_Code": "GI"
+    }
+  },
+  {
+    "rank": 178,
+    "name": "Singapore",
+    "confed": "AFC",
+    "off": 0.55,
+    "def": 2.38,
+    "spi": 12.27,
+    "location": {
+      "country_Code": "MG"
+    }
+  },
+  {
+    "rank": 179,
+    "name": "Papua New Guinea",
+    "confed": "OFC",
+    "off": 0.69,
+    "def": 2.65,
+    "spi": 12.25,
+    "location": {
+      "country_Code": "AU"
+    }
+  },
+  {
+    "rank": 180,
+    "name": "Gibraltar",
+    "confed": "UEFA",
+    "off": 0.52,
+    "def": 2.38,
+    "spi": 11.7,
+    "location": {
+      "country_Code": "MM"
+    }
+  },
+  {
+    "rank": 181,
+    "name": "Afghanistan",
+    "confed": "AFC",
+    "off": 0.59,
+    "def": 2.59,
+    "spi": 11.12,
+    "location": {
+      "country_Code": "VA"
+    }
+  },
+  {
+    "rank": 182,
+    "name": "Dominica",
+    "confed": "CONCACAF",
+    "off": 0.44,
+    "def": 2.3,
+    "spi": 11.03,
+    "location": {
+      "country_Code": "IR"
+    }
+  },
+  {
+    "rank": 183,
+    "name": "Philippines",
+    "confed": "AFC",
+    "off": 0.51,
+    "def": 2.46,
+    "spi": 10.86,
+    "location": {
+      "country_Code": "SG"
+    }
+  },
+  {
+    "rank": 184,
+    "name": "St. Vincent and the Grenadines",
+    "confed": "CONCACAF",
+    "off": 0.61,
+    "def": 2.75,
+    "spi": 10.3,
+    "location": {
+      "country_Code": "GN"
+    }
+  },
+  {
+    "rank": 185,
+    "name": "Yemen",
+    "confed": "AFC",
+    "off": 0.44,
+    "def": 2.54,
+    "spi": 9.1,
+    "location": {
+      "country_Code": "LV"
+    }
+  },
+  {
+    "rank": 186,
+    "name": "Somalia",
+    "confed": "CAF",
+    "off": 0.52,
+    "def": 2.74,
+    "spi": 8.96,
+    "location": {
+      "country_Code": "MX"
+    }
+  },
+  {
+    "rank": 187,
+    "name": "Djibouti",
+    "confed": "CAF",
+    "off": 0.75,
+    "def": 3.33,
+    "spi": 8.45,
+    "location": {
+      "country_Code": "SK"
+    }
+  },
+  {
+    "rank": 188,
+    "name": "Nepal",
+    "confed": "AFC",
+    "off": 0.5,
+    "def": 2.81,
+    "spi": 8.23,
+    "location": {
+      "country_Code": "TF"
+    }
+  },
+  {
+    "rank": 189,
+    "name": "Aruba",
+    "confed": "CONCACAF",
+    "off": 0.52,
+    "def": 2.96,
+    "spi": 7.64,
+    "location": {
+      "country_Code": "BY"
+    }
+  },
+  {
+    "rank": 190,
+    "name": "Seychelles",
+    "confed": "CAF",
+    "off": 0.32,
+    "def": 2.55,
+    "spi": 7.2,
+    "location": {
+      "country_Code": "PG"
+    }
+  },
+  {
+    "rank": 191,
+    "name": "Liechtenstein",
+    "confed": "UEFA",
+    "off": 0.33,
+    "def": 2.69,
+    "spi": 6.56,
+    "location": {
+      "country_Code": "MG"
+    }
+  },
+  {
+    "rank": 192,
+    "name": "Mongolia",
+    "confed": "AFC",
+    "off": 0.27,
+    "def": 2.65,
+    "spi": 6,
+    "location": {
+      "country_Code": "NL"
+    }
+  },
+  {
+    "rank": 193,
+    "name": "Maldives",
+    "confed": "AFC",
+    "off": 0.37,
+    "def": 2.92,
+    "spi": 5.94,
+    "location": {
+      "country_Code": "US"
+    }
+  },
+  {
+    "rank": 194,
+    "name": "Chinese Taipei",
+    "confed": "AFC",
+    "off": 0.53,
+    "def": 3.37,
+    "spi": 5.75,
+    "location": {
+      "country_Code": "RU"
+    }
+  },
+  {
+    "rank": 195,
+    "name": "Myanmar",
+    "confed": "AFC",
+    "off": 0.45,
+    "def": 3.29,
+    "spi": 5.24,
+    "location": {
+      "country_Code": "ID"
+    }
+  },
+  {
+    "rank": 196,
+    "name": "San Marino",
+    "confed": "UEFA",
+    "off": 0.23,
+    "def": 2.72,
+    "spi": 5.12,
+    "location": {
+      "country_Code": "PH"
+    }
+  },
+  {
+    "rank": 197,
+    "name": "Bahamas",
+    "confed": "CONCACAF",
+    "off": 0.31,
+    "def": 2.99,
+    "spi": 4.99,
+    "location": {
+      "country_Code": "AI"
+    }
+  },
+  {
+    "rank": 198,
+    "name": "Bangladesh",
+    "confed": "AFC",
+    "off": 0.21,
+    "def": 2.71,
+    "spi": 4.97,
+    "location": {
+      "country_Code": "PE"
+    }
+  },
+  {
+    "rank": 199,
+    "name": "Cambodia",
+    "confed": "AFC",
+    "off": 0.39,
+    "def": 3.45,
+    "spi": 4.1,
+    "location": {
+      "country_Code": "VC"
+    }
+  },
+  {
+    "rank": 200,
+    "name": "Guam",
+    "confed": "AFC",
+    "off": 0.52,
+    "def": 3.82,
+    "spi": 4.07,
+    "location": {
+      "country_Code": "ET"
+    }
+  },
+  {
+    "rank": 201,
+    "name": "Cayman Islands",
+    "confed": "CONCACAF",
+    "off": 0.31,
+    "def": 3.32,
+    "spi": 3.8,
+    "location": {
+      "country_Code": "SG"
+    }
+  },
+  {
+    "rank": 202,
+    "name": "Bonaire",
+    "confed": "CONCACAF",
+    "off": 0.38,
+    "def": 4.04,
+    "spi": 2.54,
+    "location": {
+      "country_Code": "MT"
+    }
+  },
+  {
+    "rank": 203,
+    "name": "Northern Mariana Islands",
+    "confed": "AFC",
+    "off": 0.43,
+    "def": 4.27,
+    "spi": 2.4,
+    "location": {
+      "country_Code": "RW"
+    }
+  },
+  {
+    "rank": 204,
+    "name": "St. Martin",
+    "confed": "CONCACAF",
+    "off": 0.26,
+    "def": 3.83,
+    "spi": 2.22,
+    "location": {
+      "country_Code": "SS"
+    }
+  },
+  {
+    "rank": 205,
+    "name": "Sri Lanka",
+    "confed": "AFC",
+    "off": 0.24,
+    "def": 3.84,
+    "spi": 2.05,
+    "location": {
+      "country_Code": "SL"
+    }
+  },
+  {
+    "rank": 206,
+    "name": "Pakistan",
+    "confed": "AFC",
+    "off": 0.2,
+    "def": 3.78,
+    "spi": 1.93,
+    "location": {
+      "country_Code": "SO"
+    }
+  },
+  {
+    "rank": 207,
+    "name": "Anguilla",
+    "confed": "CONCACAF",
+    "off": 0.24,
+    "def": 3.93,
+    "spi": 1.88,
+    "location": {
+      "country_Code": "GH"
+    }
+  },
+  {
+    "rank": 208,
+    "name": "US Virgin Islands",
+    "confed": "CONCACAF",
+    "off": 0.2,
+    "def": 4.06,
+    "spi": 1.5,
+    "location": {
+      "country_Code": "LR"
+    }
+  },
+  {
+    "rank": 209,
+    "name": "Sint Maarten",
+    "confed": "CONCACAF",
+    "off": 0.43,
+    "def": 4.94,
+    "spi": 1.41,
+    "location": {
+      "country_Code": "BS"
+    }
+  },
+  {
+    "rank": 210,
+    "name": "Laos",
+    "confed": "AFC",
+    "off": 0.2,
+    "def": 4.18,
+    "spi": 1.36,
+    "location": {
+      "country_Code": "NG"
+    }
+  },
+  {
+    "rank": 211,
+    "name": "British Virgin Islands",
+    "confed": "CONCACAF",
+    "off": 0.26,
+    "def": 4.51,
+    "spi": 1.26,
+    "location": {
+      "country_Code": "YE"
+    }
+  },
+  {
+    "rank": 212,
+    "name": "Bhutan",
+    "confed": "AFC",
+    "off": 0.23,
+    "def": 4.41,
+    "spi": 1.24,
+    "location": {
+      "country_Code": "ZM"
+    }
+  },
+  {
+    "rank": 213,
+    "name": "Brunei",
+    "confed": "AFC",
+    "off": 0.2,
+    "def": 4.38,
+    "spi": 1.14,
+    "location": {
+      "country_Code": "AZ"
+    }
+  },
+  {
+    "rank": 214,
+    "name": "Cook Islands",
+    "confed": "OFC",
+    "off": 0.2,
+    "def": 4.72,
+    "spi": 0.85,
+    "location": {
+      "country_Code": "QA"
+    }
+  },
+  {
+    "rank": 215,
+    "name": "Turks and Caicos Islands",
+    "confed": "CONCACAF",
+    "off": 0.4,
+    "def": 5.52,
+    "spi": 0.82,
+    "location": {
+      "country_Code": "KZ"
+    }
+  },
+  {
+    "rank": 216,
+    "name": "Macau",
+    "confed": "AFC",
+    "off": 0.2,
+    "def": 4.92,
+    "spi": 0.71,
+    "location": {
+      "country_Code": "CV"
+    }
+  },
+  {
+    "rank": 217,
+    "name": "Tuvalu",
+    "confed": "OFC",
+    "off": 0.38,
+    "def": 5.62,
+    "spi": 0.7,
+    "location": {
+      "country_Code": "NG"
+    }
+  },
+  {
+    "rank": 218,
+    "name": "Timor-Leste",
+    "confed": "AFC",
+    "off": 0.27,
+    "def": 5.25,
+    "spi": 0.69,
+    "location": {
+      "country_Code": "SM"
+    }
+  },
+  {
+    "rank": 219,
+    "name": "Samoa",
+    "confed": "OFC",
+    "off": 0.2,
+    "def": 5.78,
+    "spi": 0.34,
+    "location": {
+      "country_Code": "SS"
+    }
+  },
+  {
+    "rank": 220,
+    "name": "Tonga",
+    "confed": "OFC",
+    "off": 0.2,
+    "def": 6.08,
+    "spi": 0.26,
+    "location": {
+      "country_Code": "SE"
+    }
+  }
+]

@@ -1,0 +1,8335 @@
+[
+  {
+    "rank": 1,
+    "prev_rank": 1,
+    "name": "Manchester City",
+    "league": "Barclays Premier League",
+    "off": 2.79,
+    "def": 0.28,
+    "spi": 92,
+    "location": {
+      "city": "New Annalise",
+      "zip": "30475-3516"
+    }
+  },
+  {
+    "rank": 2,
+    "prev_rank": 2,
+    "name": "Bayern Munich",
+    "league": "German Bundesliga",
+    "off": 3.04,
+    "def": 0.68,
+    "spi": 87.66,
+    "location": {
+      "city": "South Alena",
+      "zip": "18549-0386"
+    }
+  },
+  {
+    "rank": 3,
+    "prev_rank": 3,
+    "name": "Barcelona",
+    "league": "Spanish Primera Division",
+    "off": 2.45,
+    "def": 0.43,
+    "spi": 86.4,
+    "location": {
+      "city": "Corbinbury",
+      "zip": "63973-8054"
+    }
+  },
+  {
+    "rank": 4,
+    "prev_rank": 4,
+    "name": "Real Madrid",
+    "league": "Spanish Primera Division",
+    "off": 2.56,
+    "def": 0.6,
+    "spi": 84.41,
+    "location": {
+      "city": "Odessa",
+      "zip": "25145-8129"
+    }
+  },
+  {
+    "rank": 5,
+    "prev_rank": 5,
+    "name": "Liverpool",
+    "league": "Barclays Premier League",
+    "off": 2.63,
+    "def": 0.67,
+    "spi": 83.93,
+    "location": {
+      "city": "Fort Rafael",
+      "zip": "59072-4794"
+    }
+  },
+  {
+    "rank": 6,
+    "prev_rank": 6,
+    "name": "Arsenal",
+    "league": "Barclays Premier League",
+    "off": 2.53,
+    "def": 0.61,
+    "spi": 83.92,
+    "location": {
+      "city": "New Amelia",
+      "zip": "88837"
+    }
+  },
+  {
+    "rank": 7,
+    "prev_rank": 7,
+    "name": "Newcastle",
+    "league": "Barclays Premier League",
+    "off": 2.38,
+    "def": 0.53,
+    "spi": 83.7,
+    "location": {
+      "city": "Bell Gardens",
+      "zip": "29340"
+    }
+  },
+  {
+    "rank": 8,
+    "prev_rank": 8,
+    "name": "Napoli",
+    "league": "Italy Serie A",
+    "off": 2.3,
+    "def": 0.51,
+    "spi": 83.25,
+    "location": {
+      "city": "Mertiestad",
+      "zip": "27525-2265"
+    }
+  },
+  {
+    "rank": 9,
+    "prev_rank": 9,
+    "name": "Borussia Dortmund",
+    "league": "German Bundesliga",
+    "off": 2.83,
+    "def": 0.84,
+    "spi": 82.91,
+    "location": {
+      "city": "Penelopestead",
+      "zip": "19241-9933"
+    }
+  },
+  {
+    "rank": 10,
+    "prev_rank": 10,
+    "name": "Brighton and Hove Albion",
+    "league": "Barclays Premier League",
+    "off": 2.47,
+    "def": 0.73,
+    "spi": 80.88,
+    "location": {
+      "city": "West Palm Beach",
+      "zip": "28026"
+    }
+  },
+  {
+    "rank": 11,
+    "prev_rank": 11,
+    "name": "RB Leipzig",
+    "league": "German Bundesliga",
+    "off": 2.39,
+    "def": 0.7,
+    "spi": 80.42,
+    "location": {
+      "city": "Yostboro",
+      "zip": "04151-4544"
+    }
+  },
+  {
+    "rank": 12,
+    "prev_rank": 12,
+    "name": "Benfica",
+    "league": "Portuguese Liga",
+    "off": 2.4,
+    "def": 0.73,
+    "spi": 79.96,
+    "location": {
+      "city": "Port Elmore",
+      "zip": "58530-2800"
+    }
+  },
+  {
+    "rank": 13,
+    "prev_rank": 13,
+    "name": "Aston Villa",
+    "league": "Barclays Premier League",
+    "off": 2.01,
+    "def": 0.51,
+    "spi": 79.3,
+    "location": {
+      "city": "Port Enola",
+      "zip": "59240-4647"
+    }
+  },
+  {
+    "rank": 14,
+    "prev_rank": 14,
+    "name": "Atletico Madrid",
+    "league": "Spanish Primera Division",
+    "off": 2.26,
+    "def": 0.67,
+    "spi": 79.29,
+    "location": {
+      "city": "Bergeburgh",
+      "zip": "08539"
+    }
+  },
+  {
+    "rank": 15,
+    "prev_rank": 15,
+    "name": "Paris Saint-Germain",
+    "league": "French Ligue 1",
+    "off": 2.62,
+    "def": 0.91,
+    "spi": 79.12,
+    "location": {
+      "city": "Lake Woodrow",
+      "zip": "78563"
+    }
+  },
+  {
+    "rank": 16,
+    "prev_rank": 16,
+    "name": "Manchester United",
+    "league": "Barclays Premier League",
+    "off": 2.35,
+    "def": 0.74,
+    "spi": 79.08,
+    "location": {
+      "city": "VonRuedenside",
+      "zip": "76468-4884"
+    }
+  },
+  {
+    "rank": 17,
+    "prev_rank": 17,
+    "name": "Internazionale",
+    "league": "Italy Serie A",
+    "off": 2.33,
+    "def": 0.76,
+    "spi": 78.43,
+    "location": {
+      "city": "Yucaipa",
+      "zip": "79589"
+    }
+  },
+  {
+    "rank": 18,
+    "prev_rank": 18,
+    "name": "Ajax",
+    "league": "Dutch Eredivisie",
+    "off": 2.66,
+    "def": 1.03,
+    "spi": 77.36,
+    "location": {
+      "city": "Redondo Beach",
+      "zip": "39981-2417"
+    }
+  },
+  {
+    "rank": 19,
+    "prev_rank": 19,
+    "name": "Lille",
+    "league": "French Ligue 1",
+    "off": 2.07,
+    "def": 0.64,
+    "spi": 77.2,
+    "location": {
+      "city": "Labadiebury",
+      "zip": "22909-2263"
+    }
+  },
+  {
+    "rank": 20,
+    "prev_rank": 20,
+    "name": "Brentford",
+    "league": "Barclays Premier League",
+    "off": 2.1,
+    "def": 0.67,
+    "spi": 77.14,
+    "location": {
+      "city": "Mansfield",
+      "zip": "37907"
+    }
+  },
+  {
+    "rank": 21,
+    "prev_rank": 21,
+    "name": "Real Sociedad",
+    "league": "Spanish Primera Division",
+    "off": 1.87,
+    "def": 0.52,
+    "spi": 77.07,
+    "location": {
+      "city": "South Mossie",
+      "zip": "58419"
+    }
+  },
+  {
+    "rank": 22,
+    "prev_rank": 22,
+    "name": "Sporting CP",
+    "league": "Portuguese Liga",
+    "off": 2.07,
+    "def": 0.66,
+    "spi": 76.96,
+    "location": {
+      "city": "South Jeanettecester",
+      "zip": "80255-8246"
+    }
+  },
+  {
+    "rank": 23,
+    "prev_rank": 23,
+    "name": "FC Porto",
+    "league": "Portuguese Liga",
+    "off": 2.16,
+    "def": 0.72,
+    "spi": 76.86,
+    "location": {
+      "city": "Mount Prospect",
+      "zip": "24264"
+    }
+  },
+  {
+    "rank": 24,
+    "prev_rank": 24,
+    "name": "Chelsea",
+    "league": "Barclays Premier League",
+    "off": 2.04,
+    "def": 0.68,
+    "spi": 75.78,
+    "location": {
+      "city": "New Jaronworth",
+      "zip": "96623"
+    }
+  },
+  {
+    "rank": 25,
+    "prev_rank": 25,
+    "name": "Feyenoord",
+    "league": "Dutch Eredivisie",
+    "off": 2.28,
+    "def": 0.87,
+    "spi": 75.25,
+    "location": {
+      "city": "West Gerhardtown",
+      "zip": "57261"
+    }
+  },
+  {
+    "rank": 26,
+    "prev_rank": 26,
+    "name": "Lyon",
+    "league": "French Ligue 1",
+    "off": 2.28,
+    "def": 0.88,
+    "spi": 75.18,
+    "location": {
+      "city": "Sheldonton",
+      "zip": "93691"
+    }
+  },
+  {
+    "rank": 27,
+    "prev_rank": 27,
+    "name": "Stade Rennes",
+    "league": "French Ligue 1",
+    "off": 2.01,
+    "def": 0.69,
+    "spi": 75.14,
+    "location": {
+      "city": "Fort Dedrickhaven",
+      "zip": "21378-7981"
+    }
+  },
+  {
+    "rank": 28,
+    "prev_rank": 28,
+    "name": "Bayer Leverkusen",
+    "league": "German Bundesliga",
+    "off": 2.03,
+    "def": 0.72,
+    "spi": 74.88,
+    "location": {
+      "city": "Hyattport",
+      "zip": "21044"
+    }
+  },
+  {
+    "rank": 29,
+    "prev_rank": 29,
+    "name": "Athletic Bilbao",
+    "league": "Spanish Primera Division",
+    "off": 1.84,
+    "def": 0.59,
+    "spi": 74.78,
+    "location": {
+      "city": "North Zaneton",
+      "zip": "42576"
+    }
+  },
+  {
+    "rank": 30,
+    "prev_rank": 30,
+    "name": "Celtic",
+    "league": "Scottish Premiership",
+    "off": 2.53,
+    "def": 1.07,
+    "spi": 74.69,
+    "location": {
+      "city": "Port Emelieville",
+      "zip": "58233"
+    }
+  },
+  {
+    "rank": 31,
+    "prev_rank": 32,
+    "name": "Zenit St Petersburg",
+    "league": "Russian Premier Liga",
+    "off": 2.02,
+    "def": 0.73,
+    "spi": 74.38,
+    "location": {
+      "city": "Boise City",
+      "zip": "94350-7021"
+    }
+  },
+  {
+    "rank": 32,
+    "prev_rank": 31,
+    "name": "Fiorentina",
+    "league": "Italy Serie A",
+    "off": 2.07,
+    "def": 0.76,
+    "spi": 74.35,
+    "location": {
+      "city": "South Isaihaven",
+      "zip": "79807"
+    }
+  },
+  {
+    "rank": 33,
+    "prev_rank": 33,
+    "name": "FC Twente",
+    "league": "Dutch Eredivisie",
+    "off": 2.22,
+    "def": 0.88,
+    "spi": 74.18,
+    "location": {
+      "city": "Pagacside",
+      "zip": "35102"
+    }
+  },
+  {
+    "rank": 34,
+    "prev_rank": 34,
+    "name": "Marseille",
+    "league": "French Ligue 1",
+    "off": 2.05,
+    "def": 0.77,
+    "spi": 73.99,
+    "location": {
+      "city": "Zemlakbury",
+      "zip": "15692"
+    }
+  },
+  {
+    "rank": 35,
+    "prev_rank": 35,
+    "name": "PSV",
+    "league": "Dutch Eredivisie",
+    "off": 2.38,
+    "def": 1.02,
+    "spi": 73.51,
+    "location": {
+      "city": "Lessieborough",
+      "zip": "98492"
+    }
+  },
+  {
+    "rank": 36,
+    "prev_rank": 36,
+    "name": "Crystal Palace",
+    "league": "Barclays Premier League",
+    "off": 1.81,
+    "def": 0.62,
+    "spi": 73.46,
+    "location": {
+      "city": "East Meaganfurt",
+      "zip": "52511-4461"
+    }
+  },
+  {
+    "rank": 37,
+    "prev_rank": 37,
+    "name": "Villarreal",
+    "league": "Spanish Primera Division",
+    "off": 2.14,
+    "def": 0.86,
+    "spi": 73.35,
+    "location": {
+      "city": "Greenstead",
+      "zip": "57973"
+    }
+  },
+  {
+    "rank": 38,
+    "prev_rank": 38,
+    "name": "Lens",
+    "league": "French Ligue 1",
+    "off": 1.96,
+    "def": 0.73,
+    "spi": 73.34,
+    "location": {
+      "city": "Bruenland",
+      "zip": "57142"
+    }
+  },
+  {
+    "rank": 39,
+    "prev_rank": 39,
+    "name": "AC Milan",
+    "league": "Italy Serie A",
+    "off": 2.05,
+    "def": 0.8,
+    "spi": 73.33,
+    "location": {
+      "city": "North Imaborough",
+      "zip": "67736-9320"
+    }
+  },
+  {
+    "rank": 40,
+    "prev_rank": 40,
+    "name": "AS Roma",
+    "league": "Italy Serie A",
+    "off": 1.82,
+    "def": 0.65,
+    "spi": 73,
+    "location": {
+      "city": "West Delphine",
+      "zip": "86614-1155"
+    }
+  },
+  {
+    "rank": 41,
+    "prev_rank": 41,
+    "name": "FC Salzburg",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 2.06,
+    "def": 0.83,
+    "spi": 72.91,
+    "location": {
+      "city": "Bellevue",
+      "zip": "23765-9856"
+    }
+  },
+  {
+    "rank": 42,
+    "prev_rank": 42,
+    "name": "FC Cologne",
+    "league": "German Bundesliga",
+    "off": 2.03,
+    "def": 0.81,
+    "spi": 72.57,
+    "location": {
+      "city": "Hiltonburgh",
+      "zip": "05993"
+    }
+  },
+  {
+    "rank": 43,
+    "prev_rank": 43,
+    "name": "Tottenham Hotspur",
+    "league": "Barclays Premier League",
+    "off": 2.19,
+    "def": 0.95,
+    "spi": 72.14,
+    "location": {
+      "city": "Christopville",
+      "zip": "50085-1678"
+    }
+  },
+  {
+    "rank": 44,
+    "prev_rank": 44,
+    "name": "Rangers",
+    "league": "Scottish Premiership",
+    "off": 2.25,
+    "def": 1,
+    "spi": 71.98,
+    "location": {
+      "city": "Jesusborough",
+      "zip": "27166-7781"
+    }
+  },
+  {
+    "rank": 45,
+    "prev_rank": 45,
+    "name": "Eintracht Frankfurt",
+    "league": "German Bundesliga",
+    "off": 2.07,
+    "def": 0.88,
+    "spi": 71.61,
+    "location": {
+      "city": "Raquelchester",
+      "zip": "35696"
+    }
+  },
+  {
+    "rank": 46,
+    "prev_rank": 47,
+    "name": "West Ham United",
+    "league": "Barclays Premier League",
+    "off": 1.94,
+    "def": 0.81,
+    "spi": 71.12,
+    "location": {
+      "city": "Port Nora",
+      "zip": "38116-7241"
+    }
+  },
+  {
+    "rank": 47,
+    "prev_rank": 46,
+    "name": "Atalanta",
+    "league": "Italy Serie A",
+    "off": 2.1,
+    "def": 0.93,
+    "spi": 71.05,
+    "location": {
+      "city": "Mitchellside",
+      "zip": "78865-1021"
+    }
+  },
+  {
+    "rank": 48,
+    "prev_rank": 48,
+    "name": "VfL Wolfsburg",
+    "league": "German Bundesliga",
+    "off": 2.07,
+    "def": 0.92,
+    "spi": 70.86,
+    "location": {
+      "city": "Lake Violafield",
+      "zip": "18921-3286"
+    }
+  },
+  {
+    "rank": 49,
+    "prev_rank": 49,
+    "name": "Juventus",
+    "league": "Italy Serie A",
+    "off": 1.89,
+    "def": 0.81,
+    "spi": 70.36,
+    "location": {
+      "city": "Port Tressieside",
+      "zip": "20612"
+    }
+  },
+  {
+    "rank": 50,
+    "prev_rank": 50,
+    "name": "Torino",
+    "league": "Italy Serie A",
+    "off": 1.7,
+    "def": 0.66,
+    "spi": 70.34,
+    "location": {
+      "city": "South Clifford",
+      "zip": "99886"
+    }
+  },
+  {
+    "rank": 51,
+    "prev_rank": 51,
+    "name": "Sevilla FC",
+    "league": "Spanish Primera Division",
+    "off": 1.81,
+    "def": 0.77,
+    "spi": 69.76,
+    "location": {
+      "city": "Halvorsonland",
+      "zip": "53033-0319"
+    }
+  },
+  {
+    "rank": 52,
+    "prev_rank": 53,
+    "name": "Mainz",
+    "league": "German Bundesliga",
+    "off": 2.11,
+    "def": 1.02,
+    "spi": 69.33,
+    "location": {
+      "city": "Cristobalstead",
+      "zip": "60024-0023"
+    }
+  },
+  {
+    "rank": 53,
+    "prev_rank": 52,
+    "name": "Palmeiras",
+    "league": "Brasileiro Série A",
+    "off": 1.78,
+    "def": 0.78,
+    "spi": 69.02,
+    "location": {
+      "city": "Elkhart",
+      "zip": "79349"
+    }
+  },
+  {
+    "rank": 54,
+    "prev_rank": 55,
+    "name": "Valencia",
+    "league": "Spanish Primera Division",
+    "off": 1.73,
+    "def": 0.75,
+    "spi": 68.68,
+    "location": {
+      "city": "Quitzonside",
+      "zip": "53952"
+    }
+  },
+  {
+    "rank": 55,
+    "prev_rank": 56,
+    "name": "Lazio",
+    "league": "Italy Serie A",
+    "off": 1.77,
+    "def": 0.79,
+    "spi": 68.63,
+    "location": {
+      "city": "South Mablestead",
+      "zip": "69996"
+    }
+  },
+  {
+    "rank": 56,
+    "prev_rank": 57,
+    "name": "Fulham",
+    "league": "Barclays Premier League",
+    "off": 1.9,
+    "def": 0.9,
+    "spi": 68.22,
+    "location": {
+      "city": "Santee",
+      "zip": "02126-2321"
+    }
+  },
+  {
+    "rank": 57,
+    "prev_rank": 54,
+    "name": "Besiktas",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 2.14,
+    "def": 1.1,
+    "spi": 68.14,
+    "location": {
+      "city": "North Kaydenfield",
+      "zip": "35156"
+    }
+  },
+  {
+    "rank": 58,
+    "prev_rank": 58,
+    "name": "Celta Vigo",
+    "league": "Spanish Primera Division",
+    "off": 1.72,
+    "def": 0.77,
+    "spi": 68.08,
+    "location": {
+      "city": "Dejahport",
+      "zip": "49141"
+    }
+  },
+  {
+    "rank": 59,
+    "prev_rank": 59,
+    "name": "Nice",
+    "league": "French Ligue 1",
+    "off": 1.75,
+    "def": 0.8,
+    "spi": 67.86,
+    "location": {
+      "city": "Lake Mathilde",
+      "zip": "02482"
+    }
+  },
+  {
+    "rank": 60,
+    "prev_rank": 60,
+    "name": "VfB Stuttgart",
+    "league": "German Bundesliga",
+    "off": 1.96,
+    "def": 0.97,
+    "spi": 67.66,
+    "location": {
+      "city": "Baileyhaven",
+      "zip": "70794-5339"
+    }
+  },
+  {
+    "rank": 61,
+    "prev_rank": 61,
+    "name": "Borussia Monchengladbach",
+    "league": "German Bundesliga",
+    "off": 2.1,
+    "def": 1.09,
+    "spi": 67.64,
+    "location": {
+      "city": "West Elenorfurt",
+      "zip": "64615-3512"
+    }
+  },
+  {
+    "rank": 62,
+    "prev_rank": 64,
+    "name": "Galatasaray",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 2,
+    "def": 1.01,
+    "spi": 67.53,
+    "location": {
+      "city": "Parker",
+      "zip": "88380"
+    }
+  },
+  {
+    "rank": 63,
+    "prev_rank": 63,
+    "name": "AZ",
+    "league": "Dutch Eredivisie",
+    "off": 1.92,
+    "def": 0.96,
+    "spi": 67.2,
+    "location": {
+      "city": "Haleighcester",
+      "zip": "79450"
+    }
+  },
+  {
+    "rank": 64,
+    "prev_rank": 65,
+    "name": "Girona FC",
+    "league": "Spanish Primera Division",
+    "off": 1.93,
+    "def": 0.97,
+    "spi": 67.11,
+    "location": {
+      "city": "North Elijahville",
+      "zip": "06597"
+    }
+  },
+  {
+    "rank": 65,
+    "prev_rank": 66,
+    "name": "Real Betis",
+    "league": "Spanish Primera Division",
+    "off": 1.73,
+    "def": 0.82,
+    "spi": 66.95,
+    "location": {
+      "city": "New Brionna",
+      "zip": "20029"
+    }
+  },
+  {
+    "rank": 66,
+    "prev_rank": 67,
+    "name": "SC Freiburg",
+    "league": "German Bundesliga",
+    "off": 1.91,
+    "def": 0.99,
+    "spi": 66.38,
+    "location": {
+      "city": "Fort Libbie",
+      "zip": "15582"
+    }
+  },
+  {
+    "rank": 67,
+    "prev_rank": 62,
+    "name": "Flamengo",
+    "league": "Brasileiro Série A",
+    "off": 1.9,
+    "def": 0.99,
+    "spi": 66.27,
+    "location": {
+      "city": "Sigurdton",
+      "zip": "76960"
+    }
+  },
+  {
+    "rank": 68,
+    "prev_rank": 68,
+    "name": "Strasbourg",
+    "league": "French Ligue 1",
+    "off": 1.78,
+    "def": 0.89,
+    "spi": 66.23,
+    "location": {
+      "city": "Port Arthur",
+      "zip": "68449"
+    }
+  },
+  {
+    "rank": 69,
+    "prev_rank": 69,
+    "name": "1. FC Union Berlin",
+    "league": "German Bundesliga",
+    "off": 1.71,
+    "def": 0.84,
+    "spi": 65.99,
+    "location": {
+      "city": "South Mohamedburgh",
+      "zip": "40135"
+    }
+  },
+  {
+    "rank": 70,
+    "prev_rank": 70,
+    "name": "Osasuna",
+    "league": "Spanish Primera Division",
+    "off": 1.63,
+    "def": 0.8,
+    "spi": 65.37,
+    "location": {
+      "city": "Bransonville",
+      "zip": "13278"
+    }
+  },
+  {
+    "rank": 71,
+    "prev_rank": 71,
+    "name": "Young Boys",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 2.1,
+    "def": 1.21,
+    "spi": 64.89,
+    "location": {
+      "city": "Padbergworth",
+      "zip": "93170"
+    }
+  },
+  {
+    "rank": 72,
+    "prev_rank": 72,
+    "name": "Atletico Mineiro",
+    "league": "Brasileiro Série A",
+    "off": 1.54,
+    "def": 0.76,
+    "spi": 64.58,
+    "location": {
+      "city": "Lawsonstad",
+      "zip": "17161"
+    }
+  },
+  {
+    "rank": 73,
+    "prev_rank": 73,
+    "name": "Getafe",
+    "league": "Spanish Primera Division",
+    "off": 1.51,
+    "def": 0.73,
+    "spi": 64.58,
+    "location": {
+      "city": "Lake Goldenmouth",
+      "zip": "80036-0386"
+    }
+  },
+  {
+    "rank": 74,
+    "prev_rank": 74,
+    "name": "AS Monaco",
+    "league": "French Ligue 1",
+    "off": 1.95,
+    "def": 1.11,
+    "spi": 64.44,
+    "location": {
+      "city": "Aracelyshire",
+      "zip": "71371"
+    }
+  },
+  {
+    "rank": 75,
+    "prev_rank": 75,
+    "name": "Leicester City",
+    "league": "Barclays Premier League",
+    "off": 1.87,
+    "def": 1.04,
+    "spi": 64.42,
+    "location": {
+      "city": "Dickensberg",
+      "zip": "76945-5371"
+    }
+  },
+  {
+    "rank": 76,
+    "prev_rank": 76,
+    "name": "KAA Gent",
+    "league": "Belgian Jupiler League",
+    "off": 1.93,
+    "def": 1.1,
+    "spi": 64.08,
+    "location": {
+      "city": "Erdmanmouth",
+      "zip": "00866-4035"
+    }
+  },
+  {
+    "rank": 77,
+    "prev_rank": 77,
+    "name": "Reims",
+    "league": "French Ligue 1",
+    "off": 1.72,
+    "def": 0.94,
+    "spi": 63.87,
+    "location": {
+      "city": "North Janicecester",
+      "zip": "67505"
+    }
+  },
+  {
+    "rank": 78,
+    "prev_rank": 78,
+    "name": "Bologna",
+    "league": "Italy Serie A",
+    "off": 1.79,
+    "def": 1,
+    "spi": 63.79,
+    "location": {
+      "city": "Ratkeside",
+      "zip": "35789"
+    }
+  },
+  {
+    "rank": 79,
+    "prev_rank": 79,
+    "name": "Werder Bremen",
+    "league": "German Bundesliga",
+    "off": 1.93,
+    "def": 1.11,
+    "spi": 63.74,
+    "location": {
+      "city": "Kochville",
+      "zip": "93321"
+    }
+  },
+  {
+    "rank": 80,
+    "prev_rank": 82,
+    "name": "Fenerbahce",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 2.01,
+    "def": 1.19,
+    "spi": 63.68,
+    "location": {
+      "city": "Petaluma",
+      "zip": "81478-9548"
+    }
+  },
+  {
+    "rank": 81,
+    "prev_rank": 80,
+    "name": "Monterrey",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.58,
+    "def": 0.83,
+    "spi": 63.66,
+    "location": {
+      "city": "West Daphney",
+      "zip": "37953"
+    }
+  },
+  {
+    "rank": 82,
+    "prev_rank": 81,
+    "name": "Everton",
+    "league": "Barclays Premier League",
+    "off": 1.82,
+    "def": 1.03,
+    "spi": 63.63,
+    "location": {
+      "city": "Beahantown",
+      "zip": "14583-1930"
+    }
+  },
+  {
+    "rank": 83,
+    "prev_rank": 83,
+    "name": "TSG Hoffenheim",
+    "league": "German Bundesliga",
+    "off": 1.96,
+    "def": 1.17,
+    "spi": 63.26,
+    "location": {
+      "city": "Hilpertview",
+      "zip": "99230"
+    }
+  },
+  {
+    "rank": 84,
+    "prev_rank": 84,
+    "name": "Sassuolo",
+    "league": "Italy Serie A",
+    "off": 1.9,
+    "def": 1.12,
+    "spi": 63.11,
+    "location": {
+      "city": "Quigleyville",
+      "zip": "24498"
+    }
+  },
+  {
+    "rank": 85,
+    "prev_rank": 85,
+    "name": "Slavia Prague",
+    "league": "UEFA Europa Conference League",
+    "off": 1.83,
+    "def": 1.06,
+    "spi": 63.09,
+    "location": {
+      "city": "Morarboro",
+      "zip": "62042"
+    }
+  },
+  {
+    "rank": 86,
+    "prev_rank": 86,
+    "name": "Braga",
+    "league": "Portuguese Liga",
+    "off": 1.78,
+    "def": 1.02,
+    "spi": 62.98,
+    "location": {
+      "city": "Heidiboro",
+      "zip": "78553"
+    }
+  },
+  {
+    "rank": 87,
+    "prev_rank": 88,
+    "name": "Bodo/Glimt",
+    "league": "Norwegian Tippeligaen",
+    "off": 2.15,
+    "def": 1.34,
+    "spi": 62.97,
+    "location": {
+      "city": "East Ociemouth",
+      "zip": "57730"
+    }
+  },
+  {
+    "rank": 88,
+    "prev_rank": 87,
+    "name": "Burnley",
+    "league": "English League Championship",
+    "off": 1.53,
+    "def": 0.82,
+    "spi": 62.94,
+    "location": {
+      "city": "New Makaylaview",
+      "zip": "48185-2012"
+    }
+  },
+  {
+    "rank": 89,
+    "prev_rank": 89,
+    "name": "Rayo Vallecano",
+    "league": "Spanish Primera Division",
+    "off": 1.66,
+    "def": 0.93,
+    "spi": 62.63,
+    "location": {
+      "city": "Jacobsville",
+      "zip": "67692-0741"
+    }
+  },
+  {
+    "rank": 90,
+    "prev_rank": 90,
+    "name": "Olympiacos",
+    "league": "Greek Super League",
+    "off": 1.69,
+    "def": 0.98,
+    "spi": 62.25,
+    "location": {
+      "city": "Bogisichhaven",
+      "zip": "76597"
+    }
+  },
+  {
+    "rank": 91,
+    "prev_rank": 91,
+    "name": "Dinamo Zagreb",
+    "league": "UEFA Champions League",
+    "off": 1.8,
+    "def": 1.09,
+    "spi": 61.85,
+    "location": {
+      "city": "Bergnaumside",
+      "zip": "18031-8940"
+    }
+  },
+  {
+    "rank": 92,
+    "prev_rank": 92,
+    "name": "Genk",
+    "league": "Belgian Jupiler League",
+    "off": 2.07,
+    "def": 1.33,
+    "spi": 61.75,
+    "location": {
+      "city": "York",
+      "zip": "45574"
+    }
+  },
+  {
+    "rank": 93,
+    "prev_rank": 93,
+    "name": "Clermont Foot",
+    "league": "French Ligue 1",
+    "off": 1.61,
+    "def": 0.94,
+    "spi": 61.42,
+    "location": {
+      "city": "East Honolulu",
+      "zip": "19846-2549"
+    }
+  },
+  {
+    "rank": 94,
+    "prev_rank": 94,
+    "name": "AEK Athens",
+    "league": "Greek Super League",
+    "off": 1.59,
+    "def": 0.93,
+    "spi": 61.24,
+    "location": {
+      "city": "Port Dorian",
+      "zip": "82393-2163"
+    }
+  },
+  {
+    "rank": 95,
+    "prev_rank": 95,
+    "name": "Club Brugge",
+    "league": "Belgian Jupiler League",
+    "off": 1.85,
+    "def": 1.16,
+    "spi": 61.21,
+    "location": {
+      "city": "North Savanahberg",
+      "zip": "18770"
+    }
+  },
+  {
+    "rank": 96,
+    "prev_rank": 96,
+    "name": "Tigres UANL",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.55,
+    "def": 0.91,
+    "spi": 60.91,
+    "location": {
+      "city": "North Meredithhaven",
+      "zip": "98990"
+    }
+  },
+  {
+    "rank": 97,
+    "prev_rank": 97,
+    "name": "Club América",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.8,
+    "def": 1.14,
+    "spi": 60.62,
+    "location": {
+      "city": "O'Konburgh",
+      "zip": "32571-1565"
+    }
+  },
+  {
+    "rank": 98,
+    "prev_rank": 98,
+    "name": "Toulouse",
+    "league": "French Ligue 1",
+    "off": 1.64,
+    "def": 1.03,
+    "spi": 59.96,
+    "location": {
+      "city": "North Ramiro",
+      "zip": "92693-2211"
+    }
+  },
+  {
+    "rank": 99,
+    "prev_rank": 99,
+    "name": "Udinese",
+    "league": "Italy Serie A",
+    "off": 1.67,
+    "def": 1.06,
+    "spi": 59.92,
+    "location": {
+      "city": "North Etha",
+      "zip": "58912-3116"
+    }
+  },
+  {
+    "rank": 100,
+    "prev_rank": 100,
+    "name": "Lecce",
+    "league": "Italy Serie A",
+    "off": 1.46,
+    "def": 0.88,
+    "spi": 59.68,
+    "location": {
+      "city": "Lake Ethachester",
+      "zip": "91063-0723"
+    }
+  },
+  {
+    "rank": 101,
+    "prev_rank": 101,
+    "name": "Mallorca",
+    "league": "Spanish Primera Division",
+    "off": 1.51,
+    "def": 0.93,
+    "spi": 59.67,
+    "location": {
+      "city": "East Meghanboro",
+      "zip": "39448-0103"
+    }
+  },
+  {
+    "rank": 102,
+    "prev_rank": 102,
+    "name": "Antwerp",
+    "league": "Belgian Jupiler League",
+    "off": 1.55,
+    "def": 0.96,
+    "spi": 59.6,
+    "location": {
+      "city": "Cheektowaga",
+      "zip": "04613"
+    }
+  },
+  {
+    "rank": 103,
+    "prev_rank": 103,
+    "name": "AFC Bournemouth",
+    "league": "Barclays Premier League",
+    "off": 1.68,
+    "def": 1.08,
+    "spi": 59.58,
+    "location": {
+      "city": "Torreystead",
+      "zip": "02951-1303"
+    }
+  },
+  {
+    "rank": 104,
+    "prev_rank": 104,
+    "name": "Schalke 04",
+    "league": "German Bundesliga",
+    "off": 1.81,
+    "def": 1.2,
+    "spi": 59.46,
+    "location": {
+      "city": "North Maymieton",
+      "zip": "27975"
+    }
+  },
+  {
+    "rank": 105,
+    "prev_rank": 105,
+    "name": "CSKA Moscow",
+    "league": "Russian Premier Liga",
+    "off": 1.54,
+    "def": 0.96,
+    "spi": 59.4,
+    "location": {
+      "city": "South Lowell",
+      "zip": "92160-0127"
+    }
+  },
+  {
+    "rank": 106,
+    "prev_rank": 106,
+    "name": "Wolverhampton",
+    "league": "Barclays Premier League",
+    "off": 1.55,
+    "def": 0.99,
+    "spi": 59.06,
+    "location": {
+      "city": "New Kingcester",
+      "zip": "08880-4341"
+    }
+  },
+  {
+    "rank": 107,
+    "prev_rank": 107,
+    "name": "Leeds United",
+    "league": "Barclays Premier League",
+    "off": 1.84,
+    "def": 1.25,
+    "spi": 59,
+    "location": {
+      "city": "Cathrynberg",
+      "zip": "58447"
+    }
+  },
+  {
+    "rank": 108,
+    "prev_rank": 108,
+    "name": "SK Sturm Graz",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.71,
+    "def": 1.14,
+    "spi": 58.95,
+    "location": {
+      "city": "East Daphneetown",
+      "zip": "39153-2074"
+    }
+  },
+  {
+    "rank": 109,
+    "prev_rank": 112,
+    "name": "River Plate",
+    "league": "Argentina Primera Division",
+    "off": 1.61,
+    "def": 1.05,
+    "spi": 58.86,
+    "location": {
+      "city": "Steuberfield",
+      "zip": "11895-9868"
+    }
+  },
+  {
+    "rank": 110,
+    "prev_rank": 109,
+    "name": "Espanyol",
+    "league": "Spanish Primera Division",
+    "off": 1.86,
+    "def": 1.27,
+    "spi": 58.85,
+    "location": {
+      "city": "Kuhicton",
+      "zip": "07521-3135"
+    }
+  },
+  {
+    "rank": 111,
+    "prev_rank": 110,
+    "name": "Monza",
+    "league": "Italy Serie A",
+    "off": 1.69,
+    "def": 1.12,
+    "spi": 58.83,
+    "location": {
+      "city": "South Justenworth",
+      "zip": "58713"
+    }
+  },
+  {
+    "rank": 112,
+    "prev_rank": 111,
+    "name": "Vitesse",
+    "league": "Dutch Eredivisie",
+    "off": 1.65,
+    "def": 1.08,
+    "spi": 58.82,
+    "location": {
+      "city": "Padbergshire",
+      "zip": "28051-3134"
+    }
+  },
+  {
+    "rank": 113,
+    "prev_rank": 117,
+    "name": "São Paulo",
+    "league": "Brasileiro Série A",
+    "off": 1.53,
+    "def": 0.99,
+    "spi": 58.71,
+    "location": {
+      "city": "Vaughnland",
+      "zip": "93330"
+    }
+  },
+  {
+    "rank": 114,
+    "prev_rank": 113,
+    "name": "Montpellier",
+    "league": "French Ligue 1",
+    "off": 1.77,
+    "def": 1.21,
+    "spi": 58.56,
+    "location": {
+      "city": "New Cara",
+      "zip": "12432"
+    }
+  },
+  {
+    "rank": 115,
+    "prev_rank": 114,
+    "name": "Slovácko",
+    "league": "UEFA Europa Conference League",
+    "off": 1.77,
+    "def": 1.21,
+    "spi": 58.54,
+    "location": {
+      "city": "Breanneview",
+      "zip": "20080"
+    }
+  },
+  {
+    "rank": 116,
+    "prev_rank": 115,
+    "name": "Red Star Belgrade",
+    "league": "UEFA Europa League",
+    "off": 1.75,
+    "def": 1.19,
+    "spi": 58.52,
+    "location": {
+      "city": "Wunschfield",
+      "zip": "61208-2414"
+    }
+  },
+  {
+    "rank": 117,
+    "prev_rank": 116,
+    "name": "Cadiz",
+    "league": "Spanish Primera Division",
+    "off": 1.52,
+    "def": 0.99,
+    "spi": 58.27,
+    "location": {
+      "city": "Port Name",
+      "zip": "52703-0271"
+    }
+  },
+  {
+    "rank": 118,
+    "prev_rank": 120,
+    "name": "Adana Demirspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.89,
+    "def": 1.33,
+    "spi": 58.23,
+    "location": {
+      "city": "Chaseburgh",
+      "zip": "88973-3118"
+    }
+  },
+  {
+    "rank": 119,
+    "prev_rank": 118,
+    "name": "FC Copenhagen",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.75,
+    "def": 1.2,
+    "spi": 58.03,
+    "location": {
+      "city": "Faheybury",
+      "zip": "56436-9572"
+    }
+  },
+  {
+    "rank": 120,
+    "prev_rank": 119,
+    "name": "Union Saint Gilloise",
+    "league": "Belgian Jupiler League",
+    "off": 1.82,
+    "def": 1.28,
+    "spi": 57.96,
+    "location": {
+      "city": "Hampton",
+      "zip": "76782-9979"
+    }
+  },
+  {
+    "rank": 121,
+    "prev_rank": 131,
+    "name": "Botafogo",
+    "league": "Brasileiro Série A",
+    "off": 1.46,
+    "def": 0.95,
+    "spi": 57.95,
+    "location": {
+      "city": "Erdmanborough",
+      "zip": "72075-3965"
+    }
+  },
+  {
+    "rank": 122,
+    "prev_rank": 121,
+    "name": "FC Utrecht",
+    "league": "Dutch Eredivisie",
+    "off": 1.78,
+    "def": 1.25,
+    "spi": 57.74,
+    "location": {
+      "city": "New Hollyworth",
+      "zip": "88458-8439"
+    }
+  },
+  {
+    "rank": 123,
+    "prev_rank": 122,
+    "name": "Shakhtar Donetsk",
+    "league": "UEFA Europa League",
+    "off": 1.77,
+    "def": 1.24,
+    "spi": 57.61,
+    "location": {
+      "city": "Council Bluffs",
+      "zip": "42949"
+    }
+  },
+  {
+    "rank": 124,
+    "prev_rank": 123,
+    "name": "Elche",
+    "league": "Spanish Primera Division",
+    "off": 1.62,
+    "def": 1.11,
+    "spi": 57.52,
+    "location": {
+      "city": "Jermainshire",
+      "zip": "83902-3039"
+    }
+  },
+  {
+    "rank": 125,
+    "prev_rank": 124,
+    "name": "Almeria",
+    "league": "Spanish Primera Division",
+    "off": 1.69,
+    "def": 1.18,
+    "spi": 57.43,
+    "location": {
+      "city": "North Reina",
+      "zip": "82768"
+    }
+  },
+  {
+    "rank": 126,
+    "prev_rank": 126,
+    "name": "FC Augsburg",
+    "league": "German Bundesliga",
+    "off": 1.73,
+    "def": 1.22,
+    "spi": 57.19,
+    "location": {
+      "city": "Brownsville",
+      "zip": "16886"
+    }
+  },
+  {
+    "rank": 127,
+    "prev_rank": 127,
+    "name": "Southampton",
+    "league": "Barclays Premier League",
+    "off": 1.66,
+    "def": 1.18,
+    "spi": 56.74,
+    "location": {
+      "city": "Lake Alexandreview",
+      "zip": "24426-1684"
+    }
+  },
+  {
+    "rank": 128,
+    "prev_rank": 128,
+    "name": "Sheffield United",
+    "league": "English League Championship",
+    "off": 1.49,
+    "def": 1.03,
+    "spi": 56.57,
+    "location": {
+      "city": "Louveniastad",
+      "zip": "35047-0100"
+    }
+  },
+  {
+    "rank": 129,
+    "prev_rank": 129,
+    "name": "VfL Bochum",
+    "league": "German Bundesliga",
+    "off": 1.84,
+    "def": 1.37,
+    "spi": 56.31,
+    "location": {
+      "city": "Haltom City",
+      "zip": "33418"
+    }
+  },
+  {
+    "rank": 130,
+    "prev_rank": 125,
+    "name": "Fluminense",
+    "league": "Brasileiro Série A",
+    "off": 1.53,
+    "def": 1.08,
+    "spi": 56.29,
+    "location": {
+      "city": "Hahnfield",
+      "zip": "11077-0128"
+    }
+  },
+  {
+    "rank": 131,
+    "prev_rank": 132,
+    "name": "Nottingham Forest",
+    "league": "Barclays Premier League",
+    "off": 1.64,
+    "def": 1.19,
+    "spi": 56.13,
+    "location": {
+      "city": "Barrowsfurt",
+      "zip": "67405-8202"
+    }
+  },
+  {
+    "rank": 132,
+    "prev_rank": 133,
+    "name": "Sparta",
+    "league": "Dutch Eredivisie",
+    "off": 1.7,
+    "def": 1.25,
+    "spi": 56.11,
+    "location": {
+      "city": "Quincy",
+      "zip": "79473-9378"
+    }
+  },
+  {
+    "rank": 133,
+    "prev_rank": 134,
+    "name": "Middlesbrough",
+    "league": "English League Championship",
+    "off": 1.6,
+    "def": 1.17,
+    "spi": 55.77,
+    "location": {
+      "city": "Kingview",
+      "zip": "13562"
+    }
+  },
+  {
+    "rank": 134,
+    "prev_rank": 135,
+    "name": "Brest",
+    "league": "French Ligue 1",
+    "off": 1.49,
+    "def": 1.06,
+    "spi": 55.76,
+    "location": {
+      "city": "Larontown",
+      "zip": "07266"
+    }
+  },
+  {
+    "rank": 135,
+    "prev_rank": 138,
+    "name": "FC Midtjylland",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.67,
+    "def": 1.24,
+    "spi": 55.61,
+    "location": {
+      "city": "South Grantworth",
+      "zip": "63720"
+    }
+  },
+  {
+    "rank": 136,
+    "prev_rank": 136,
+    "name": "Luton Town",
+    "league": "English League Championship",
+    "off": 1.35,
+    "def": 0.94,
+    "spi": 55.48,
+    "location": {
+      "city": "Fridachester",
+      "zip": "85415-6447"
+    }
+  },
+  {
+    "rank": 137,
+    "prev_rank": 137,
+    "name": "Pachuca",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.59,
+    "def": 1.17,
+    "spi": 55.43,
+    "location": {
+      "city": "Nikolausberg",
+      "zip": "21571"
+    }
+  },
+  {
+    "rank": 138,
+    "prev_rank": 139,
+    "name": "Viktoria Plzen",
+    "league": "UEFA Champions League",
+    "off": 1.82,
+    "def": 1.41,
+    "spi": 54.85,
+    "location": {
+      "city": "West Estelle",
+      "zip": "66421"
+    }
+  },
+  {
+    "rank": 139,
+    "prev_rank": 141,
+    "name": "FC Krasnodar",
+    "league": "Russian Premier Liga",
+    "off": 1.7,
+    "def": 1.31,
+    "spi": 54.61,
+    "location": {
+      "city": "Ornville",
+      "zip": "45272"
+    }
+  },
+  {
+    "rank": 140,
+    "prev_rank": 142,
+    "name": "Ferencvaros",
+    "league": "UEFA Europa League",
+    "off": 1.61,
+    "def": 1.22,
+    "spi": 54.55,
+    "location": {
+      "city": "Valentineworth",
+      "zip": "96203"
+    }
+  },
+  {
+    "rank": 141,
+    "prev_rank": 143,
+    "name": "Internacional",
+    "league": "Brasileiro Série A",
+    "off": 1.38,
+    "def": 1.02,
+    "spi": 54.2,
+    "location": {
+      "city": "West Lorenz",
+      "zip": "37632"
+    }
+  },
+  {
+    "rank": 142,
+    "prev_rank": 144,
+    "name": "Lokomotiv Moscow",
+    "league": "Russian Premier Liga",
+    "off": 1.62,
+    "def": 1.26,
+    "spi": 54.07,
+    "location": {
+      "city": "Port Deron",
+      "zip": "20688-9350"
+    }
+  },
+  {
+    "rank": 143,
+    "prev_rank": 145,
+    "name": "Trabzonspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.8,
+    "def": 1.44,
+    "spi": 53.94,
+    "location": {
+      "city": "Artberg",
+      "zip": "68009"
+    }
+  },
+  {
+    "rank": 144,
+    "prev_rank": 146,
+    "name": "Real Valladolid",
+    "league": "Spanish Primera Division",
+    "off": 1.55,
+    "def": 1.2,
+    "spi": 53.94,
+    "location": {
+      "city": "Tianafurt",
+      "zip": "20722"
+    }
+  },
+  {
+    "rank": 145,
+    "prev_rank": 147,
+    "name": "Hertha Berlin",
+    "league": "German Bundesliga",
+    "off": 1.71,
+    "def": 1.36,
+    "spi": 53.89,
+    "location": {
+      "city": "Miramar",
+      "zip": "24929"
+    }
+  },
+  {
+    "rank": 146,
+    "prev_rank": 152,
+    "name": "Philadelphia Union",
+    "league": "Major League Soccer",
+    "off": 1.64,
+    "def": 1.29,
+    "spi": 53.79,
+    "location": {
+      "city": "Schmidtside",
+      "zip": "80785"
+    }
+  },
+  {
+    "rank": 147,
+    "prev_rank": 148,
+    "name": "Lorient",
+    "league": "French Ligue 1",
+    "off": 1.46,
+    "def": 1.12,
+    "spi": 53.66,
+    "location": {
+      "city": "Lake Abelardoland",
+      "zip": "68198-5015"
+    }
+  },
+  {
+    "rank": 148,
+    "prev_rank": 151,
+    "name": "Bragantino",
+    "league": "Brasileiro Série A",
+    "off": 1.48,
+    "def": 1.15,
+    "spi": 53.58,
+    "location": {
+      "city": "Port Myrlcester",
+      "zip": "15262"
+    }
+  },
+  {
+    "rank": 149,
+    "prev_rank": 150,
+    "name": "Empoli",
+    "league": "Italy Serie A",
+    "off": 1.57,
+    "def": 1.25,
+    "spi": 53.35,
+    "location": {
+      "city": "Ressiemouth",
+      "zip": "92453-2059"
+    }
+  },
+  {
+    "rank": 150,
+    "prev_rank": 130,
+    "name": "Los Angeles FC",
+    "league": "Major League Soccer",
+    "off": 1.6,
+    "def": 1.28,
+    "spi": 53.23,
+    "location": {
+      "city": "Marlenechester",
+      "zip": "03871"
+    }
+  },
+  {
+    "rank": 151,
+    "prev_rank": 153,
+    "name": "Spartak Moscow",
+    "league": "Russian Premier Liga",
+    "off": 1.58,
+    "def": 1.26,
+    "spi": 53.19,
+    "location": {
+      "city": "Pamelafield",
+      "zip": "36048-3216"
+    }
+  },
+  {
+    "rank": 152,
+    "prev_rank": 154,
+    "name": "Dynamo Kiev",
+    "league": "UEFA Europa League",
+    "off": 1.51,
+    "def": 1.19,
+    "spi": 53.06,
+    "location": {
+      "city": "West Jolie",
+      "zip": "78410"
+    }
+  },
+  {
+    "rank": 153,
+    "prev_rank": 140,
+    "name": "Fortaleza",
+    "league": "Brasileiro Série A",
+    "off": 1.3,
+    "def": 1,
+    "spi": 53.06,
+    "location": {
+      "city": "South Alverta",
+      "zip": "10081"
+    }
+  },
+  {
+    "rank": 154,
+    "prev_rank": 156,
+    "name": "Ipswich Town",
+    "league": "English League One",
+    "off": 1.62,
+    "def": 1.31,
+    "spi": 52.93,
+    "location": {
+      "city": "North Daphney",
+      "zip": "90073-3366"
+    }
+  },
+  {
+    "rank": 155,
+    "prev_rank": 157,
+    "name": "Guimaraes",
+    "league": "Portuguese Liga",
+    "off": 1.26,
+    "def": 0.96,
+    "spi": 52.69,
+    "location": {
+      "city": "West Sonnyshire",
+      "zip": "22238-5460"
+    }
+  },
+  {
+    "rank": 156,
+    "prev_rank": 159,
+    "name": "Istanbul Basaksehir",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.39,
+    "def": 1.1,
+    "spi": 52.49,
+    "location": {
+      "city": "Port Maverickland",
+      "zip": "35899"
+    }
+  },
+  {
+    "rank": 157,
+    "prev_rank": 149,
+    "name": "Molde",
+    "league": "Norwegian Tippeligaen",
+    "off": 1.83,
+    "def": 1.54,
+    "spi": 52.41,
+    "location": {
+      "city": "East Abdullahcester",
+      "zip": "94614-2039"
+    }
+  },
+  {
+    "rank": 158,
+    "prev_rank": 160,
+    "name": "Anderlecht",
+    "league": "Belgian Jupiler League",
+    "off": 1.46,
+    "def": 1.18,
+    "spi": 52.32,
+    "location": {
+      "city": "Fort Albaview",
+      "zip": "02090"
+    }
+  },
+  {
+    "rank": 159,
+    "prev_rank": 161,
+    "name": "León",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.35,
+    "def": 1.07,
+    "spi": 52.16,
+    "location": {
+      "city": "North Alanville",
+      "zip": "33238"
+    }
+  },
+  {
+    "rank": 160,
+    "prev_rank": 155,
+    "name": "Atlético Paranaense",
+    "league": "Brasileiro Série A",
+    "off": 1.38,
+    "def": 1.11,
+    "spi": 52.13,
+    "location": {
+      "city": "North Kylafort",
+      "zip": "71588"
+    }
+  },
+  {
+    "rank": 161,
+    "prev_rank": 162,
+    "name": "SC Dnipro-1",
+    "league": "UEFA Europa Conference League",
+    "off": 1.55,
+    "def": 1.28,
+    "spi": 52.11,
+    "location": {
+      "city": "Fort Clint",
+      "zip": "23144-0411"
+    }
+  },
+  {
+    "rank": 162,
+    "prev_rank": 163,
+    "name": "Atlas",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.41,
+    "def": 1.14,
+    "spi": 52.07,
+    "location": {
+      "city": "League City",
+      "zip": "04403"
+    }
+  },
+  {
+    "rank": 163,
+    "prev_rank": 164,
+    "name": "Lech Poznan",
+    "league": "UEFA Europa Conference League",
+    "off": 1.42,
+    "def": 1.15,
+    "spi": 52.07,
+    "location": {
+      "city": "Burniceborough",
+      "zip": "81407"
+    }
+  },
+  {
+    "rank": 164,
+    "prev_rank": 165,
+    "name": "Swansea City",
+    "league": "English League Championship",
+    "off": 1.5,
+    "def": 1.23,
+    "spi": 51.93,
+    "location": {
+      "city": "Jeffersonville",
+      "zip": "15099"
+    }
+  },
+  {
+    "rank": 165,
+    "prev_rank": 193,
+    "name": "FK Austria Vienna",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.73,
+    "def": 1.46,
+    "spi": 51.89,
+    "location": {
+      "city": "Fort Walker",
+      "zip": "19872"
+    }
+  },
+  {
+    "rank": 166,
+    "prev_rank": 166,
+    "name": "Steaua Bucuresti",
+    "league": "UEFA Europa Conference League",
+    "off": 1.5,
+    "def": 1.24,
+    "spi": 51.89,
+    "location": {
+      "city": "Alexandriaton",
+      "zip": "56920"
+    }
+  },
+  {
+    "rank": 167,
+    "prev_rank": 167,
+    "name": "Fatih Karagümrük",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.82,
+    "def": 1.56,
+    "spi": 51.83,
+    "location": {
+      "city": "Mrazchester",
+      "zip": "74126-4662"
+    }
+  },
+  {
+    "rank": 168,
+    "prev_rank": 168,
+    "name": "Terek Grozny",
+    "league": "Russian Premier Liga",
+    "off": 1.46,
+    "def": 1.2,
+    "spi": 51.8,
+    "location": {
+      "city": "East Enaside",
+      "zip": "39722"
+    }
+  },
+  {
+    "rank": 169,
+    "prev_rank": 169,
+    "name": "Go Ahead Eagles",
+    "league": "Dutch Eredivisie",
+    "off": 1.65,
+    "def": 1.39,
+    "spi": 51.79,
+    "location": {
+      "city": "Bashirianhaven",
+      "zip": "58181"
+    }
+  },
+  {
+    "rank": 170,
+    "prev_rank": 158,
+    "name": "Yokohama F. Marinos",
+    "league": "Japanese J League",
+    "off": 1.75,
+    "def": 1.49,
+    "spi": 51.65,
+    "location": {
+      "city": "East Savannahshire",
+      "zip": "82785"
+    }
+  },
+  {
+    "rank": 171,
+    "prev_rank": 172,
+    "name": "Cercle Brugge",
+    "league": "Belgian Jupiler League",
+    "off": 1.62,
+    "def": 1.38,
+    "spi": 51.43,
+    "location": {
+      "city": "West Mekhi",
+      "zip": "21860"
+    }
+  },
+  {
+    "rank": 172,
+    "prev_rank": 173,
+    "name": "FC Sheriff Tiraspol",
+    "league": "UEFA Europa League",
+    "off": 1.51,
+    "def": 1.27,
+    "spi": 51.36,
+    "location": {
+      "city": "Monahanview",
+      "zip": "10523-5205"
+    }
+  },
+  {
+    "rank": 173,
+    "prev_rank": 174,
+    "name": "FK Partizan Belgrade",
+    "league": "UEFA Europa Conference League",
+    "off": 1.41,
+    "def": 1.17,
+    "spi": 51.22,
+    "location": {
+      "city": "Fort Carleefield",
+      "zip": "34705"
+    }
+  },
+  {
+    "rank": 174,
+    "prev_rank": 175,
+    "name": "Nantes",
+    "league": "French Ligue 1",
+    "off": 1.35,
+    "def": 1.11,
+    "spi": 51.13,
+    "location": {
+      "city": "South Perryborough",
+      "zip": "97389"
+    }
+  },
+  {
+    "rank": 175,
+    "prev_rank": 176,
+    "name": "LASK Linz",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.53,
+    "def": 1.3,
+    "spi": 51.11,
+    "location": {
+      "city": "Chesleyborough",
+      "zip": "71972"
+    }
+  },
+  {
+    "rank": 176,
+    "prev_rank": 177,
+    "name": "Vasco da Gama",
+    "league": "Brasileiro Série A",
+    "off": 1.44,
+    "def": 1.21,
+    "spi": 51.02,
+    "location": {
+      "city": "Shanahanside",
+      "zip": "63624-5622"
+    }
+  },
+  {
+    "rank": 177,
+    "prev_rank": 170,
+    "name": "Corinthians",
+    "league": "Brasileiro Série A",
+    "off": 1.23,
+    "def": 1,
+    "spi": 51.01,
+    "location": {
+      "city": "Novi",
+      "zip": "94892"
+    }
+  },
+  {
+    "rank": 178,
+    "prev_rank": 178,
+    "name": "Coventry City",
+    "league": "English League Championship",
+    "off": 1.28,
+    "def": 1.06,
+    "spi": 51,
+    "location": {
+      "city": "Otiliaworth",
+      "zip": "25628-2854"
+    }
+  },
+  {
+    "rank": 179,
+    "prev_rank": 180,
+    "name": "PAOK Salonika",
+    "league": "Greek Super League",
+    "off": 1.4,
+    "def": 1.18,
+    "spi": 50.89,
+    "location": {
+      "city": "Caldwell",
+      "zip": "43323"
+    }
+  },
+  {
+    "rank": 180,
+    "prev_rank": 181,
+    "name": "Guadalajara",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.35,
+    "def": 1.13,
+    "spi": 50.82,
+    "location": {
+      "city": "Russelburgh",
+      "zip": "42450"
+    }
+  },
+  {
+    "rank": 181,
+    "prev_rank": 179,
+    "name": "Santos",
+    "league": "Brasileiro Série A",
+    "off": 1.26,
+    "def": 1.04,
+    "spi": 50.66,
+    "location": {
+      "city": "South Bernhardfort",
+      "zip": "16034-7096"
+    }
+  },
+  {
+    "rank": 182,
+    "prev_rank": 183,
+    "name": "Famalicao",
+    "league": "Portuguese Liga",
+    "off": 1.44,
+    "def": 1.24,
+    "spi": 50.35,
+    "location": {
+      "city": "East Rebekashire",
+      "zip": "51331"
+    }
+  },
+  {
+    "rank": 183,
+    "prev_rank": 184,
+    "name": "Verona",
+    "league": "Italy Serie A",
+    "off": 1.37,
+    "def": 1.18,
+    "spi": 50.3,
+    "location": {
+      "city": "Emardhaven",
+      "zip": "25891-2696"
+    }
+  },
+  {
+    "rank": 184,
+    "prev_rank": 185,
+    "name": "Cruz Azul",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.32,
+    "def": 1.13,
+    "spi": 50.21,
+    "location": {
+      "city": "Port Wyman",
+      "zip": "24774"
+    }
+  },
+  {
+    "rank": 185,
+    "prev_rank": 171,
+    "name": "Vissel Kobe",
+    "league": "Japanese J League",
+    "off": 1.48,
+    "def": 1.3,
+    "spi": 50.05,
+    "location": {
+      "city": "Carmichael",
+      "zip": "68320"
+    }
+  },
+  {
+    "rank": 186,
+    "prev_rank": 204,
+    "name": "Konyaspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.42,
+    "def": 1.24,
+    "spi": 49.87,
+    "location": {
+      "city": "Fremont",
+      "zip": "93334-5012"
+    }
+  },
+  {
+    "rank": 187,
+    "prev_rank": 186,
+    "name": "Metz",
+    "league": "French Ligue 2",
+    "off": 1.32,
+    "def": 1.15,
+    "spi": 49.87,
+    "location": {
+      "city": "South Rossiefurt",
+      "zip": "28301"
+    }
+  },
+  {
+    "rank": 188,
+    "prev_rank": 187,
+    "name": "Boavista",
+    "league": "Portuguese Liga",
+    "off": 1.39,
+    "def": 1.22,
+    "spi": 49.86,
+    "location": {
+      "city": "Hillscester",
+      "zip": "01054"
+    }
+  },
+  {
+    "rank": 189,
+    "prev_rank": 188,
+    "name": "Frosinone",
+    "league": "Italy Serie B",
+    "off": 1.37,
+    "def": 1.19,
+    "spi": 49.84,
+    "location": {
+      "city": "Lednerbury",
+      "zip": "51708"
+    }
+  },
+  {
+    "rank": 190,
+    "prev_rank": 189,
+    "name": "Heerenveen",
+    "league": "Dutch Eredivisie",
+    "off": 1.66,
+    "def": 1.49,
+    "spi": 49.81,
+    "location": {
+      "city": "Andreton",
+      "zip": "14769"
+    }
+  },
+  {
+    "rank": 191,
+    "prev_rank": 197,
+    "name": "Cruzeiro",
+    "league": "Brasileiro Série A",
+    "off": 1.36,
+    "def": 1.19,
+    "spi": 49.66,
+    "location": {
+      "city": "Taylor",
+      "zip": "14771"
+    }
+  },
+  {
+    "rank": 192,
+    "prev_rank": 182,
+    "name": "Talleres de Córdoba",
+    "league": "Argentina Primera Division",
+    "off": 1.34,
+    "def": 1.17,
+    "spi": 49.59,
+    "location": {
+      "city": "Port Shane",
+      "zip": "71232-9783"
+    }
+  },
+  {
+    "rank": 193,
+    "prev_rank": 205,
+    "name": "Argentinos Juniors",
+    "league": "Argentina Primera Division",
+    "off": 1.27,
+    "def": 1.11,
+    "spi": 49.42,
+    "location": {
+      "city": "South Oren",
+      "zip": "30604-3501"
+    }
+  },
+  {
+    "rank": 194,
+    "prev_rank": 190,
+    "name": "FK Qarabag",
+    "league": "UEFA Europa League",
+    "off": 1.41,
+    "def": 1.25,
+    "spi": 49.41,
+    "location": {
+      "city": "Port Luciousberg",
+      "zip": "05556-9640"
+    }
+  },
+  {
+    "rank": 195,
+    "prev_rank": 191,
+    "name": "Maccabi Haifa",
+    "league": "UEFA Champions League",
+    "off": 1.69,
+    "def": 1.54,
+    "spi": 49.35,
+    "location": {
+      "city": "West Kellieborough",
+      "zip": "08224"
+    }
+  },
+  {
+    "rank": 196,
+    "prev_rank": 195,
+    "name": "Malmo FF",
+    "league": "Swedish Allsvenskan",
+    "off": 1.59,
+    "def": 1.44,
+    "spi": 49.28,
+    "location": {
+      "city": "Bakersfield",
+      "zip": "55173-0662"
+    }
+  },
+  {
+    "rank": 197,
+    "prev_rank": 192,
+    "name": "Hapoel Be'er",
+    "league": "UEFA Europa Conference League",
+    "off": 1.49,
+    "def": 1.34,
+    "spi": 49.22,
+    "location": {
+      "city": "Port Aglae",
+      "zip": "04422"
+    }
+  },
+  {
+    "rank": 198,
+    "prev_rank": 214,
+    "name": "BK Hacken",
+    "league": "Swedish Allsvenskan",
+    "off": 1.77,
+    "def": 1.64,
+    "spi": 49.06,
+    "location": {
+      "city": "VonRuedenville",
+      "zip": "46757"
+    }
+  },
+  {
+    "rank": 199,
+    "prev_rank": 194,
+    "name": "Spezia",
+    "league": "Italy Serie A",
+    "off": 1.45,
+    "def": 1.32,
+    "spi": 48.74,
+    "location": {
+      "city": "Rochester Hills",
+      "zip": "91338-2910"
+    }
+  },
+  {
+    "rank": 200,
+    "prev_rank": 196,
+    "name": "NEC",
+    "league": "Dutch Eredivisie",
+    "off": 1.54,
+    "def": 1.41,
+    "spi": 48.69,
+    "location": {
+      "city": "Asheville",
+      "zip": "49600"
+    }
+  },
+  {
+    "rank": 201,
+    "prev_rank": 198,
+    "name": "Toluca",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.56,
+    "def": 1.44,
+    "spi": 48.62,
+    "location": {
+      "city": "Lake Akeemville",
+      "zip": "66234"
+    }
+  },
+  {
+    "rank": 202,
+    "prev_rank": 199,
+    "name": "Salernitana",
+    "league": "Italy Serie A",
+    "off": 1.48,
+    "def": 1.36,
+    "spi": 48.6,
+    "location": {
+      "city": "West Cedrickland",
+      "zip": "16903-8033"
+    }
+  },
+  {
+    "rank": 203,
+    "prev_rank": 200,
+    "name": "West Bromwich Albion",
+    "league": "English League Championship",
+    "off": 1.37,
+    "def": 1.25,
+    "spi": 48.56,
+    "location": {
+      "city": "Aufderharcester",
+      "zip": "53137"
+    }
+  },
+  {
+    "rank": 204,
+    "prev_rank": 201,
+    "name": "Gil Vicente",
+    "league": "Portuguese Liga",
+    "off": 1.36,
+    "def": 1.24,
+    "spi": 48.55,
+    "location": {
+      "city": "Oakland",
+      "zip": "92363-1448"
+    }
+  },
+  {
+    "rank": 205,
+    "prev_rank": 202,
+    "name": "Rapid Vienna",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.58,
+    "def": 1.47,
+    "spi": 48.53,
+    "location": {
+      "city": "Cronahaven",
+      "zip": "70899-2672"
+    }
+  },
+  {
+    "rank": 206,
+    "prev_rank": 203,
+    "name": "Chaves",
+    "league": "Portuguese Liga",
+    "off": 1.4,
+    "def": 1.29,
+    "spi": 48.45,
+    "location": {
+      "city": "East Stefanie",
+      "zip": "28518"
+    }
+  },
+  {
+    "rank": 207,
+    "prev_rank": 206,
+    "name": "Auxerre",
+    "league": "French Ligue 1",
+    "off": 1.33,
+    "def": 1.21,
+    "spi": 48.38,
+    "location": {
+      "city": "Daishastad",
+      "zip": "42717"
+    }
+  },
+  {
+    "rank": 208,
+    "prev_rank": 209,
+    "name": "Cagliari",
+    "league": "Italy Serie B",
+    "off": 1.22,
+    "def": 1.11,
+    "spi": 48.18,
+    "location": {
+      "city": "Binsview",
+      "zip": "74682-1282"
+    }
+  },
+  {
+    "rank": 209,
+    "prev_rank": 212,
+    "name": "FC Cincinnati",
+    "league": "Major League Soccer",
+    "off": 1.49,
+    "def": 1.4,
+    "spi": 48.12,
+    "location": {
+      "city": "East Rooseveltberg",
+      "zip": "25481"
+    }
+  },
+  {
+    "rank": 210,
+    "prev_rank": 207,
+    "name": "Vizela",
+    "league": "Portuguese Liga",
+    "off": 1.23,
+    "def": 1.12,
+    "spi": 48.07,
+    "location": {
+      "city": "Little Rock",
+      "zip": "70347"
+    }
+  },
+  {
+    "rank": 211,
+    "prev_rank": 210,
+    "name": "Santos Laguna",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.43,
+    "def": 1.35,
+    "spi": 47.86,
+    "location": {
+      "city": "West Corineton",
+      "zip": "40023-8426"
+    }
+  },
+  {
+    "rank": 212,
+    "prev_rank": 211,
+    "name": "Stoke City",
+    "league": "English League Championship",
+    "off": 1.25,
+    "def": 1.15,
+    "spi": 47.79,
+    "location": {
+      "city": "Vandervortborough",
+      "zip": "36452-5265"
+    }
+  },
+  {
+    "rank": 213,
+    "prev_rank": 213,
+    "name": "AGF Aarhus",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.28,
+    "def": 1.19,
+    "spi": 47.76,
+    "location": {
+      "city": "Schoenton",
+      "zip": "39296-9751"
+    }
+  },
+  {
+    "rank": 214,
+    "prev_rank": 215,
+    "name": "Cremonese",
+    "league": "Italy Serie A",
+    "off": 1.47,
+    "def": 1.4,
+    "spi": 47.61,
+    "location": {
+      "city": "South Margot",
+      "zip": "79258-2509"
+    }
+  },
+  {
+    "rank": 215,
+    "prev_rank": 216,
+    "name": "FC Arouca",
+    "league": "Portuguese Liga",
+    "off": 1.18,
+    "def": 1.09,
+    "spi": 47.57,
+    "location": {
+      "city": "Maximotown",
+      "zip": "04655-9523"
+    }
+  },
+  {
+    "rank": 216,
+    "prev_rank": 217,
+    "name": "Gazovik Orenburg",
+    "league": "Russian Premier Liga",
+    "off": 1.55,
+    "def": 1.48,
+    "spi": 47.55,
+    "location": {
+      "city": "East Sandrine",
+      "zip": "68455-7391"
+    }
+  },
+  {
+    "rank": 217,
+    "prev_rank": 218,
+    "name": "Boca Juniors",
+    "league": "Argentina Primera Division",
+    "off": 1.13,
+    "def": 1.03,
+    "spi": 47.55,
+    "location": {
+      "city": "Yundtside",
+      "zip": "64683-9034"
+    }
+  },
+  {
+    "rank": 218,
+    "prev_rank": 208,
+    "name": "Atlanta United FC",
+    "league": "Major League Soccer",
+    "off": 1.56,
+    "def": 1.5,
+    "spi": 47.5,
+    "location": {
+      "city": "Lake Aaronborough",
+      "zip": "53383"
+    }
+  },
+  {
+    "rank": 219,
+    "prev_rank": 219,
+    "name": "Panathinaikos",
+    "league": "Greek Super League",
+    "off": 0.97,
+    "def": 0.87,
+    "spi": 47.49,
+    "location": {
+      "city": "Saginaw",
+      "zip": "30811"
+    }
+  },
+  {
+    "rank": 220,
+    "prev_rank": 220,
+    "name": "Millwall",
+    "league": "English League Championship",
+    "off": 1.33,
+    "def": 1.25,
+    "spi": 47.41,
+    "location": {
+      "city": "New Emmitt",
+      "zip": "11753"
+    }
+  },
+  {
+    "rank": 221,
+    "prev_rank": 221,
+    "name": "Genoa",
+    "league": "Italy Serie B",
+    "off": 1.24,
+    "def": 1.16,
+    "spi": 47.31,
+    "location": {
+      "city": "Lake Elsinore",
+      "zip": "14671-2078"
+    }
+  },
+  {
+    "rank": 222,
+    "prev_rank": 222,
+    "name": "Aris Salonika",
+    "league": "Greek Super League",
+    "off": 1.4,
+    "def": 1.34,
+    "spi": 47.22,
+    "location": {
+      "city": "West Sunnychester",
+      "zip": "97086-1200"
+    }
+  },
+  {
+    "rank": 223,
+    "prev_rank": 234,
+    "name": "Grêmio",
+    "league": "Brasileiro Série A",
+    "off": 1.41,
+    "def": 1.35,
+    "spi": 47.17,
+    "location": {
+      "city": "Montanabury",
+      "zip": "19021"
+    }
+  },
+  {
+    "rank": 224,
+    "prev_rank": 223,
+    "name": "Angers",
+    "league": "French Ligue 1",
+    "off": 1.33,
+    "def": 1.27,
+    "spi": 47.09,
+    "location": {
+      "city": "Kulasland",
+      "zip": "28660-5624"
+    }
+  },
+  {
+    "rank": 225,
+    "prev_rank": 224,
+    "name": "Estudiantes",
+    "league": "Argentina Primera Division",
+    "off": 1.18,
+    "def": 1.12,
+    "spi": 46.97,
+    "location": {
+      "city": "Pearlieland",
+      "zip": "97668-8396"
+    }
+  },
+  {
+    "rank": 226,
+    "prev_rank": 226,
+    "name": "Dinamo Moscow",
+    "league": "Russian Premier Liga",
+    "off": 1.43,
+    "def": 1.4,
+    "spi": 46.57,
+    "location": {
+      "city": "Lake Lorenzo",
+      "zip": "70491-7103"
+    }
+  },
+  {
+    "rank": 227,
+    "prev_rank": 225,
+    "name": "Nashville SC",
+    "league": "Major League Soccer",
+    "off": 1.3,
+    "def": 1.27,
+    "spi": 46.5,
+    "location": {
+      "city": "South Williston",
+      "zip": "98455"
+    }
+  },
+  {
+    "rank": 228,
+    "prev_rank": 229,
+    "name": "St Gallen",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 1.67,
+    "def": 1.67,
+    "spi": 46.32,
+    "location": {
+      "city": "North Roxanne",
+      "zip": "33175-0972"
+    }
+  },
+  {
+    "rank": 229,
+    "prev_rank": 230,
+    "name": "Casa Pia",
+    "league": "Portuguese Liga",
+    "off": 1.24,
+    "def": 1.2,
+    "spi": 46.29,
+    "location": {
+      "city": "Rosamondland",
+      "zip": "08617"
+    }
+  },
+  {
+    "rank": 230,
+    "prev_rank": 231,
+    "name": "St Etienne",
+    "league": "French Ligue 2",
+    "off": 1.54,
+    "def": 1.53,
+    "spi": 46.14,
+    "location": {
+      "city": "Evalynborough",
+      "zip": "48470"
+    }
+  },
+  {
+    "rank": 231,
+    "prev_rank": 232,
+    "name": "Rio Ave",
+    "league": "Portuguese Liga",
+    "off": 1.25,
+    "def": 1.22,
+    "spi": 46.14,
+    "location": {
+      "city": "Lake Louisa",
+      "zip": "82785-4688"
+    }
+  },
+  {
+    "rank": 232,
+    "prev_rank": 228,
+    "name": "Urawa Red Diamonds",
+    "league": "Japanese J League",
+    "off": 1.19,
+    "def": 1.17,
+    "spi": 45.8,
+    "location": {
+      "city": "Crookscester",
+      "zip": "83830-0621"
+    }
+  },
+  {
+    "rank": 233,
+    "prev_rank": 235,
+    "name": "Sunderland",
+    "league": "English League Championship",
+    "off": 1.34,
+    "def": 1.35,
+    "spi": 45.58,
+    "location": {
+      "city": "Fadelstead",
+      "zip": "53674"
+    }
+  },
+  {
+    "rank": 234,
+    "prev_rank": 227,
+    "name": "Bahía",
+    "league": "Brasileiro Série A",
+    "off": 1.25,
+    "def": 1.25,
+    "spi": 45.51,
+    "location": {
+      "city": "East Federico",
+      "zip": "39252"
+    }
+  },
+  {
+    "rank": 235,
+    "prev_rank": 236,
+    "name": "Norwich City",
+    "league": "English League Championship",
+    "off": 1.23,
+    "def": 1.23,
+    "spi": 45.45,
+    "location": {
+      "city": "Lake Concepcion",
+      "zip": "70430-7014"
+    }
+  },
+  {
+    "rank": 236,
+    "prev_rank": 237,
+    "name": "Brondby",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.57,
+    "def": 1.61,
+    "spi": 45.36,
+    "location": {
+      "city": "West Casey",
+      "zip": "62546-6749"
+    }
+  },
+  {
+    "rank": 237,
+    "prev_rank": 238,
+    "name": "Watford",
+    "league": "English League Championship",
+    "off": 1.28,
+    "def": 1.29,
+    "spi": 45.35,
+    "location": {
+      "city": "Katlynnville",
+      "zip": "16493-5012"
+    }
+  },
+  {
+    "rank": 238,
+    "prev_rank": 240,
+    "name": "IF Elfsborg",
+    "league": "Swedish Allsvenskan",
+    "off": 1.5,
+    "def": 1.53,
+    "spi": 45.34,
+    "location": {
+      "city": "Lake Maryse",
+      "zip": "36355"
+    }
+  },
+  {
+    "rank": 239,
+    "prev_rank": 239,
+    "name": "Bordeaux",
+    "league": "French Ligue 2",
+    "off": 1.12,
+    "def": 1.12,
+    "spi": 45.19,
+    "location": {
+      "city": "Albany",
+      "zip": "19255-0441"
+    }
+  },
+  {
+    "rank": 240,
+    "prev_rank": 248,
+    "name": "América Mineiro",
+    "league": "Brasileiro Série A",
+    "off": 1.31,
+    "def": 1.34,
+    "spi": 45.11,
+    "location": {
+      "city": "St. Louis Park",
+      "zip": "87938-4521"
+    }
+  },
+  {
+    "rank": 241,
+    "prev_rank": 241,
+    "name": "KVC Westerlo",
+    "league": "Belgian Jupiler League",
+    "off": 1.56,
+    "def": 1.62,
+    "spi": 44.82,
+    "location": {
+      "city": "Vladimirbury",
+      "zip": "85556-6623"
+    }
+  },
+  {
+    "rank": 242,
+    "prev_rank": 247,
+    "name": "Kawasaki Frontale",
+    "league": "Japanese J League",
+    "off": 1.39,
+    "def": 1.44,
+    "spi": 44.81,
+    "location": {
+      "city": "New Lance",
+      "zip": "75976"
+    }
+  },
+  {
+    "rank": 243,
+    "prev_rank": 242,
+    "name": "AEK Larnaca",
+    "league": "UEFA Europa League",
+    "off": 1.16,
+    "def": 1.18,
+    "spi": 44.76,
+    "location": {
+      "city": "Avondale",
+      "zip": "71836-1347"
+    }
+  },
+  {
+    "rank": 244,
+    "prev_rank": 243,
+    "name": "Apollon Limassol",
+    "league": "UEFA Europa Conference League",
+    "off": 1.21,
+    "def": 1.24,
+    "spi": 44.74,
+    "location": {
+      "city": "Lake Amandashire",
+      "zip": "20123"
+    }
+  },
+  {
+    "rank": 245,
+    "prev_rank": 259,
+    "name": "Columbus Crew",
+    "league": "Major League Soccer",
+    "off": 1.44,
+    "def": 1.5,
+    "spi": 44.72,
+    "location": {
+      "city": "South Devanboro",
+      "zip": "98638-8758"
+    }
+  },
+  {
+    "rank": 246,
+    "prev_rank": 245,
+    "name": "Seattle Sounders FC",
+    "league": "Major League Soccer",
+    "off": 1.31,
+    "def": 1.35,
+    "spi": 44.66,
+    "location": {
+      "city": "Garrickland",
+      "zip": "66859-4484"
+    }
+  },
+  {
+    "rank": 247,
+    "prev_rank": 244,
+    "name": "FC Lugano",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 1.45,
+    "def": 1.51,
+    "spi": 44.63,
+    "location": {
+      "city": "Adrielstead",
+      "zip": "21461"
+    }
+  },
+  {
+    "rank": 248,
+    "prev_rank": 233,
+    "name": "New York City FC",
+    "league": "Major League Soccer",
+    "off": 1.3,
+    "def": 1.35,
+    "spi": 44.62,
+    "location": {
+      "city": "South Edythetown",
+      "zip": "07656"
+    }
+  },
+  {
+    "rank": 249,
+    "prev_rank": 249,
+    "name": "OH Leuven",
+    "league": "Belgian Jupiler League",
+    "off": 1.44,
+    "def": 1.53,
+    "spi": 44.15,
+    "location": {
+      "city": "South Jamalshire",
+      "zip": "85578"
+    }
+  },
+  {
+    "rank": 250,
+    "prev_rank": 251,
+    "name": "New York Red Bulls",
+    "league": "Major League Soccer",
+    "off": 1.13,
+    "def": 1.18,
+    "spi": 44.08,
+    "location": {
+      "city": "West Jayson",
+      "zip": "90169-2999"
+    }
+  },
+  {
+    "rank": 251,
+    "prev_rank": 250,
+    "name": "San Lorenzo",
+    "league": "Argentina Primera Division",
+    "off": 0.92,
+    "def": 0.95,
+    "spi": 44.04,
+    "location": {
+      "city": "West Arielleberg",
+      "zip": "46631-7137"
+    }
+  },
+  {
+    "rank": 252,
+    "prev_rank": 252,
+    "name": "Blackburn",
+    "league": "English League Championship",
+    "off": 1.18,
+    "def": 1.23,
+    "spi": 44.03,
+    "location": {
+      "city": "Perris",
+      "zip": "32629"
+    }
+  },
+  {
+    "rank": 253,
+    "prev_rank": 253,
+    "name": "Santa Clara",
+    "league": "Portuguese Liga",
+    "off": 1.25,
+    "def": 1.33,
+    "spi": 43.94,
+    "location": {
+      "city": "North Candace",
+      "zip": "79223-5167"
+    }
+  },
+  {
+    "rank": 254,
+    "prev_rank": 255,
+    "name": "FC St. Pauli",
+    "league": "German 2. Bundesliga",
+    "off": 1.3,
+    "def": 1.39,
+    "spi": 43.77,
+    "location": {
+      "city": "Upland",
+      "zip": "96825"
+    }
+  },
+  {
+    "rank": 255,
+    "prev_rank": 256,
+    "name": "Rostov",
+    "league": "Russian Premier Liga",
+    "off": 1.36,
+    "def": 1.46,
+    "spi": 43.77,
+    "location": {
+      "city": "Lake Emieborough",
+      "zip": "40938"
+    }
+  },
+  {
+    "rank": 256,
+    "prev_rank": 258,
+    "name": "Maritimo",
+    "league": "Portuguese Liga",
+    "off": 1.3,
+    "def": 1.4,
+    "spi": 43.55,
+    "location": {
+      "city": "West Diego",
+      "zip": "94898-2263"
+    }
+  },
+  {
+    "rank": 257,
+    "prev_rank": 260,
+    "name": "Hibernian",
+    "league": "Scottish Premiership",
+    "off": 1.33,
+    "def": 1.43,
+    "spi": 43.46,
+    "location": {
+      "city": "East Kylie",
+      "zip": "68274-3005"
+    }
+  },
+  {
+    "rank": 258,
+    "prev_rank": 261,
+    "name": "Bristol City",
+    "league": "English League Championship",
+    "off": 1.17,
+    "def": 1.25,
+    "spi": 43.46,
+    "location": {
+      "city": "Fort Myrtleville",
+      "zip": "90517"
+    }
+  },
+  {
+    "rank": 259,
+    "prev_rank": 262,
+    "name": "Hearts",
+    "league": "Scottish Premiership",
+    "off": 1.4,
+    "def": 1.52,
+    "spi": 43.41,
+    "location": {
+      "city": "New Marisolboro",
+      "zip": "78711-9924"
+    }
+  },
+  {
+    "rank": 260,
+    "prev_rank": 257,
+    "name": "Rosenborg",
+    "league": "Norwegian Tippeligaen",
+    "off": 1.54,
+    "def": 1.67,
+    "spi": 43.37,
+    "location": {
+      "city": "Fort Novellaland",
+      "zip": "47369-9576"
+    }
+  },
+  {
+    "rank": 261,
+    "prev_rank": 263,
+    "name": "FC Nordsjaelland",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.34,
+    "def": 1.46,
+    "spi": 43.17,
+    "location": {
+      "city": "Jurupa Valley",
+      "zip": "21614-1406"
+    }
+  },
+  {
+    "rank": 262,
+    "prev_rank": 264,
+    "name": "Lanus",
+    "league": "Argentina Primera Division",
+    "off": 1.19,
+    "def": 1.29,
+    "spi": 43.1,
+    "location": {
+      "city": "North Maximilian",
+      "zip": "68037-7029"
+    }
+  },
+  {
+    "rank": 263,
+    "prev_rank": 265,
+    "name": "CFR 1907 Cluj",
+    "league": "UEFA Europa Conference League",
+    "off": 1.22,
+    "def": 1.33,
+    "spi": 42.98,
+    "location": {
+      "city": "Purdyberg",
+      "zip": "94862-9636"
+    }
+  },
+  {
+    "rank": 264,
+    "prev_rank": 268,
+    "name": "Orlando City SC",
+    "league": "Major League Soccer",
+    "off": 1.35,
+    "def": 1.47,
+    "spi": 42.97,
+    "location": {
+      "city": "Port Turner",
+      "zip": "03437"
+    }
+  },
+  {
+    "rank": 265,
+    "prev_rank": 267,
+    "name": "Wolfsberger AC",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.43,
+    "def": 1.58,
+    "spi": 42.87,
+    "location": {
+      "city": "Flagstaff",
+      "zip": "12007-5005"
+    }
+  },
+  {
+    "rank": 266,
+    "prev_rank": 269,
+    "name": "Levante",
+    "league": "Spanish Segunda Division",
+    "off": 1.05,
+    "def": 1.15,
+    "spi": 42.86,
+    "location": {
+      "city": "East Madelyn",
+      "zip": "52671"
+    }
+  },
+  {
+    "rank": 267,
+    "prev_rank": 254,
+    "name": "Viborg",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.18,
+    "def": 1.3,
+    "spi": 42.7,
+    "location": {
+      "city": "Demarcohaven",
+      "zip": "94581"
+    }
+  },
+  {
+    "rank": 268,
+    "prev_rank": 273,
+    "name": "DC United",
+    "league": "Major League Soccer",
+    "off": 1.32,
+    "def": 1.46,
+    "spi": 42.68,
+    "location": {
+      "city": "Daytona Beach",
+      "zip": "59471-7123"
+    }
+  },
+  {
+    "rank": 269,
+    "prev_rank": 271,
+    "name": "Kashima Antlers",
+    "league": "Japanese J League",
+    "off": 1.18,
+    "def": 1.3,
+    "spi": 42.66,
+    "location": {
+      "city": "East Magdalenafield",
+      "zip": "64595-6891"
+    }
+  },
+  {
+    "rank": 270,
+    "prev_rank": 270,
+    "name": "Tenerife",
+    "league": "Spanish Segunda Division",
+    "off": 1,
+    "def": 1.09,
+    "spi": 42.62,
+    "location": {
+      "city": "West Richieview",
+      "zip": "00902"
+    }
+  },
+  {
+    "rank": 271,
+    "prev_rank": 246,
+    "name": "FC Dallas",
+    "league": "Major League Soccer",
+    "off": 1.2,
+    "def": 1.33,
+    "spi": 42.62,
+    "location": {
+      "city": "Mayerton",
+      "zip": "42220-9656"
+    }
+  },
+  {
+    "rank": 272,
+    "prev_rank": 266,
+    "name": "New England Revolution",
+    "league": "Major League Soccer",
+    "off": 1.41,
+    "def": 1.57,
+    "spi": 42.42,
+    "location": {
+      "city": "East Parker",
+      "zip": "73135"
+    }
+  },
+  {
+    "rank": 273,
+    "prev_rank": 276,
+    "name": "Cuiaba",
+    "league": "Brasileiro Série A",
+    "off": 1.09,
+    "def": 1.22,
+    "spi": 42.27,
+    "location": {
+      "city": "McClurecester",
+      "zip": "25122"
+    }
+  },
+  {
+    "rank": 274,
+    "prev_rank": 275,
+    "name": "Basel",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 1.39,
+    "def": 1.58,
+    "spi": 41.8,
+    "location": {
+      "city": "Lemkemouth",
+      "zip": "44142"
+    }
+  },
+  {
+    "rank": 275,
+    "prev_rank": 272,
+    "name": "Vancouver Whitecaps",
+    "league": "Major League Soccer",
+    "off": 1.4,
+    "def": 1.59,
+    "spi": 41.78,
+    "location": {
+      "city": "Lake Selina",
+      "zip": "65877"
+    }
+  },
+  {
+    "rank": 276,
+    "prev_rank": 277,
+    "name": "Ludogorets",
+    "league": "UEFA Europa League",
+    "off": 1.3,
+    "def": 1.49,
+    "spi": 41.66,
+    "location": {
+      "city": "Skilesburgh",
+      "zip": "53150-6563"
+    }
+  },
+  {
+    "rank": 277,
+    "prev_rank": 278,
+    "name": "Nagoya Grampus Eight",
+    "league": "Japanese J League",
+    "off": 1.11,
+    "def": 1.27,
+    "spi": 41.63,
+    "location": {
+      "city": "Lake Elsinore",
+      "zip": "63870-4934"
+    }
+  },
+  {
+    "rank": 278,
+    "prev_rank": 279,
+    "name": "Hamburg SV",
+    "league": "German 2. Bundesliga",
+    "off": 1.53,
+    "def": 1.75,
+    "spi": 41.61,
+    "location": {
+      "city": "Andrechester",
+      "zip": "58389-1711"
+    }
+  },
+  {
+    "rank": 279,
+    "prev_rank": 280,
+    "name": "Parma",
+    "league": "Italy Serie B",
+    "off": 1.11,
+    "def": 1.27,
+    "spi": 41.45,
+    "location": {
+      "city": "Riceberg",
+      "zip": "57218"
+    }
+  },
+  {
+    "rank": 280,
+    "prev_rank": 281,
+    "name": "Puebla",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.32,
+    "def": 1.52,
+    "spi": 41.4,
+    "location": {
+      "city": "Lake Sean",
+      "zip": "93209"
+    }
+  },
+  {
+    "rank": 281,
+    "prev_rank": 282,
+    "name": "Sampdoria",
+    "league": "Italy Serie A",
+    "off": 1.36,
+    "def": 1.57,
+    "spi": 41.35,
+    "location": {
+      "city": "Stillwater",
+      "zip": "73154"
+    }
+  },
+  {
+    "rank": 282,
+    "prev_rank": 283,
+    "name": "Standard Liege",
+    "league": "Belgian Jupiler League",
+    "off": 1.37,
+    "def": 1.58,
+    "spi": 41.33,
+    "location": {
+      "city": "East Susannachester",
+      "zip": "39566-2433"
+    }
+  },
+  {
+    "rank": 283,
+    "prev_rank": 284,
+    "name": "Motherwell",
+    "league": "Scottish Premiership",
+    "off": 1.24,
+    "def": 1.43,
+    "spi": 41.31,
+    "location": {
+      "city": "Clovis",
+      "zip": "79917-0091"
+    }
+  },
+  {
+    "rank": 284,
+    "prev_rank": 285,
+    "name": "Silkeborg",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.37,
+    "def": 1.59,
+    "spi": 41.13,
+    "location": {
+      "city": "Hettingerville",
+      "zip": "37956"
+    }
+  },
+  {
+    "rank": 285,
+    "prev_rank": 286,
+    "name": "FC Andorra",
+    "league": "Spanish Segunda Division",
+    "off": 1.05,
+    "def": 1.21,
+    "spi": 41.11,
+    "location": {
+      "city": "Fort Treva",
+      "zip": "91441"
+    }
+  },
+  {
+    "rank": 286,
+    "prev_rank": 287,
+    "name": "Sporting de Charleroi",
+    "league": "Belgian Jupiler League",
+    "off": 1.32,
+    "def": 1.54,
+    "spi": 41.06,
+    "location": {
+      "city": "West Brennan",
+      "zip": "34282"
+    }
+  },
+  {
+    "rank": 287,
+    "prev_rank": 288,
+    "name": "FC Zurich",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 1.35,
+    "def": 1.57,
+    "spi": 41,
+    "location": {
+      "city": "North Janiyastead",
+      "zip": "21341-5398"
+    }
+  },
+  {
+    "rank": 288,
+    "prev_rank": 289,
+    "name": "St. Truidense",
+    "league": "Belgian Jupiler League",
+    "off": 1.08,
+    "def": 1.26,
+    "spi": 40.92,
+    "location": {
+      "city": "South Ryan",
+      "zip": "15576-1317"
+    }
+  },
+  {
+    "rank": 289,
+    "prev_rank": 274,
+    "name": "Velez Sarsfield",
+    "league": "Argentina Primera Division",
+    "off": 0.97,
+    "def": 1.14,
+    "spi": 40.88,
+    "location": {
+      "city": "Meridian",
+      "zip": "77602-0730"
+    }
+  },
+  {
+    "rank": 290,
+    "prev_rank": 292,
+    "name": "Pumas Unam",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.25,
+    "def": 1.47,
+    "spi": 40.73,
+    "location": {
+      "city": "Jupiter",
+      "zip": "46995"
+    }
+  },
+  {
+    "rank": 291,
+    "prev_rank": 293,
+    "name": "SC Paderborn",
+    "league": "German 2. Bundesliga",
+    "off": 1.44,
+    "def": 1.69,
+    "spi": 40.73,
+    "location": {
+      "city": "South Irvingcester",
+      "zip": "14498-3788"
+    }
+  },
+  {
+    "rank": 292,
+    "prev_rank": 294,
+    "name": "Portimonense",
+    "league": "Portuguese Liga",
+    "off": 1.16,
+    "def": 1.37,
+    "spi": 40.57,
+    "location": {
+      "city": "Edcester",
+      "zip": "40165"
+    }
+  },
+  {
+    "rank": 293,
+    "prev_rank": 296,
+    "name": "Defensa y Justicia",
+    "league": "Argentina Primera Division",
+    "off": 1.09,
+    "def": 1.29,
+    "spi": 40.55,
+    "location": {
+      "city": "New Alexchester",
+      "zip": "70775-1593"
+    }
+  },
+  {
+    "rank": 294,
+    "prev_rank": 295,
+    "name": "Bastia",
+    "league": "French Ligue 2",
+    "off": 1.2,
+    "def": 1.42,
+    "spi": 40.53,
+    "location": {
+      "city": "Port Isaiasbury",
+      "zip": "45884"
+    }
+  },
+  {
+    "rank": 295,
+    "prev_rank": 297,
+    "name": "Estoril Praia",
+    "league": "Portuguese Liga",
+    "off": 1.16,
+    "def": 1.38,
+    "spi": 40.48,
+    "location": {
+      "city": "South Jaydamouth",
+      "zip": "68489"
+    }
+  },
+  {
+    "rank": 296,
+    "prev_rank": 312,
+    "name": "Portland Timbers",
+    "league": "Major League Soccer",
+    "off": 1.29,
+    "def": 1.54,
+    "spi": 40.36,
+    "location": {
+      "city": "Fort Jena",
+      "zip": "78541-0425"
+    }
+  },
+  {
+    "rank": 297,
+    "prev_rank": 299,
+    "name": "Granada",
+    "league": "Spanish Segunda Division",
+    "off": 0.99,
+    "def": 1.19,
+    "spi": 40.18,
+    "location": {
+      "city": "Funktown",
+      "zip": "31349"
+    }
+  },
+  {
+    "rank": 298,
+    "prev_rank": 290,
+    "name": "Bari",
+    "league": "Italy Serie B",
+    "off": 1.1,
+    "def": 1.32,
+    "spi": 40.14,
+    "location": {
+      "city": "Mesquite",
+      "zip": "07020-9048"
+    }
+  },
+  {
+    "rank": 299,
+    "prev_rank": 301,
+    "name": "Mamelodi Sundowns",
+    "league": "South African ABSA Premier League",
+    "off": 1.04,
+    "def": 1.25,
+    "spi": 39.99,
+    "location": {
+      "city": "Rudyland",
+      "zip": "00056-1307"
+    }
+  },
+  {
+    "rank": 300,
+    "prev_rank": 291,
+    "name": "Sanfrecce Hiroshima",
+    "league": "Japanese J League",
+    "off": 1.17,
+    "def": 1.41,
+    "spi": 39.95,
+    "location": {
+      "city": "Port Ramona",
+      "zip": "88129"
+    }
+  },
+  {
+    "rank": 301,
+    "prev_rank": 302,
+    "name": "Servette",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 1.33,
+    "def": 1.61,
+    "spi": 39.85,
+    "location": {
+      "city": "Beckerberg",
+      "zip": "34739-1189"
+    }
+  },
+  {
+    "rank": 302,
+    "prev_rank": 303,
+    "name": "Atlético San Luis",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.18,
+    "def": 1.44,
+    "spi": 39.77,
+    "location": {
+      "city": "Simonisstad",
+      "zip": "70431"
+    }
+  },
+  {
+    "rank": 303,
+    "prev_rank": 298,
+    "name": "Los Angeles Galaxy",
+    "league": "Major League Soccer",
+    "off": 1.4,
+    "def": 1.7,
+    "spi": 39.68,
+    "location": {
+      "city": "East Nikko",
+      "zip": "46660-6056"
+    }
+  },
+  {
+    "rank": 304,
+    "prev_rank": 304,
+    "name": "FC Volendam",
+    "league": "Dutch Eredivisie",
+    "off": 1.47,
+    "def": 1.78,
+    "spi": 39.65,
+    "location": {
+      "city": "Weymouth Town",
+      "zip": "77016-6728"
+    }
+  },
+  {
+    "rank": 305,
+    "prev_rank": 305,
+    "name": "RKC",
+    "league": "Dutch Eredivisie",
+    "off": 1.45,
+    "def": 1.76,
+    "spi": 39.64,
+    "location": {
+      "city": "East Agnes",
+      "zip": "44549"
+    }
+  },
+  {
+    "rank": 306,
+    "prev_rank": 306,
+    "name": "Caen",
+    "league": "French Ligue 2",
+    "off": 1.18,
+    "def": 1.44,
+    "spi": 39.6,
+    "location": {
+      "city": "Castro Valley",
+      "zip": "62791-0814"
+    }
+  },
+  {
+    "rank": 307,
+    "prev_rank": 307,
+    "name": "Odense BK",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.35,
+    "def": 1.65,
+    "spi": 39.6,
+    "location": {
+      "city": "Meriden",
+      "zip": "90281-1086"
+    }
+  },
+  {
+    "rank": 308,
+    "prev_rank": 331,
+    "name": "Goiás",
+    "league": "Brasileiro Série A",
+    "off": 1.11,
+    "def": 1.36,
+    "spi": 39.59,
+    "location": {
+      "city": "Emmanuellefurt",
+      "zip": "95243"
+    }
+  },
+  {
+    "rank": 309,
+    "prev_rank": 309,
+    "name": "Sivasspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.25,
+    "def": 1.53,
+    "spi": 39.46,
+    "location": {
+      "city": "Jodietown",
+      "zip": "02511-6260"
+    }
+  },
+  {
+    "rank": 310,
+    "prev_rank": 310,
+    "name": "Kasimpasa",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.3,
+    "def": 1.59,
+    "spi": 39.42,
+    "location": {
+      "city": "Kertzmannport",
+      "zip": "82886"
+    }
+  },
+  {
+    "rank": 311,
+    "prev_rank": 320,
+    "name": "Coritiba",
+    "league": "Brasileiro Série A",
+    "off": 1.09,
+    "def": 1.35,
+    "spi": 39.35,
+    "location": {
+      "city": "Bismarck",
+      "zip": "16340"
+    }
+  },
+  {
+    "rank": 312,
+    "prev_rank": 313,
+    "name": "Guingamp",
+    "league": "French Ligue 2",
+    "off": 1.13,
+    "def": 1.4,
+    "spi": 39.31,
+    "location": {
+      "city": "Kasandraworth",
+      "zip": "97517-3372"
+    }
+  },
+  {
+    "rank": 313,
+    "prev_rank": 311,
+    "name": "Tigre",
+    "league": "Argentina Primera Division",
+    "off": 1.09,
+    "def": 1.36,
+    "spi": 39.22,
+    "location": {
+      "city": "East Westleyfield",
+      "zip": "45119"
+    }
+  },
+  {
+    "rank": 314,
+    "prev_rank": 308,
+    "name": "Minnesota United FC",
+    "league": "Major League Soccer",
+    "off": 1.28,
+    "def": 1.58,
+    "spi": 39.2,
+    "location": {
+      "city": "Irving",
+      "zip": "18340"
+    }
+  },
+  {
+    "rank": 315,
+    "prev_rank": 314,
+    "name": "F.B.C Unione Venezia",
+    "league": "Italy Serie B",
+    "off": 1.24,
+    "def": 1.53,
+    "spi": 39.12,
+    "location": {
+      "city": "Abernathychester",
+      "zip": "00205"
+    }
+  },
+  {
+    "rank": 316,
+    "prev_rank": 317,
+    "name": "Necaxa",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.05,
+    "def": 1.32,
+    "spi": 39.03,
+    "location": {
+      "city": "Funkview",
+      "zip": "11816-2033"
+    }
+  },
+  {
+    "rank": 317,
+    "prev_rank": 315,
+    "name": "Rosario Central",
+    "league": "Argentina Primera Division",
+    "off": 1.11,
+    "def": 1.38,
+    "spi": 39.01,
+    "location": {
+      "city": "Blue Springs",
+      "zip": "49345"
+    }
+  },
+  {
+    "rank": 318,
+    "prev_rank": 319,
+    "name": "Hull City",
+    "league": "English League Championship",
+    "off": 1.05,
+    "def": 1.31,
+    "spi": 38.96,
+    "location": {
+      "city": "Madalinechester",
+      "zip": "74414"
+    }
+  },
+  {
+    "rank": 319,
+    "prev_rank": 321,
+    "name": "Fortuna Düsseldorf",
+    "league": "German 2. Bundesliga",
+    "off": 1.27,
+    "def": 1.58,
+    "spi": 38.94,
+    "location": {
+      "city": "Denver",
+      "zip": "81428"
+    }
+  },
+  {
+    "rank": 320,
+    "prev_rank": 335,
+    "name": "Lillestrom",
+    "league": "Norwegian Tippeligaen",
+    "off": 1.32,
+    "def": 1.64,
+    "spi": 38.9,
+    "location": {
+      "city": "Port Carrollside",
+      "zip": "98617"
+    }
+  },
+  {
+    "rank": 321,
+    "prev_rank": 322,
+    "name": "Kayserispor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.38,
+    "def": 1.71,
+    "spi": 38.88,
+    "location": {
+      "city": "Johnsshire",
+      "zip": "40906"
+    }
+  },
+  {
+    "rank": 322,
+    "prev_rank": 323,
+    "name": "Aberdeen",
+    "league": "Scottish Premiership",
+    "off": 1.14,
+    "def": 1.43,
+    "spi": 38.87,
+    "location": {
+      "city": "Evelyntown",
+      "zip": "98766-4855"
+    }
+  },
+  {
+    "rank": 323,
+    "prev_rank": 324,
+    "name": "Paris FC",
+    "league": "French Ligue 2",
+    "off": 1.06,
+    "def": 1.34,
+    "spi": 38.82,
+    "location": {
+      "city": "Lisaton",
+      "zip": "87987-2922"
+    }
+  },
+  {
+    "rank": 324,
+    "prev_rank": 325,
+    "name": "Preston North End",
+    "league": "English League Championship",
+    "off": 1.12,
+    "def": 1.41,
+    "spi": 38.79,
+    "location": {
+      "city": "El Centro",
+      "zip": "51273"
+    }
+  },
+  {
+    "rank": 325,
+    "prev_rank": 316,
+    "name": "SK Brann",
+    "league": "Norwegian Tippeligaen",
+    "off": 1.3,
+    "def": 1.63,
+    "spi": 38.77,
+    "location": {
+      "city": "Sanfordburgh",
+      "zip": "65134"
+    }
+  },
+  {
+    "rank": 326,
+    "prev_rank": 326,
+    "name": "Real Zaragoza",
+    "league": "Spanish Segunda Division",
+    "off": 0.92,
+    "def": 1.17,
+    "spi": 38.73,
+    "location": {
+      "city": "Harrisonburg",
+      "zip": "71156-7691"
+    }
+  },
+  {
+    "rank": 327,
+    "prev_rank": 327,
+    "name": "Omonia Nicosia",
+    "league": "UEFA Europa League",
+    "off": 1.25,
+    "def": 1.57,
+    "spi": 38.72,
+    "location": {
+      "city": "Port Derick",
+      "zip": "71011-7497"
+    }
+  },
+  {
+    "rank": 328,
+    "prev_rank": 334,
+    "name": "Sporting Kansas City",
+    "league": "Major League Soccer",
+    "off": 1.16,
+    "def": 1.46,
+    "spi": 38.7,
+    "location": {
+      "city": "Hoegershire",
+      "zip": "82322-1022"
+    }
+  },
+  {
+    "rank": 329,
+    "prev_rank": 328,
+    "name": "Albacete",
+    "league": "Spanish Segunda Division",
+    "off": 1.13,
+    "def": 1.43,
+    "spi": 38.69,
+    "location": {
+      "city": "Katherinecester",
+      "zip": "15614"
+    }
+  },
+  {
+    "rank": 330,
+    "prev_rank": 300,
+    "name": "Antalyaspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.18,
+    "def": 1.48,
+    "spi": 38.63,
+    "location": {
+      "city": "Tempe",
+      "zip": "61980-3491"
+    }
+  },
+  {
+    "rank": 331,
+    "prev_rank": 329,
+    "name": "FC Luzern",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 1.32,
+    "def": 1.65,
+    "spi": 38.62,
+    "location": {
+      "city": "North Jannieshire",
+      "zip": "11282"
+    }
+  },
+  {
+    "rank": 332,
+    "prev_rank": 318,
+    "name": "Racing Club",
+    "league": "Argentina Primera Division",
+    "off": 1.17,
+    "def": 1.48,
+    "spi": 38.61,
+    "location": {
+      "city": "Lake Kaelyn",
+      "zip": "42896-1239"
+    }
+  },
+  {
+    "rank": 333,
+    "prev_rank": 357,
+    "name": "Cerezo Osaka",
+    "league": "Japanese J League",
+    "off": 1.09,
+    "def": 1.38,
+    "spi": 38.55,
+    "location": {
+      "city": "Westfield",
+      "zip": "59772"
+    }
+  },
+  {
+    "rank": 334,
+    "prev_rank": 333,
+    "name": "Fortuna Sittard",
+    "league": "Dutch Eredivisie",
+    "off": 1.36,
+    "def": 1.71,
+    "spi": 38.44,
+    "location": {
+      "city": "South Yoshikofurt",
+      "zip": "57160-1975"
+    }
+  },
+  {
+    "rank": 335,
+    "prev_rank": 332,
+    "name": "Alavés",
+    "league": "Spanish Segunda Division",
+    "off": 0.85,
+    "def": 1.1,
+    "spi": 38.36,
+    "location": {
+      "city": "Sanfordstead",
+      "zip": "56379"
+    }
+  },
+  {
+    "rank": 336,
+    "prev_rank": 337,
+    "name": "Newell's Old Boys",
+    "league": "Argentina Primera Division",
+    "off": 0.84,
+    "def": 1.09,
+    "spi": 38.34,
+    "location": {
+      "city": "Lake Gilbertboro",
+      "zip": "16083-2039"
+    }
+  },
+  {
+    "rank": 337,
+    "prev_rank": 336,
+    "name": "Karlsruher SC",
+    "league": "German 2. Bundesliga",
+    "off": 1.32,
+    "def": 1.67,
+    "spi": 38.3,
+    "location": {
+      "city": "Lake Jermainmouth",
+      "zip": "08219-2268"
+    }
+  },
+  {
+    "rank": 338,
+    "prev_rank": 338,
+    "name": "Tijuana",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.18,
+    "def": 1.5,
+    "spi": 38.27,
+    "location": {
+      "city": "Smithamcester",
+      "zip": "01983"
+    }
+  },
+  {
+    "rank": 339,
+    "prev_rank": 340,
+    "name": "Le Havre",
+    "league": "French Ligue 2",
+    "off": 0.78,
+    "def": 1.01,
+    "spi": 38.21,
+    "location": {
+      "city": "New Stacytown",
+      "zip": "23007-6625"
+    }
+  },
+  {
+    "rank": 340,
+    "prev_rank": 330,
+    "name": "San Jose Earthquakes",
+    "league": "Major League Soccer",
+    "off": 1.27,
+    "def": 1.62,
+    "spi": 38.12,
+    "location": {
+      "city": "Port Frankie",
+      "zip": "76888"
+    }
+  },
+  {
+    "rank": 341,
+    "prev_rank": 342,
+    "name": "AC Ajaccio",
+    "league": "French Ligue 1",
+    "off": 1,
+    "def": 1.29,
+    "spi": 38.12,
+    "location": {
+      "city": "Fort Gwendolynborough",
+      "zip": "09872-6149"
+    }
+  },
+  {
+    "rank": 342,
+    "prev_rank": 344,
+    "name": "Slovan Bratislava",
+    "league": "UEFA Europa Conference League",
+    "off": 1.12,
+    "def": 1.44,
+    "spi": 38.09,
+    "location": {
+      "city": "Port Victoria",
+      "zip": "47120-4063"
+    }
+  },
+  {
+    "rank": 343,
+    "prev_rank": 345,
+    "name": "Ural Sverdlovsk Oblast",
+    "league": "Russian Premier Liga",
+    "off": 0.98,
+    "def": 1.27,
+    "spi": 38.05,
+    "location": {
+      "city": "Harveyborough",
+      "zip": "74350"
+    }
+  },
+  {
+    "rank": 344,
+    "prev_rank": 346,
+    "name": "1. FC Heidenheim 1846",
+    "league": "German 2. Bundesliga",
+    "off": 1.22,
+    "def": 1.57,
+    "spi": 37.99,
+    "location": {
+      "city": "Marcelleport",
+      "zip": "10209-6504"
+    }
+  },
+  {
+    "rank": 345,
+    "prev_rank": 343,
+    "name": "Consadole Sapporo",
+    "league": "Japanese J League",
+    "off": 1.59,
+    "def": 2.01,
+    "spi": 37.98,
+    "location": {
+      "city": "Fort Gaylehaven",
+      "zip": "06039"
+    }
+  },
+  {
+    "rank": 346,
+    "prev_rank": 348,
+    "name": "Krylia Sovetov",
+    "league": "Russian Premier Liga",
+    "off": 1.02,
+    "def": 1.33,
+    "spi": 37.94,
+    "location": {
+      "city": "West Claud",
+      "zip": "87016-2687"
+    }
+  },
+  {
+    "rank": 347,
+    "prev_rank": 349,
+    "name": "Sheffield Wednesday",
+    "league": "English League One",
+    "off": 1.12,
+    "def": 1.45,
+    "spi": 37.92,
+    "location": {
+      "city": "East Reta",
+      "zip": "84259"
+    }
+  },
+  {
+    "rank": 348,
+    "prev_rank": 350,
+    "name": "KV Mechelen",
+    "league": "Belgian Jupiler League",
+    "off": 1.45,
+    "def": 1.85,
+    "spi": 37.86,
+    "location": {
+      "city": "Juliusfort",
+      "zip": "79944"
+    }
+  },
+  {
+    "rank": 349,
+    "prev_rank": 352,
+    "name": "Toronto FC",
+    "league": "Major League Soccer",
+    "off": 1.17,
+    "def": 1.51,
+    "spi": 37.8,
+    "location": {
+      "city": "Katarinaview",
+      "zip": "96058-9657"
+    }
+  },
+  {
+    "rank": 350,
+    "prev_rank": 355,
+    "name": "Montreal Impact",
+    "league": "Major League Soccer",
+    "off": 1.21,
+    "def": 1.57,
+    "spi": 37.68,
+    "location": {
+      "city": "West Karine",
+      "zip": "21858"
+    }
+  },
+  {
+    "rank": 351,
+    "prev_rank": 339,
+    "name": "Huracán",
+    "league": "Argentina Primera Division",
+    "off": 0.9,
+    "def": 1.2,
+    "spi": 37.54,
+    "location": {
+      "city": "El Monte",
+      "zip": "15492-0513"
+    }
+  },
+  {
+    "rank": 352,
+    "prev_rank": 347,
+    "name": "Djurgardens IF",
+    "league": "Swedish Allsvenskan",
+    "off": 1.21,
+    "def": 1.58,
+    "spi": 37.54,
+    "location": {
+      "city": "North Dominicfurt",
+      "zip": "91828-8981"
+    }
+  },
+  {
+    "rank": 353,
+    "prev_rank": 353,
+    "name": "Pacos Ferreira",
+    "league": "Portuguese Liga",
+    "off": 1.1,
+    "def": 1.45,
+    "spi": 37.52,
+    "location": {
+      "city": "North Soniaworth",
+      "zip": "49401-6867"
+    }
+  },
+  {
+    "rank": 354,
+    "prev_rank": 354,
+    "name": "FC Juárez",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.02,
+    "def": 1.36,
+    "spi": 37.41,
+    "location": {
+      "city": "Lake Ethelyn",
+      "zip": "86812-5709"
+    }
+  },
+  {
+    "rank": 355,
+    "prev_rank": 351,
+    "name": "Eibar",
+    "league": "Spanish Segunda Division",
+    "off": 0.91,
+    "def": 1.22,
+    "spi": 37.24,
+    "location": {
+      "city": "North Joanieshire",
+      "zip": "79649"
+    }
+  },
+  {
+    "rank": 356,
+    "prev_rank": 381,
+    "name": "Viking FK",
+    "league": "Norwegian Tippeligaen",
+    "off": 1.52,
+    "def": 1.98,
+    "spi": 37.18,
+    "location": {
+      "city": "Vickiefort",
+      "zip": "30866-7304"
+    }
+  },
+  {
+    "rank": 357,
+    "prev_rank": 365,
+    "name": "CA Independiente",
+    "league": "Argentina Primera Division",
+    "off": 1.04,
+    "def": 1.38,
+    "spi": 37.18,
+    "location": {
+      "city": "Fort Leonie",
+      "zip": "61254-6332"
+    }
+  },
+  {
+    "rank": 358,
+    "prev_rank": 356,
+    "name": "Colon Santa Fe",
+    "league": "Argentina Primera Division",
+    "off": 1.04,
+    "def": 1.4,
+    "spi": 37.1,
+    "location": {
+      "city": "East Augustaton",
+      "zip": "16766-1864"
+    }
+  },
+  {
+    "rank": 359,
+    "prev_rank": 358,
+    "name": "Barnsley",
+    "league": "English League One",
+    "off": 1.26,
+    "def": 1.67,
+    "spi": 37.05,
+    "location": {
+      "city": "East Mackton",
+      "zip": "05009"
+    }
+  },
+  {
+    "rank": 360,
+    "prev_rank": 360,
+    "name": "Sochi",
+    "league": "Russian Premier Liga",
+    "off": 1.11,
+    "def": 1.5,
+    "spi": 36.88,
+    "location": {
+      "city": "East Vincenthaven",
+      "zip": "20297"
+    }
+  },
+  {
+    "rank": 361,
+    "prev_rank": 361,
+    "name": "Charlotte FC",
+    "league": "Major League Soccer",
+    "off": 1.24,
+    "def": 1.66,
+    "spi": 36.63,
+    "location": {
+      "city": "East Brycenport",
+      "zip": "49346"
+    }
+  },
+  {
+    "rank": 362,
+    "prev_rank": 362,
+    "name": "Birmingham",
+    "league": "English League Championship",
+    "off": 1.02,
+    "def": 1.4,
+    "spi": 36.59,
+    "location": {
+      "city": "Port Nikkiburgh",
+      "zip": "74630-0757"
+    }
+  },
+  {
+    "rank": 363,
+    "prev_rank": 363,
+    "name": "Alanyaspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.42,
+    "def": 1.88,
+    "spi": 36.58,
+    "location": {
+      "city": "South Aliza",
+      "zip": "29909"
+    }
+  },
+  {
+    "rank": 364,
+    "prev_rank": 364,
+    "name": "Cardiff City",
+    "league": "English League Championship",
+    "off": 1.04,
+    "def": 1.41,
+    "spi": 36.56,
+    "location": {
+      "city": "Gudruntown",
+      "zip": "63988-8177"
+    }
+  },
+  {
+    "rank": 365,
+    "prev_rank": 367,
+    "name": "WSG Swarovski Wattens",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.33,
+    "def": 1.78,
+    "spi": 36.32,
+    "location": {
+      "city": "Tulsa",
+      "zip": "77958"
+    }
+  },
+  {
+    "rank": 366,
+    "prev_rank": 370,
+    "name": "Las Palmas",
+    "league": "Spanish Segunda Division",
+    "off": 0.91,
+    "def": 1.27,
+    "spi": 36.15,
+    "location": {
+      "city": "Port King",
+      "zip": "37887-1822"
+    }
+  },
+  {
+    "rank": 367,
+    "prev_rank": 366,
+    "name": "Godoy Cruz",
+    "league": "Argentina Primera Division",
+    "off": 1,
+    "def": 1.39,
+    "spi": 36.05,
+    "location": {
+      "city": "Fort Alvertaborough",
+      "zip": "41383-0303"
+    }
+  },
+  {
+    "rank": 368,
+    "prev_rank": 373,
+    "name": "Banfield",
+    "league": "Argentina Primera Division",
+    "off": 0.92,
+    "def": 1.29,
+    "spi": 35.95,
+    "location": {
+      "city": "Hodkiewiczland",
+      "zip": "41606-4050"
+    }
+  },
+  {
+    "rank": 369,
+    "prev_rank": 371,
+    "name": "Randers FC",
+    "league": "Danish SAS-Ligaen",
+    "off": 1.18,
+    "def": 1.63,
+    "spi": 35.92,
+    "location": {
+      "city": "Adonisville",
+      "zip": "56186"
+    }
+  },
+  {
+    "rank": 370,
+    "prev_rank": 372,
+    "name": "SpVgg Greuther Fürth",
+    "league": "German 2. Bundesliga",
+    "off": 1.12,
+    "def": 1.55,
+    "spi": 35.88,
+    "location": {
+      "city": "New Kallietown",
+      "zip": "58675"
+    }
+  },
+  {
+    "rank": 371,
+    "prev_rank": 369,
+    "name": "Ankaragucu",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.06,
+    "def": 1.48,
+    "spi": 35.82,
+    "location": {
+      "city": "Christiansenfort",
+      "zip": "83774"
+    }
+  },
+  {
+    "rank": 372,
+    "prev_rank": 409,
+    "name": "Istanbulspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.17,
+    "def": 1.61,
+    "spi": 35.77,
+    "location": {
+      "city": "North Lela",
+      "zip": "23129-5909"
+    }
+  },
+  {
+    "rank": 373,
+    "prev_rank": 359,
+    "name": "Chicago Fire",
+    "league": "Major League Soccer",
+    "off": 1.18,
+    "def": 1.63,
+    "spi": 35.71,
+    "location": {
+      "city": "Lake Belleview",
+      "zip": "38154-6235"
+    }
+  },
+  {
+    "rank": 374,
+    "prev_rank": 374,
+    "name": "Querétaro",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 0.98,
+    "def": 1.39,
+    "spi": 35.65,
+    "location": {
+      "city": "Dale City",
+      "zip": "06168"
+    }
+  },
+  {
+    "rank": 375,
+    "prev_rank": 375,
+    "name": "Troyes",
+    "league": "French Ligue 1",
+    "off": 1.23,
+    "def": 1.7,
+    "spi": 35.64,
+    "location": {
+      "city": "Fort Trent",
+      "zip": "38409"
+    }
+  },
+  {
+    "rank": 376,
+    "prev_rank": 376,
+    "name": "Fakel Voronezh",
+    "league": "Russian Premier Liga",
+    "off": 1.01,
+    "def": 1.43,
+    "spi": 35.58,
+    "location": {
+      "city": "Carrolltown",
+      "zip": "58315-6112"
+    }
+  },
+  {
+    "rank": 377,
+    "prev_rank": 378,
+    "name": "Wigan",
+    "league": "English League Championship",
+    "off": 0.92,
+    "def": 1.32,
+    "spi": 35.43,
+    "location": {
+      "city": "Kovacekside",
+      "zip": "30500-3076"
+    }
+  },
+  {
+    "rank": 378,
+    "prev_rank": 379,
+    "name": "FC Groningen",
+    "league": "Dutch Eredivisie",
+    "off": 1.24,
+    "def": 1.73,
+    "spi": 35.41,
+    "location": {
+      "city": "Mooreworth",
+      "zip": "67168"
+    }
+  },
+  {
+    "rank": 379,
+    "prev_rank": 380,
+    "name": "Excelsior",
+    "league": "Dutch Eredivisie",
+    "off": 1.26,
+    "def": 1.75,
+    "spi": 35.38,
+    "location": {
+      "city": "East Maci",
+      "zip": "73586-4392"
+    }
+  },
+  {
+    "rank": 380,
+    "prev_rank": 341,
+    "name": "Austria Lustenau",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.31,
+    "def": 1.82,
+    "spi": 35.32,
+    "location": {
+      "city": "Robelport",
+      "zip": "56151"
+    }
+  },
+  {
+    "rank": 381,
+    "prev_rank": 377,
+    "name": "Austin FC",
+    "league": "Major League Soccer",
+    "off": 1.24,
+    "def": 1.73,
+    "spi": 35.29,
+    "location": {
+      "city": "North Clevelandview",
+      "zip": "34866"
+    }
+  },
+  {
+    "rank": 382,
+    "prev_rank": 383,
+    "name": "Como",
+    "league": "Italy Serie B",
+    "off": 1.05,
+    "def": 1.5,
+    "spi": 35.2,
+    "location": {
+      "city": "Okunevaboro",
+      "zip": "04813-2402"
+    }
+  },
+  {
+    "rank": 383,
+    "prev_rank": 384,
+    "name": "Sochaux",
+    "league": "French Ligue 2",
+    "off": 1.02,
+    "def": 1.47,
+    "spi": 34.99,
+    "location": {
+      "city": "South Joanland",
+      "zip": "28127"
+    }
+  },
+  {
+    "rank": 384,
+    "prev_rank": 416,
+    "name": "Houston Dynamo",
+    "league": "Major League Soccer",
+    "off": 1.21,
+    "def": 1.71,
+    "spi": 34.92,
+    "location": {
+      "city": "Macejkovictown",
+      "zip": "47373"
+    }
+  },
+  {
+    "rank": 385,
+    "prev_rank": 385,
+    "name": "Huddersfield Town",
+    "league": "English League Championship",
+    "off": 0.97,
+    "def": 1.41,
+    "spi": 34.87,
+    "location": {
+      "city": "Jerdeboro",
+      "zip": "78503"
+    }
+  },
+  {
+    "rank": 386,
+    "prev_rank": 387,
+    "name": "Emmen",
+    "league": "Dutch Eredivisie",
+    "off": 1.25,
+    "def": 1.77,
+    "spi": 34.76,
+    "location": {
+      "city": "Hermannfield",
+      "zip": "83513"
+    }
+  },
+  {
+    "rank": 387,
+    "prev_rank": 388,
+    "name": "Grasshoppers Zürich",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 1.39,
+    "def": 1.95,
+    "spi": 34.74,
+    "location": {
+      "city": "Killeen",
+      "zip": "93512-5930"
+    }
+  },
+  {
+    "rank": 388,
+    "prev_rank": 368,
+    "name": "Valerenga",
+    "league": "Norwegian Tippeligaen",
+    "off": 1.24,
+    "def": 1.76,
+    "spi": 34.71,
+    "location": {
+      "city": "Pearl City",
+      "zip": "15565-7630"
+    }
+  },
+  {
+    "rank": 389,
+    "prev_rank": 390,
+    "name": "FK Nizhny Novgorod",
+    "league": "Russian Premier Liga",
+    "off": 0.92,
+    "def": 1.36,
+    "spi": 34.47,
+    "location": {
+      "city": "Wymanview",
+      "zip": "05903"
+    }
+  },
+  {
+    "rank": 390,
+    "prev_rank": 391,
+    "name": "SK Austria Klagenfurt",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.32,
+    "def": 1.89,
+    "spi": 34.24,
+    "location": {
+      "city": "Mission Viejo",
+      "zip": "03632-4627"
+    }
+  },
+  {
+    "rank": 391,
+    "prev_rank": 389,
+    "name": "Colorado Rapids",
+    "league": "Major League Soccer",
+    "off": 1.08,
+    "def": 1.59,
+    "spi": 34.17,
+    "location": {
+      "city": "Ziemannbury",
+      "zip": "18850-9004"
+    }
+  },
+  {
+    "rank": 392,
+    "prev_rank": 393,
+    "name": "Queens Park Rangers",
+    "league": "English League Championship",
+    "off": 1.04,
+    "def": 1.54,
+    "spi": 34.16,
+    "location": {
+      "city": "Rio Rancho",
+      "zip": "77665"
+    }
+  },
+  {
+    "rank": 393,
+    "prev_rank": 394,
+    "name": "Hammarby",
+    "league": "Swedish Allsvenskan",
+    "off": 1.21,
+    "def": 1.75,
+    "spi": 34.15,
+    "location": {
+      "city": "Gaithersburg",
+      "zip": "01892-6989"
+    }
+  },
+  {
+    "rank": 394,
+    "prev_rank": 395,
+    "name": "Holstein Kiel",
+    "league": "German 2. Bundesliga",
+    "off": 1.33,
+    "def": 1.91,
+    "spi": 34.13,
+    "location": {
+      "city": "North Lane",
+      "zip": "61663"
+    }
+  },
+  {
+    "rank": 395,
+    "prev_rank": 396,
+    "name": "SV Darmstadt 98",
+    "league": "German 2. Bundesliga",
+    "off": 1.07,
+    "def": 1.58,
+    "spi": 34.06,
+    "location": {
+      "city": "Fort Candice",
+      "zip": "21037-7154"
+    }
+  },
+  {
+    "rank": 396,
+    "prev_rank": 411,
+    "name": "Real Salt Lake",
+    "league": "Major League Soccer",
+    "off": 1.09,
+    "def": 1.61,
+    "spi": 33.96,
+    "location": {
+      "city": "Fort Yvonneview",
+      "zip": "18386"
+    }
+  },
+  {
+    "rank": 397,
+    "prev_rank": 398,
+    "name": "Mazatlán FC",
+    "league": "Mexican Primera Division Torneo Clausura",
+    "off": 1.12,
+    "def": 1.66,
+    "spi": 33.88,
+    "location": {
+      "city": "Madera",
+      "zip": "38699-0867"
+    }
+  },
+  {
+    "rank": 398,
+    "prev_rank": 402,
+    "name": "Instituto",
+    "league": "Argentina Primera Division",
+    "off": 1,
+    "def": 1.5,
+    "spi": 33.86,
+    "location": {
+      "city": "Yonkers",
+      "zip": "19231-6896"
+    }
+  },
+  {
+    "rank": 399,
+    "prev_rank": 403,
+    "name": "Atlético Tucumán",
+    "league": "Argentina Primera Division",
+    "off": 0.93,
+    "def": 1.41,
+    "spi": 33.82,
+    "location": {
+      "city": "Ayanahaven",
+      "zip": "59258-0301"
+    }
+  },
+  {
+    "rank": 400,
+    "prev_rank": 399,
+    "name": "Ballkani",
+    "league": "UEFA Europa Conference League",
+    "off": 1.2,
+    "def": 1.76,
+    "spi": 33.76,
+    "location": {
+      "city": "Fort Frida",
+      "zip": "22860-0419"
+    }
+  },
+  {
+    "rank": 401,
+    "prev_rank": 400,
+    "name": "Melbourne City",
+    "league": "Australian A-League",
+    "off": 1.32,
+    "def": 1.93,
+    "spi": 33.7,
+    "location": {
+      "city": "Port Astridport",
+      "zip": "91186-6402"
+    }
+  },
+  {
+    "rank": 402,
+    "prev_rank": 401,
+    "name": "Leganes",
+    "league": "Spanish Segunda Division",
+    "off": 0.86,
+    "def": 1.33,
+    "spi": 33.56,
+    "location": {
+      "city": "New Rachaelchester",
+      "zip": "57519-9818"
+    }
+  },
+  {
+    "rank": 403,
+    "prev_rank": 382,
+    "name": "FC Tokyo",
+    "league": "Japanese J League",
+    "off": 1.17,
+    "def": 1.74,
+    "spi": 33.55,
+    "location": {
+      "city": "West Domingofurt",
+      "zip": "63665-0773"
+    }
+  },
+  {
+    "rank": 404,
+    "prev_rank": 392,
+    "name": "Sarmiento",
+    "league": "Argentina Primera Division",
+    "off": 0.93,
+    "def": 1.43,
+    "spi": 33.37,
+    "location": {
+      "city": "New Kristina",
+      "zip": "58115-5145"
+    }
+  },
+  {
+    "rank": 405,
+    "prev_rank": 404,
+    "name": "Platense",
+    "league": "Argentina Primera Division",
+    "off": 0.85,
+    "def": 1.32,
+    "spi": 33.33,
+    "location": {
+      "city": "Farmington",
+      "zip": "04090"
+    }
+  },
+  {
+    "rank": 406,
+    "prev_rank": 405,
+    "name": "Hartberg",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 1.19,
+    "def": 1.77,
+    "spi": 33.32,
+    "location": {
+      "city": "Audreannefield",
+      "zip": "62633-9344"
+    }
+  },
+  {
+    "rank": 407,
+    "prev_rank": 406,
+    "name": "Pisa",
+    "league": "Italy Serie B",
+    "off": 0.93,
+    "def": 1.44,
+    "spi": 33.21,
+    "location": {
+      "city": "East Hartford",
+      "zip": "15443"
+    }
+  },
+  {
+    "rank": 408,
+    "prev_rank": 407,
+    "name": "Belgrano Cordoba",
+    "league": "Argentina Primera Division",
+    "off": 0.9,
+    "def": 1.4,
+    "spi": 33.17,
+    "location": {
+      "city": "Eulahview",
+      "zip": "60601"
+    }
+  },
+  {
+    "rank": 409,
+    "prev_rank": 408,
+    "name": "Cambuur Leeuwarden",
+    "league": "Dutch Eredivisie",
+    "off": 1.25,
+    "def": 1.86,
+    "spi": 33.15,
+    "location": {
+      "city": "Christianshire",
+      "zip": "47914"
+    }
+  },
+  {
+    "rank": 410,
+    "prev_rank": 410,
+    "name": "Rotherham United",
+    "league": "English League Championship",
+    "off": 0.96,
+    "def": 1.48,
+    "spi": 33.06,
+    "location": {
+      "city": "Cameronville",
+      "zip": "56319-2151"
+    }
+  },
+  {
+    "rank": 411,
+    "prev_rank": 417,
+    "name": "Gimnasia La Plata",
+    "league": "Argentina Primera Division",
+    "off": 0.86,
+    "def": 1.36,
+    "spi": 32.91,
+    "location": {
+      "city": "Lindgrenville",
+      "zip": "30894"
+    }
+  },
+  {
+    "rank": 412,
+    "prev_rank": 412,
+    "name": "Sudtirol",
+    "league": "Italy Serie B",
+    "off": 0.7,
+    "def": 1.15,
+    "spi": 32.81,
+    "location": {
+      "city": "Honolulu",
+      "zip": "45472-5284"
+    }
+  },
+  {
+    "rank": 413,
+    "prev_rank": 425,
+    "name": "St. Louis CITY SC",
+    "league": "Major League Soccer",
+    "off": 1.12,
+    "def": 1.72,
+    "spi": 32.66,
+    "location": {
+      "city": "East Belleburgh",
+      "zip": "79534-5891"
+    }
+  },
+  {
+    "rank": 414,
+    "prev_rank": 413,
+    "name": "Sagan Tosu",
+    "league": "Japanese J League",
+    "off": 0.92,
+    "def": 1.46,
+    "spi": 32.54,
+    "location": {
+      "city": "Lake Brody",
+      "zip": "71076-5667"
+    }
+  },
+  {
+    "rank": 415,
+    "prev_rank": 414,
+    "name": "Bolton",
+    "league": "English League One",
+    "off": 0.89,
+    "def": 1.42,
+    "spi": 32.49,
+    "location": {
+      "city": "Dublin",
+      "zip": "41091-2958"
+    }
+  },
+  {
+    "rank": 416,
+    "prev_rank": 415,
+    "name": "Real Oviedo",
+    "league": "Spanish Segunda Division",
+    "off": 0.78,
+    "def": 1.28,
+    "spi": 32.45,
+    "location": {
+      "city": "Rainaport",
+      "zip": "22718"
+    }
+  },
+  {
+    "rank": 417,
+    "prev_rank": 397,
+    "name": "Sarpsborg",
+    "league": "Norwegian Tippeligaen",
+    "off": 1.14,
+    "def": 1.76,
+    "spi": 32.35,
+    "location": {
+      "city": "East Libbie",
+      "zip": "80459"
+    }
+  },
+  {
+    "rank": 418,
+    "prev_rank": 427,
+    "name": "Tromso",
+    "league": "Norwegian Tippeligaen",
+    "off": 1.08,
+    "def": 1.69,
+    "spi": 32.3,
+    "location": {
+      "city": "Monserratefort",
+      "zip": "62343"
+    }
+  },
+  {
+    "rank": 419,
+    "prev_rank": 386,
+    "name": "Umraniyespor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.14,
+    "def": 1.77,
+    "spi": 32.28,
+    "location": {
+      "city": "Lake Korbintown",
+      "zip": "37803-3219"
+    }
+  },
+  {
+    "rank": 420,
+    "prev_rank": 418,
+    "name": "Palermo",
+    "league": "Italy Serie B",
+    "off": 1.05,
+    "def": 1.66,
+    "spi": 32.24,
+    "location": {
+      "city": "Alexandria",
+      "zip": "02093-8512"
+    }
+  },
+  {
+    "rank": 421,
+    "prev_rank": 419,
+    "name": "Rigas Futbola Skola",
+    "league": "UEFA Europa Conference League",
+    "off": 1.16,
+    "def": 1.8,
+    "spi": 32.23,
+    "location": {
+      "city": "Port Kieraside",
+      "zip": "03508-2610"
+    }
+  },
+  {
+    "rank": 422,
+    "prev_rank": 420,
+    "name": "AaB",
+    "league": "Danish SAS-Ligaen",
+    "off": 0.99,
+    "def": 1.58,
+    "spi": 32.15,
+    "location": {
+      "city": "West Haven",
+      "zip": "57441-5997"
+    }
+  },
+  {
+    "rank": 423,
+    "prev_rank": 421,
+    "name": "Villarreal B",
+    "league": "Spanish Segunda Division",
+    "off": 0.98,
+    "def": 1.56,
+    "spi": 32.13,
+    "location": {
+      "city": "Bernierbury",
+      "zip": "53075"
+    }
+  },
+  {
+    "rank": 424,
+    "prev_rank": 436,
+    "name": "Giresunspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 1.06,
+    "def": 1.68,
+    "spi": 32.06,
+    "location": {
+      "city": "Jazmynfield",
+      "zip": "26891-2441"
+    }
+  },
+  {
+    "rank": 425,
+    "prev_rank": 422,
+    "name": "1. FC Kaiserslautern",
+    "league": "German 2. Bundesliga",
+    "off": 1.02,
+    "def": 1.65,
+    "spi": 31.68,
+    "location": {
+      "city": "Hayward",
+      "zip": "82484-3755"
+    }
+  },
+  {
+    "rank": 426,
+    "prev_rank": 423,
+    "name": "Málaga",
+    "league": "Spanish Segunda Division",
+    "off": 0.79,
+    "def": 1.34,
+    "spi": 31.59,
+    "location": {
+      "city": "Nakiastead",
+      "zip": "58163-1697"
+    }
+  },
+  {
+    "rank": 427,
+    "prev_rank": 424,
+    "name": "Blackpool",
+    "league": "English League Championship",
+    "off": 1.06,
+    "def": 1.7,
+    "spi": 31.56,
+    "location": {
+      "city": "Smithberg",
+      "zip": "74092-8837"
+    }
+  },
+  {
+    "rank": 428,
+    "prev_rank": 426,
+    "name": "Plymouth Argyle",
+    "league": "English League One",
+    "off": 1.02,
+    "def": 1.66,
+    "spi": 31.45,
+    "location": {
+      "city": "New Annetta",
+      "zip": "94666-8739"
+    }
+  },
+  {
+    "rank": 429,
+    "prev_rank": 428,
+    "name": "Racing Santander",
+    "league": "Spanish Segunda Division",
+    "off": 0.85,
+    "def": 1.44,
+    "spi": 31.24,
+    "location": {
+      "city": "Gilbertofield",
+      "zip": "09586-8531"
+    }
+  },
+  {
+    "rank": 430,
+    "prev_rank": 431,
+    "name": "Dijon FCO",
+    "league": "French Ligue 2",
+    "off": 0.85,
+    "def": 1.44,
+    "spi": 31.13,
+    "location": {
+      "city": "Port Scotfort",
+      "zip": "63643"
+    }
+  },
+  {
+    "rank": 431,
+    "prev_rank": 429,
+    "name": "Central Córdoba Santiago del Estero",
+    "league": "Argentina Primera Division",
+    "off": 0.87,
+    "def": 1.47,
+    "spi": 31.07,
+    "location": {
+      "city": "New Angel",
+      "zip": "13864"
+    }
+  },
+  {
+    "rank": 432,
+    "prev_rank": 430,
+    "name": "Barracas Central",
+    "league": "Argentina Primera Division",
+    "off": 0.87,
+    "def": 1.48,
+    "spi": 31,
+    "location": {
+      "city": "South Blair",
+      "zip": "11163"
+    }
+  },
+  {
+    "rank": 433,
+    "prev_rank": 432,
+    "name": "Zalgiris Vilnius",
+    "league": "UEFA Europa Conference League",
+    "off": 1.1,
+    "def": 1.79,
+    "spi": 30.99,
+    "location": {
+      "city": "Pfannerstillfort",
+      "zip": "39403-0391"
+    }
+  },
+  {
+    "rank": 434,
+    "prev_rank": 433,
+    "name": "St Mirren",
+    "league": "Scottish Premiership",
+    "off": 0.95,
+    "def": 1.58,
+    "spi": 30.98,
+    "location": {
+      "city": "San Mateo",
+      "zip": "58406"
+    }
+  },
+  {
+    "rank": 435,
+    "prev_rank": 435,
+    "name": "Central Coast Mariners",
+    "league": "Australian A-League",
+    "off": 1.27,
+    "def": 2.03,
+    "spi": 30.82,
+    "location": {
+      "city": "New Brunswick",
+      "zip": "43349"
+    }
+  },
+  {
+    "rank": 436,
+    "prev_rank": 434,
+    "name": "Union Santa Fe",
+    "league": "Argentina Primera Division",
+    "off": 0.85,
+    "def": 1.46,
+    "spi": 30.8,
+    "location": {
+      "city": "West Harmonbury",
+      "zip": "11554-5503"
+    }
+  },
+  {
+    "rank": 437,
+    "prev_rank": 437,
+    "name": "Peterborough United",
+    "league": "English League One",
+    "off": 1.01,
+    "def": 1.68,
+    "spi": 30.77,
+    "location": {
+      "city": "Kiarracester",
+      "zip": "27272-8257"
+    }
+  },
+  {
+    "rank": 438,
+    "prev_rank": 445,
+    "name": "IFK Norrkoping",
+    "league": "Swedish Allsvenskan",
+    "off": 1.08,
+    "def": 1.78,
+    "spi": 30.69,
+    "location": {
+      "city": "South Madisyn",
+      "zip": "92491"
+    }
+  },
+  {
+    "rank": 439,
+    "prev_rank": 438,
+    "name": "Derby County",
+    "league": "English League One",
+    "off": 0.94,
+    "def": 1.6,
+    "spi": 30.6,
+    "location": {
+      "city": "West Stephonmouth",
+      "zip": "86514-6460"
+    }
+  },
+  {
+    "rank": 440,
+    "prev_rank": 439,
+    "name": "FC Cartagena",
+    "league": "Spanish Segunda Division",
+    "off": 0.89,
+    "def": 1.53,
+    "spi": 30.57,
+    "location": {
+      "city": "Fort Carloside",
+      "zip": "22342-1343"
+    }
+  },
+  {
+    "rank": 441,
+    "prev_rank": 440,
+    "name": "FC Vaduz",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 0.96,
+    "def": 1.63,
+    "spi": 30.56,
+    "location": {
+      "city": "Dachchester",
+      "zip": "66657"
+    }
+  },
+  {
+    "rank": 442,
+    "prev_rank": 441,
+    "name": "Sporting Gijón",
+    "league": "Spanish Segunda Division",
+    "off": 0.85,
+    "def": 1.48,
+    "spi": 30.46,
+    "location": {
+      "city": "Swaniawskitown",
+      "zip": "69797"
+    }
+  },
+  {
+    "rank": 443,
+    "prev_rank": 442,
+    "name": "KV Kortrijk",
+    "league": "Belgian Jupiler League",
+    "off": 1.08,
+    "def": 1.8,
+    "spi": 30.4,
+    "location": {
+      "city": "Gerardoburgh",
+      "zip": "23353-8010"
+    }
+  },
+  {
+    "rank": 444,
+    "prev_rank": 447,
+    "name": "Inter Miami CF",
+    "league": "Major League Soccer",
+    "off": 1.05,
+    "def": 1.77,
+    "spi": 30.28,
+    "location": {
+      "city": "Jaketon",
+      "zip": "61300-8046"
+    }
+  },
+  {
+    "rank": 445,
+    "prev_rank": 443,
+    "name": "Kalmar FF",
+    "league": "Swedish Allsvenskan",
+    "off": 0.96,
+    "def": 1.64,
+    "spi": 30.22,
+    "location": {
+      "city": "South Karina",
+      "zip": "52316-5768"
+    }
+  },
+  {
+    "rank": 446,
+    "prev_rank": 444,
+    "name": "Reading",
+    "league": "English League Championship",
+    "off": 0.9,
+    "def": 1.58,
+    "spi": 29.91,
+    "location": {
+      "city": "North Herminahaven",
+      "zip": "93548"
+    }
+  },
+  {
+    "rank": 447,
+    "prev_rank": 446,
+    "name": "US Quevilly",
+    "league": "French Ligue 2",
+    "off": 0.96,
+    "def": 1.66,
+    "spi": 29.83,
+    "location": {
+      "city": "Russelville",
+      "zip": "37649"
+    }
+  },
+  {
+    "rank": 448,
+    "prev_rank": 448,
+    "name": "Ascoli",
+    "league": "Italy Serie B",
+    "off": 0.84,
+    "def": 1.5,
+    "spi": 29.62,
+    "location": {
+      "city": "West Forest",
+      "zip": "82979"
+    }
+  },
+  {
+    "rank": 449,
+    "prev_rank": 449,
+    "name": "SD Huesca",
+    "league": "Spanish Segunda Division",
+    "off": 0.73,
+    "def": 1.36,
+    "spi": 29.43,
+    "location": {
+      "city": "La Habra",
+      "zip": "36005"
+    }
+  },
+  {
+    "rank": 450,
+    "prev_rank": 457,
+    "name": "Odd BK",
+    "league": "Norwegian Tippeligaen",
+    "off": 0.91,
+    "def": 1.62,
+    "spi": 29.39,
+    "location": {
+      "city": "Fremont",
+      "zip": "50207-9422"
+    }
+  },
+  {
+    "rank": 451,
+    "prev_rank": 450,
+    "name": "Kilmarnock",
+    "league": "Scottish Premiership",
+    "off": 0.91,
+    "def": 1.63,
+    "spi": 29.31,
+    "location": {
+      "city": "Mesquite",
+      "zip": "84531-0538"
+    }
+  },
+  {
+    "rank": 452,
+    "prev_rank": 451,
+    "name": "St Johnstone",
+    "league": "Scottish Premiership",
+    "off": 0.88,
+    "def": 1.58,
+    "spi": 29.23,
+    "location": {
+      "city": "Port Khalilview",
+      "zip": "97820"
+    }
+  },
+  {
+    "rank": 453,
+    "prev_rank": 452,
+    "name": "OFI Crete",
+    "league": "Greek Super League",
+    "off": 0.9,
+    "def": 1.62,
+    "spi": 29.2,
+    "location": {
+      "city": "West Gertrudeworth",
+      "zip": "19702"
+    }
+  },
+  {
+    "rank": 454,
+    "prev_rank": 453,
+    "name": "Mirandes",
+    "league": "Spanish Segunda Division",
+    "off": 0.86,
+    "def": 1.56,
+    "spi": 29.18,
+    "location": {
+      "city": "Andrestown",
+      "zip": "34044"
+    }
+  },
+  {
+    "rank": 455,
+    "prev_rank": 454,
+    "name": "Valenciennes",
+    "league": "French Ligue 2",
+    "off": 0.9,
+    "def": 1.62,
+    "spi": 29.08,
+    "location": {
+      "city": "Arnaldoburgh",
+      "zip": "23977-8065"
+    }
+  },
+  {
+    "rank": 456,
+    "prev_rank": 455,
+    "name": "Arminia Bielefeld",
+    "league": "German 2. Bundesliga",
+    "off": 1.14,
+    "def": 1.96,
+    "spi": 29.04,
+    "location": {
+      "city": "Woodbury",
+      "zip": "34446-1330"
+    }
+  },
+  {
+    "rank": 457,
+    "prev_rank": 456,
+    "name": "1. FC Magdeburg",
+    "league": "German 2. Bundesliga",
+    "off": 1.08,
+    "def": 1.88,
+    "spi": 28.89,
+    "location": {
+      "city": "Rodolfochester",
+      "zip": "39960"
+    }
+  },
+  {
+    "rank": 458,
+    "prev_rank": 458,
+    "name": "Modena",
+    "league": "Italy Serie B",
+    "off": 0.92,
+    "def": 1.67,
+    "spi": 28.78,
+    "location": {
+      "city": "Lewisville",
+      "zip": "29732"
+    }
+  },
+  {
+    "rank": 459,
+    "prev_rank": 459,
+    "name": "Reggina",
+    "league": "Italy Serie B",
+    "off": 0.84,
+    "def": 1.56,
+    "spi": 28.65,
+    "location": {
+      "city": "East Caraworth",
+      "zip": "21441"
+    }
+  },
+  {
+    "rank": 460,
+    "prev_rank": 460,
+    "name": "Rodez",
+    "league": "French Ligue 2",
+    "off": 0.75,
+    "def": 1.44,
+    "spi": 28.47,
+    "location": {
+      "city": "Town 'n' Country",
+      "zip": "92679-4048"
+    }
+  },
+  {
+    "rank": 461,
+    "prev_rank": 461,
+    "name": "HJK Helsinki",
+    "league": "UEFA Europa League",
+    "off": 0.94,
+    "def": 1.71,
+    "spi": 28.47,
+    "location": {
+      "city": "Weymouth Town",
+      "zip": "43576-7255"
+    }
+  },
+  {
+    "rank": 462,
+    "prev_rank": 462,
+    "name": "Grenoble",
+    "league": "French Ligue 2",
+    "off": 0.61,
+    "def": 1.23,
+    "spi": 28.32,
+    "location": {
+      "city": "Chanelport",
+      "zip": "11988-0180"
+    }
+  },
+  {
+    "rank": 463,
+    "prev_rank": 463,
+    "name": "Lyngby",
+    "league": "Danish SAS-Ligaen",
+    "off": 0.86,
+    "def": 1.61,
+    "spi": 28.27,
+    "location": {
+      "city": "North Mollyshire",
+      "zip": "32843-1007"
+    }
+  },
+  {
+    "rank": 464,
+    "prev_rank": 464,
+    "name": "Guangzhou Evergrande",
+    "league": "Chinese Super League",
+    "off": 1.08,
+    "def": 1.93,
+    "spi": 28.19,
+    "location": {
+      "city": "Lake Dallinboro",
+      "zip": "20588"
+    }
+  },
+  {
+    "rank": 465,
+    "prev_rank": 465,
+    "name": "Portsmouth",
+    "league": "English League One",
+    "off": 0.82,
+    "def": 1.57,
+    "spi": 28.06,
+    "location": {
+      "city": "West Shemarborough",
+      "zip": "85623-5933"
+    }
+  },
+  {
+    "rank": 466,
+    "prev_rank": 466,
+    "name": "SV Zulte Waregem",
+    "league": "Belgian Jupiler League",
+    "off": 1.35,
+    "def": 2.32,
+    "spi": 27.95,
+    "location": {
+      "city": "Jenkinshaven",
+      "zip": "35861-6976"
+    }
+  },
+  {
+    "rank": 467,
+    "prev_rank": 467,
+    "name": "Pau",
+    "league": "French Ligue 2",
+    "off": 0.92,
+    "def": 1.75,
+    "spi": 27.53,
+    "location": {
+      "city": "Pompano Beach",
+      "zip": "05645-6617"
+    }
+  },
+  {
+    "rank": 468,
+    "prev_rank": 468,
+    "name": "Cittadella",
+    "league": "Italy Serie B",
+    "off": 0.7,
+    "def": 1.42,
+    "spi": 27.52,
+    "location": {
+      "city": "Lake Muhammadville",
+      "zip": "66583-0343"
+    }
+  },
+  {
+    "rank": 469,
+    "prev_rank": 472,
+    "name": "Avispa Fukuoka",
+    "league": "Japanese J League",
+    "off": 0.78,
+    "def": 1.56,
+    "spi": 27.26,
+    "location": {
+      "city": "Bartlett",
+      "zip": "85354-2307"
+    }
+  },
+  {
+    "rank": 470,
+    "prev_rank": 469,
+    "name": "Hannover 96",
+    "league": "German 2. Bundesliga",
+    "off": 1.07,
+    "def": 1.98,
+    "spi": 27.15,
+    "location": {
+      "city": "Whiteville",
+      "zip": "52044-6140"
+    }
+  },
+  {
+    "rank": 471,
+    "prev_rank": 488,
+    "name": "Kashiwa Reysol",
+    "league": "Japanese J League",
+    "off": 0.91,
+    "def": 1.75,
+    "spi": 27.13,
+    "location": {
+      "city": "North Hettieshire",
+      "zip": "31521-0866"
+    }
+  },
+  {
+    "rank": 472,
+    "prev_rank": 470,
+    "name": "Ross County",
+    "league": "Scottish Premiership",
+    "off": 0.92,
+    "def": 1.76,
+    "spi": 27.12,
+    "location": {
+      "city": "Fort Maynard",
+      "zip": "50436"
+    }
+  },
+  {
+    "rank": 473,
+    "prev_rank": 471,
+    "name": "Amiens",
+    "league": "French Ligue 2",
+    "off": 0.83,
+    "def": 1.63,
+    "spi": 27.09,
+    "location": {
+      "city": "Lake Darryl",
+      "zip": "33871-2716"
+    }
+  },
+  {
+    "rank": 474,
+    "prev_rank": 473,
+    "name": "Orlando Pirates",
+    "league": "South African ABSA Premier League",
+    "off": 0.75,
+    "def": 1.53,
+    "spi": 27,
+    "location": {
+      "city": "Merced",
+      "zip": "33109-4552"
+    }
+  },
+  {
+    "rank": 475,
+    "prev_rank": 474,
+    "name": "Spal",
+    "league": "Italy Serie B",
+    "off": 0.83,
+    "def": 1.65,
+    "spi": 26.96,
+    "location": {
+      "city": "Trinityshire",
+      "zip": "72402"
+    }
+  },
+  {
+    "rank": 476,
+    "prev_rank": 475,
+    "name": "SD Ponferradina",
+    "league": "Spanish Segunda Division",
+    "off": 0.77,
+    "def": 1.55,
+    "spi": 26.95,
+    "location": {
+      "city": "Furmanstead",
+      "zip": "29834"
+    }
+  },
+  {
+    "rank": 477,
+    "prev_rank": 476,
+    "name": "Perugia",
+    "league": "Italy Serie B",
+    "off": 0.84,
+    "def": 1.67,
+    "spi": 26.91,
+    "location": {
+      "city": "Muncie",
+      "zip": "15279"
+    }
+  },
+  {
+    "rank": 478,
+    "prev_rank": 478,
+    "name": "Nimes",
+    "league": "French Ligue 2",
+    "off": 1.01,
+    "def": 1.91,
+    "spi": 26.75,
+    "location": {
+      "city": "Newport Beach",
+      "zip": "35132-4133"
+    }
+  },
+  {
+    "rank": 479,
+    "prev_rank": 479,
+    "name": "Atromitos",
+    "league": "Greek Super League",
+    "off": 0.71,
+    "def": 1.48,
+    "spi": 26.69,
+    "location": {
+      "city": "Veronaland",
+      "zip": "76510-5592"
+    }
+  },
+  {
+    "rank": 480,
+    "prev_rank": 484,
+    "name": "Arsenal Sarandi",
+    "league": "Argentina Primera Division",
+    "off": 0.75,
+    "def": 1.54,
+    "spi": 26.68,
+    "location": {
+      "city": "New Angusside",
+      "zip": "37379"
+    }
+  },
+  {
+    "rank": 481,
+    "prev_rank": 490,
+    "name": "Stromsgodset",
+    "league": "Norwegian Tippeligaen",
+    "off": 0.99,
+    "def": 1.89,
+    "spi": 26.68,
+    "location": {
+      "city": "South Orin",
+      "zip": "89837-2699"
+    }
+  },
+  {
+    "rank": 482,
+    "prev_rank": 477,
+    "name": "San Antonio FC",
+    "league": "United Soccer League",
+    "off": 0.88,
+    "def": 1.74,
+    "spi": 26.51,
+    "location": {
+      "city": "Silver Spring",
+      "zip": "48798-3339"
+    }
+  },
+  {
+    "rank": 483,
+    "prev_rank": 500,
+    "name": "Kyoto Purple Sanga",
+    "league": "Japanese J League",
+    "off": 0.83,
+    "def": 1.68,
+    "spi": 26.4,
+    "location": {
+      "city": "North Alliestead",
+      "zip": "18470-3113"
+    }
+  },
+  {
+    "rank": 484,
+    "prev_rank": 481,
+    "name": "Burgos",
+    "league": "Spanish Segunda Division",
+    "off": 0.69,
+    "def": 1.47,
+    "spi": 26.38,
+    "location": {
+      "city": "Lake Virginieland",
+      "zip": "57331-9920"
+    }
+  },
+  {
+    "rank": 485,
+    "prev_rank": 480,
+    "name": "AIK",
+    "league": "Swedish Allsvenskan",
+    "off": 0.84,
+    "def": 1.7,
+    "spi": 26.35,
+    "location": {
+      "city": "St. Peters",
+      "zip": "50956-5690"
+    }
+  },
+  {
+    "rank": 486,
+    "prev_rank": 502,
+    "name": "Gamba Osaka",
+    "league": "Japanese J League",
+    "off": 0.92,
+    "def": 1.82,
+    "spi": 26.35,
+    "location": {
+      "city": "Hendersonburgh",
+      "zip": "05219"
+    }
+  },
+  {
+    "rank": 487,
+    "prev_rank": 486,
+    "name": "Stabaek",
+    "league": "Norwegian Tippeligaen",
+    "off": 0.94,
+    "def": 1.85,
+    "spi": 26.27,
+    "location": {
+      "city": "South Consuelo",
+      "zip": "22514"
+    }
+  },
+  {
+    "rank": 488,
+    "prev_rank": 482,
+    "name": "Livingston",
+    "league": "Scottish Premiership",
+    "off": 0.83,
+    "def": 1.69,
+    "spi": 26.09,
+    "location": {
+      "city": "East Zelmashire",
+      "zip": "14738"
+    }
+  },
+  {
+    "rank": 489,
+    "prev_rank": 483,
+    "name": "Cashpoint SC Rheindorf Altach",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 0.82,
+    "def": 1.68,
+    "spi": 26.06,
+    "location": {
+      "city": "Burke",
+      "zip": "47411"
+    }
+  },
+  {
+    "rank": 490,
+    "prev_rank": 485,
+    "name": "Sydney FC",
+    "league": "Australian A-League",
+    "off": 1.05,
+    "def": 2.03,
+    "spi": 26,
+    "location": {
+      "city": "South Whittier",
+      "zip": "47365"
+    }
+  },
+  {
+    "rank": 491,
+    "prev_rank": 487,
+    "name": "Ternana",
+    "league": "Italy Serie B",
+    "off": 0.85,
+    "def": 1.74,
+    "spi": 25.79,
+    "location": {
+      "city": "Kolbyview",
+      "zip": "24525"
+    }
+  },
+  {
+    "rank": 492,
+    "prev_rank": 491,
+    "name": "Charlton Athletic",
+    "league": "English League One",
+    "off": 0.98,
+    "def": 1.94,
+    "spi": 25.71,
+    "location": {
+      "city": "Zulastead",
+      "zip": "38058-0610"
+    }
+  },
+  {
+    "rank": 493,
+    "prev_rank": 492,
+    "name": "SV Ried",
+    "league": "Austrian T-Mobile Bundesliga",
+    "off": 0.87,
+    "def": 1.8,
+    "spi": 25.4,
+    "location": {
+      "city": "Lake Montana",
+      "zip": "98950-5291"
+    }
+  },
+  {
+    "rank": 494,
+    "prev_rank": 493,
+    "name": "Western Sydney FC",
+    "league": "Australian A-League",
+    "off": 0.99,
+    "def": 1.97,
+    "spi": 25.37,
+    "location": {
+      "city": "Lake Shayna",
+      "zip": "87305-7452"
+    }
+  },
+  {
+    "rank": 495,
+    "prev_rank": 489,
+    "name": "Shonan Bellmare",
+    "league": "Japanese J League",
+    "off": 0.83,
+    "def": 1.74,
+    "spi": 25.33,
+    "location": {
+      "city": "Turnershire",
+      "zip": "64659"
+    }
+  },
+  {
+    "rank": 496,
+    "prev_rank": 495,
+    "name": "Laval",
+    "league": "French Ligue 2",
+    "off": 0.83,
+    "def": 1.75,
+    "spi": 25.3,
+    "location": {
+      "city": "Kyleebury",
+      "zip": "08336"
+    }
+  },
+  {
+    "rank": 497,
+    "prev_rank": 497,
+    "name": "Benevento",
+    "league": "Italy Serie B",
+    "off": 0.77,
+    "def": 1.67,
+    "spi": 25.04,
+    "location": {
+      "city": "North Roelbury",
+      "zip": "42723"
+    }
+  },
+  {
+    "rank": 498,
+    "prev_rank": 498,
+    "name": "Beijing Guoan",
+    "league": "Chinese Super League",
+    "off": 0.98,
+    "def": 1.99,
+    "spi": 24.95,
+    "location": {
+      "city": "Quintenburgh",
+      "zip": "33233"
+    }
+  },
+  {
+    "rank": 499,
+    "prev_rank": 499,
+    "name": "1. FC Nürnberg",
+    "league": "German 2. Bundesliga",
+    "off": 0.8,
+    "def": 1.72,
+    "spi": 24.93,
+    "location": {
+      "city": "Coon Rapids",
+      "zip": "70422"
+    }
+  },
+  {
+    "rank": 500,
+    "prev_rank": 494,
+    "name": "Louisville City FC",
+    "league": "United Soccer League",
+    "off": 0.83,
+    "def": 1.77,
+    "spi": 24.85,
+    "location": {
+      "city": "Lake Earlene",
+      "zip": "57253-6058"
+    }
+  },
+  {
+    "rank": 501,
+    "prev_rank": 501,
+    "name": "Dundee Utd",
+    "league": "Scottish Premiership",
+    "off": 0.87,
+    "def": 1.85,
+    "spi": 24.71,
+    "location": {
+      "city": "New Erwin",
+      "zip": "14672-3151"
+    }
+  },
+  {
+    "rank": 502,
+    "prev_rank": 503,
+    "name": "Wycombe Wanderers",
+    "league": "English League One",
+    "off": 0.78,
+    "def": 1.72,
+    "spi": 24.47,
+    "location": {
+      "city": "Jarvisside",
+      "zip": "18740-2445"
+    }
+  },
+  {
+    "rank": 503,
+    "prev_rank": 509,
+    "name": "Haugesund",
+    "league": "Norwegian Tippeligaen",
+    "off": 0.87,
+    "def": 1.86,
+    "spi": 24.42,
+    "location": {
+      "city": "Lake Dawson",
+      "zip": "87281"
+    }
+  },
+  {
+    "rank": 504,
+    "prev_rank": 506,
+    "name": "Annecy",
+    "league": "French Ligue 2",
+    "off": 0.79,
+    "def": 1.75,
+    "spi": 24.36,
+    "location": {
+      "city": "Ernestineview",
+      "zip": "35255-6846"
+    }
+  },
+  {
+    "rank": 505,
+    "prev_rank": 507,
+    "name": "Shanghai SIPG",
+    "league": "Chinese Super League",
+    "off": 0.9,
+    "def": 1.92,
+    "spi": 24.26,
+    "location": {
+      "city": "Eltaview",
+      "zip": "56859-9489"
+    }
+  },
+  {
+    "rank": 506,
+    "prev_rank": 508,
+    "name": "Jahn Regensburg",
+    "league": "German 2. Bundesliga",
+    "off": 0.9,
+    "def": 1.92,
+    "spi": 24.14,
+    "location": {
+      "city": "New Brookecester",
+      "zip": "54298-5585"
+    }
+  },
+  {
+    "rank": 507,
+    "prev_rank": 505,
+    "name": "San Diego Loyal SC",
+    "league": "United Soccer League",
+    "off": 0.95,
+    "def": 2,
+    "spi": 24.13,
+    "location": {
+      "city": "Juanaland",
+      "zip": "91377"
+    }
+  },
+  {
+    "rank": 508,
+    "prev_rank": 504,
+    "name": "Tampa Bay Rowdies",
+    "league": "United Soccer League",
+    "off": 0.88,
+    "def": 1.9,
+    "spi": 24.09,
+    "location": {
+      "city": "Lake Arnold",
+      "zip": "83973-5843"
+    }
+  },
+  {
+    "rank": 509,
+    "prev_rank": 510,
+    "name": "Pyunik Yerevan",
+    "league": "UEFA Europa Conference League",
+    "off": 0.87,
+    "def": 1.9,
+    "spi": 23.79,
+    "location": {
+      "city": "Manchester",
+      "zip": "74257"
+    }
+  },
+  {
+    "rank": 510,
+    "prev_rank": 496,
+    "name": "IFK Goteborg",
+    "league": "Swedish Allsvenskan",
+    "off": 0.8,
+    "def": 1.8,
+    "spi": 23.75,
+    "location": {
+      "city": "Fresno",
+      "zip": "64819-6154"
+    }
+  },
+  {
+    "rank": 511,
+    "prev_rank": 511,
+    "name": "UD Ibiza",
+    "league": "Spanish Segunda Division",
+    "off": 0.71,
+    "def": 1.66,
+    "spi": 23.58,
+    "location": {
+      "city": "Port Caleighton",
+      "zip": "13447"
+    }
+  },
+  {
+    "rank": 512,
+    "prev_rank": 513,
+    "name": "Fleetwood Town",
+    "league": "English League One",
+    "off": 0.76,
+    "def": 1.75,
+    "spi": 23.48,
+    "location": {
+      "city": "Fort Penelope",
+      "zip": "90635"
+    }
+  },
+  {
+    "rank": 513,
+    "prev_rank": 514,
+    "name": "Hansa Rostock",
+    "league": "German 2. Bundesliga",
+    "off": 0.77,
+    "def": 1.77,
+    "spi": 23.38,
+    "location": {
+      "city": "Colorado Springs",
+      "zip": "43230-8920"
+    }
+  },
+  {
+    "rank": 514,
+    "prev_rank": 515,
+    "name": "Sacramento Republic FC",
+    "league": "United Soccer League",
+    "off": 0.79,
+    "def": 1.81,
+    "spi": 23.35,
+    "location": {
+      "city": "Streichport",
+      "zip": "04583-1134"
+    }
+  },
+  {
+    "rank": 515,
+    "prev_rank": 516,
+    "name": "FC Khimki",
+    "league": "Russian Premier Liga",
+    "off": 0.82,
+    "def": 1.87,
+    "spi": 23.26,
+    "location": {
+      "city": "Fort Katelynn",
+      "zip": "87768"
+    }
+  },
+  {
+    "rank": 516,
+    "prev_rank": 517,
+    "name": "KV Oostende",
+    "league": "Belgian Jupiler League",
+    "off": 1.02,
+    "def": 2.18,
+    "spi": 23.17,
+    "location": {
+      "city": "West Reggieshire",
+      "zip": "34798-6856"
+    }
+  },
+  {
+    "rank": 517,
+    "prev_rank": 518,
+    "name": "Winterthur",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 0.81,
+    "def": 1.86,
+    "spi": 23.14,
+    "location": {
+      "city": "Whiteboro",
+      "zip": "50169-4209"
+    }
+  },
+  {
+    "rank": 518,
+    "prev_rank": 519,
+    "name": "Brescia",
+    "league": "Italy Serie B",
+    "off": 0.74,
+    "def": 1.74,
+    "spi": 23.07,
+    "location": {
+      "city": "Diamond Bar",
+      "zip": "27666-5388"
+    }
+  },
+  {
+    "rank": 519,
+    "prev_rank": 520,
+    "name": "Giannina",
+    "league": "Greek Super League",
+    "off": 0.72,
+    "def": 1.72,
+    "spi": 23.02,
+    "location": {
+      "city": "Vacaville",
+      "zip": "97282-6620"
+    }
+  },
+  {
+    "rank": 520,
+    "prev_rank": 521,
+    "name": "AC Horsens",
+    "league": "Danish SAS-Ligaen",
+    "off": 0.88,
+    "def": 1.98,
+    "spi": 22.85,
+    "location": {
+      "city": "Kirabury",
+      "zip": "45007-3831"
+    }
+  },
+  {
+    "rank": 521,
+    "prev_rank": 522,
+    "name": "Arizona United",
+    "league": "United Soccer League",
+    "off": 0.87,
+    "def": 1.98,
+    "spi": 22.82,
+    "location": {
+      "city": "Port Kraigfield",
+      "zip": "57075"
+    }
+  },
+  {
+    "rank": 522,
+    "prev_rank": 530,
+    "name": "Memphis 901 FC",
+    "league": "United Soccer League",
+    "off": 0.95,
+    "def": 2.1,
+    "spi": 22.78,
+    "location": {
+      "city": "West Meghanville",
+      "zip": "47804-1531"
+    }
+  },
+  {
+    "rank": 523,
+    "prev_rank": 523,
+    "name": "Lincoln City",
+    "league": "English League One",
+    "off": 0.61,
+    "def": 1.57,
+    "spi": 22.55,
+    "location": {
+      "city": "Ornworth",
+      "zip": "08591-6597"
+    }
+  },
+  {
+    "rank": 524,
+    "prev_rank": 524,
+    "name": "Eintracht Braunschweig",
+    "league": "German 2. Bundesliga",
+    "off": 0.88,
+    "def": 2.02,
+    "spi": 22.44,
+    "location": {
+      "city": "Kadenmouth",
+      "zip": "76234-3473"
+    }
+  },
+  {
+    "rank": 525,
+    "prev_rank": 525,
+    "name": "Adelaide United",
+    "league": "Australian A-League",
+    "off": 1.06,
+    "def": 2.3,
+    "spi": 22.25,
+    "location": {
+      "city": "North Adeleworth",
+      "zip": "53941"
+    }
+  },
+  {
+    "rank": 526,
+    "prev_rank": 512,
+    "name": "Albirex Niigata",
+    "league": "Japanese J League",
+    "off": 0.82,
+    "def": 1.93,
+    "spi": 22.21,
+    "location": {
+      "city": "South Lesly",
+      "zip": "78132"
+    }
+  },
+  {
+    "rank": 527,
+    "prev_rank": 526,
+    "name": "Eupen",
+    "league": "Belgian Jupiler League",
+    "off": 0.98,
+    "def": 2.19,
+    "spi": 22.18,
+    "location": {
+      "city": "Tustin",
+      "zip": "22124-3969"
+    }
+  },
+  {
+    "rank": 528,
+    "prev_rank": 527,
+    "name": "Exeter City",
+    "league": "English League One",
+    "off": 0.85,
+    "def": 1.98,
+    "spi": 22.1,
+    "location": {
+      "city": "Maggioton",
+      "zip": "59487-6226"
+    }
+  },
+  {
+    "rank": 529,
+    "prev_rank": 528,
+    "name": "Asteras Tripolis",
+    "league": "Greek Super League",
+    "off": 0.5,
+    "def": 1.42,
+    "spi": 22,
+    "location": {
+      "city": "Claudiastead",
+      "zip": "90339-7399"
+    }
+  },
+  {
+    "rank": 530,
+    "prev_rank": 529,
+    "name": "Sandefjord",
+    "league": "Norwegian Tippeligaen",
+    "off": 0.91,
+    "def": 2.11,
+    "spi": 21.82,
+    "location": {
+      "city": "Lake Alvaboro",
+      "zip": "08010-5997"
+    }
+  },
+  {
+    "rank": 531,
+    "prev_rank": 531,
+    "name": "Melbourne Victory",
+    "league": "Australian A-League",
+    "off": 0.77,
+    "def": 1.9,
+    "spi": 21.65,
+    "location": {
+      "city": "Reynoldberg",
+      "zip": "57287"
+    }
+  },
+  {
+    "rank": 532,
+    "prev_rank": 532,
+    "name": "FC Sion",
+    "league": "Swiss Raiffeisen Super League",
+    "off": 0.96,
+    "def": 2.19,
+    "spi": 21.6,
+    "location": {
+      "city": "New Leora",
+      "zip": "25312"
+    }
+  },
+  {
+    "rank": 533,
+    "prev_rank": 539,
+    "name": "IK Sirius",
+    "league": "Swedish Allsvenskan",
+    "off": 0.79,
+    "def": 1.94,
+    "spi": 21.44,
+    "location": {
+      "city": "Traceton",
+      "zip": "16575"
+    }
+  },
+  {
+    "rank": 534,
+    "prev_rank": 546,
+    "name": "Colorado Springs Switchbacks FC",
+    "league": "United Soccer League",
+    "off": 0.77,
+    "def": 1.92,
+    "spi": 21.37,
+    "location": {
+      "city": "Swaniawskiland",
+      "zip": "72356-9005"
+    }
+  },
+  {
+    "rank": 535,
+    "prev_rank": 534,
+    "name": "Torpedo Moskow",
+    "league": "Russian Premier Liga",
+    "off": 0.72,
+    "def": 1.86,
+    "spi": 20.97,
+    "location": {
+      "city": "Erdmanside",
+      "zip": "09517-7294"
+    }
+  },
+  {
+    "rank": 536,
+    "prev_rank": 535,
+    "name": "Lugo",
+    "league": "Spanish Segunda Division",
+    "off": 0.58,
+    "def": 1.64,
+    "spi": 20.79,
+    "location": {
+      "city": "Nathanialstead",
+      "zip": "99005-3332"
+    }
+  },
+  {
+    "rank": 537,
+    "prev_rank": 536,
+    "name": "Cosenza",
+    "league": "Italy Serie B",
+    "off": 0.54,
+    "def": 1.57,
+    "spi": 20.68,
+    "location": {
+      "city": "Gleichnerbury",
+      "zip": "37273-0151"
+    }
+  },
+  {
+    "rank": 538,
+    "prev_rank": 537,
+    "name": "Shamrock Rovers",
+    "league": "UEFA Europa Conference League",
+    "off": 0.69,
+    "def": 1.84,
+    "spi": 20.63,
+    "location": {
+      "city": "Hyatttown",
+      "zip": "21919"
+    }
+  },
+  {
+    "rank": 539,
+    "prev_rank": 533,
+    "name": "Mjallby",
+    "league": "Swedish Allsvenskan",
+    "off": 0.57,
+    "def": 1.64,
+    "spi": 20.52,
+    "location": {
+      "city": "Tonyport",
+      "zip": "33487"
+    }
+  },
+  {
+    "rank": 540,
+    "prev_rank": 538,
+    "name": "Oxford United",
+    "league": "English League One",
+    "off": 0.64,
+    "def": 1.76,
+    "spi": 20.42,
+    "location": {
+      "city": "West Reynahaven",
+      "zip": "98844-6580"
+    }
+  },
+  {
+    "rank": 541,
+    "prev_rank": 540,
+    "name": "Black Aces",
+    "league": "South African ABSA Premier League",
+    "off": 0.56,
+    "def": 1.65,
+    "spi": 20.2,
+    "location": {
+      "city": "Fredside",
+      "zip": "99606-0263"
+    }
+  },
+  {
+    "rank": 542,
+    "prev_rank": 541,
+    "name": "RFC Seraing",
+    "league": "Belgian Jupiler League",
+    "off": 0.75,
+    "def": 1.98,
+    "spi": 20.07,
+    "location": {
+      "city": "Johnshaven",
+      "zip": "57538"
+    }
+  },
+  {
+    "rank": 543,
+    "prev_rank": 543,
+    "name": "Oakland Roots",
+    "league": "United Soccer League",
+    "off": 0.75,
+    "def": 1.98,
+    "spi": 19.97,
+    "location": {
+      "city": "Fort Rosalindacester",
+      "zip": "40327"
+    }
+  },
+  {
+    "rank": 544,
+    "prev_rank": 542,
+    "name": "Brommapojkarna",
+    "league": "Swedish Allsvenskan",
+    "off": 0.7,
+    "def": 1.91,
+    "spi": 19.85,
+    "location": {
+      "city": "Palm Coast",
+      "zip": "09827-1605"
+    }
+  },
+  {
+    "rank": 545,
+    "prev_rank": 544,
+    "name": "Stellenbosch FC",
+    "league": "South African ABSA Premier League",
+    "off": 0.64,
+    "def": 1.83,
+    "spi": 19.63,
+    "location": {
+      "city": "Lake Emiletown",
+      "zip": "63395-6142"
+    }
+  },
+  {
+    "rank": 546,
+    "prev_rank": 547,
+    "name": "Volos NFC",
+    "league": "Greek Super League",
+    "off": 0.67,
+    "def": 1.9,
+    "spi": 19.41,
+    "location": {
+      "city": "Port Ethaboro",
+      "zip": "45214-0177"
+    }
+  },
+  {
+    "rank": 547,
+    "prev_rank": 548,
+    "name": "Burton Albion",
+    "league": "English League One",
+    "off": 0.74,
+    "def": 2.01,
+    "spi": 19.29,
+    "location": {
+      "city": "Fort Collins",
+      "zip": "30766-9032"
+    }
+  },
+  {
+    "rank": 548,
+    "prev_rank": 545,
+    "name": "Aalesund",
+    "league": "Norwegian Tippeligaen",
+    "off": 0.71,
+    "def": 1.98,
+    "spi": 19.15,
+    "location": {
+      "city": "West Bridgettestead",
+      "zip": "98938-3735"
+    }
+  },
+  {
+    "rank": 549,
+    "prev_rank": 555,
+    "name": "El Paso Locomotive FC",
+    "league": "United Soccer League",
+    "off": 0.72,
+    "def": 2,
+    "spi": 19.06,
+    "location": {
+      "city": "Runtestad",
+      "zip": "39276"
+    }
+  },
+  {
+    "rank": 550,
+    "prev_rank": 549,
+    "name": "Niort",
+    "league": "French Ligue 2",
+    "off": 0.71,
+    "def": 1.98,
+    "spi": 19.04,
+    "location": {
+      "city": "Sethboro",
+      "zip": "84776"
+    }
+  },
+  {
+    "rank": 551,
+    "prev_rank": 550,
+    "name": "Ionikos FC",
+    "league": "Greek Super League",
+    "off": 0.58,
+    "def": 1.77,
+    "spi": 18.97,
+    "location": {
+      "city": "Stiedemannboro",
+      "zip": "58653"
+    }
+  },
+  {
+    "rank": 552,
+    "prev_rank": 551,
+    "name": "Levadiakos",
+    "league": "Greek Super League",
+    "off": 0.61,
+    "def": 1.83,
+    "spi": 18.85,
+    "location": {
+      "city": "Fort Pierce",
+      "zip": "99261"
+    }
+  },
+  {
+    "rank": 553,
+    "prev_rank": 552,
+    "name": "Shrewsbury Town",
+    "league": "English League One",
+    "off": 0.63,
+    "def": 1.87,
+    "spi": 18.81,
+    "location": {
+      "city": "West Alison",
+      "zip": "22912"
+    }
+  },
+  {
+    "rank": 554,
+    "prev_rank": 553,
+    "name": "SuperSport United",
+    "league": "South African ABSA Premier League",
+    "off": 0.45,
+    "def": 1.55,
+    "spi": 18.66,
+    "location": {
+      "city": "Samhaven",
+      "zip": "97712-0022"
+    }
+  },
+  {
+    "rank": 555,
+    "prev_rank": 556,
+    "name": "SV Sandhausen",
+    "league": "German 2. Bundesliga",
+    "off": 0.72,
+    "def": 2.04,
+    "spi": 18.5,
+    "location": {
+      "city": "Nashua",
+      "zip": "16780-7131"
+    }
+  },
+  {
+    "rank": 556,
+    "prev_rank": 557,
+    "name": "Shandong Luneng",
+    "league": "Chinese Super League",
+    "off": 0.82,
+    "def": 2.22,
+    "spi": 18.5,
+    "location": {
+      "city": "Fort Tierratown",
+      "zip": "28900-3262"
+    }
+  },
+  {
+    "rank": 557,
+    "prev_rank": 558,
+    "name": "Salford City",
+    "league": "English League Two",
+    "off": 0.78,
+    "def": 2.16,
+    "spi": 18.49,
+    "location": {
+      "city": "Elwinstad",
+      "zip": "73260"
+    }
+  },
+  {
+    "rank": 558,
+    "prev_rank": 559,
+    "name": "Jiangsu Suning FC",
+    "league": "Chinese Super League",
+    "off": 0.71,
+    "def": 2.04,
+    "spi": 18.37,
+    "location": {
+      "city": "Ilianashire",
+      "zip": "90618-3137"
+    }
+  },
+  {
+    "rank": 559,
+    "prev_rank": 560,
+    "name": "Cheltenham Town",
+    "league": "English League One",
+    "off": 0.67,
+    "def": 1.99,
+    "spi": 18.26,
+    "location": {
+      "city": "Moore",
+      "zip": "10738"
+    }
+  },
+  {
+    "rank": 560,
+    "prev_rank": 554,
+    "name": "Gazisehir Gaziantep",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 0.71,
+    "def": 2.05,
+    "spi": 18.25,
+    "location": {
+      "city": "Kshlerinborough",
+      "zip": "92494"
+    }
+  },
+  {
+    "rank": 561,
+    "prev_rank": 567,
+    "name": "Halmstads BK",
+    "league": "Swedish Allsvenskan",
+    "off": 0.64,
+    "def": 1.94,
+    "spi": 18.07,
+    "location": {
+      "city": "New Eliane",
+      "zip": "64280"
+    }
+  },
+  {
+    "rank": 562,
+    "prev_rank": 561,
+    "name": "Mansfield Town",
+    "league": "English League Two",
+    "off": 0.71,
+    "def": 2.08,
+    "spi": 17.84,
+    "location": {
+      "city": "North Tanya",
+      "zip": "60784"
+    }
+  },
+  {
+    "rank": 563,
+    "prev_rank": 563,
+    "name": "Milton Keynes Dons",
+    "league": "English League One",
+    "off": 0.58,
+    "def": 1.86,
+    "spi": 17.71,
+    "location": {
+      "city": "Robelville",
+      "zip": "88388"
+    }
+  },
+  {
+    "rank": 564,
+    "prev_rank": 564,
+    "name": "Panetolikos",
+    "league": "Greek Super League",
+    "off": 0.63,
+    "def": 1.97,
+    "spi": 17.67,
+    "location": {
+      "city": "Genevievechester",
+      "zip": "90307-3909"
+    }
+  },
+  {
+    "rank": 565,
+    "prev_rank": 571,
+    "name": "New Mexico United",
+    "league": "United Soccer League",
+    "off": 0.67,
+    "def": 2.04,
+    "spi": 17.62,
+    "location": {
+      "city": "Rio Rancho",
+      "zip": "90042-6639"
+    }
+  },
+  {
+    "rank": 566,
+    "prev_rank": 566,
+    "name": "Yokohama FC",
+    "league": "Japanese J League",
+    "off": 0.65,
+    "def": 2,
+    "spi": 17.62,
+    "location": {
+      "city": "Tomasstead",
+      "zip": "63359-0532"
+    }
+  },
+  {
+    "rank": 567,
+    "prev_rank": 568,
+    "name": "Stockport County",
+    "league": "English League Two",
+    "off": 0.49,
+    "def": 1.72,
+    "spi": 17.4,
+    "location": {
+      "city": "Terrycester",
+      "zip": "82948-4552"
+    }
+  },
+  {
+    "rank": 568,
+    "prev_rank": 565,
+    "name": "Hamarkamaratene",
+    "league": "Norwegian Tippeligaen",
+    "off": 0.68,
+    "def": 2.08,
+    "spi": 17.21,
+    "location": {
+      "city": "Kossview",
+      "zip": "13833"
+    }
+  },
+  {
+    "rank": 569,
+    "prev_rank": 570,
+    "name": "IFK Värnamo",
+    "league": "Swedish Allsvenskan",
+    "off": 0.58,
+    "def": 1.91,
+    "spi": 17.14,
+    "location": {
+      "city": "Kossbury",
+      "zip": "32254"
+    }
+  },
+  {
+    "rank": 570,
+    "prev_rank": 569,
+    "name": "Pittsburgh Riverhounds",
+    "league": "United Soccer League",
+    "off": 0.51,
+    "def": 1.82,
+    "spi": 16.68,
+    "location": {
+      "city": "Wuckertworth",
+      "zip": "47281-0358"
+    }
+  },
+  {
+    "rank": 571,
+    "prev_rank": 572,
+    "name": "Bristol Rovers",
+    "league": "English League One",
+    "off": 0.65,
+    "def": 2.07,
+    "spi": 16.62,
+    "location": {
+      "city": "Downey",
+      "zip": "62077"
+    }
+  },
+  {
+    "rank": 572,
+    "prev_rank": 573,
+    "name": "Western United",
+    "league": "Australian A-League",
+    "off": 0.77,
+    "def": 2.3,
+    "spi": 16.55,
+    "location": {
+      "city": "Cronatown",
+      "zip": "37274"
+    }
+  },
+  {
+    "rank": 573,
+    "prev_rank": 574,
+    "name": "Wellington Phoenix",
+    "league": "Australian A-League",
+    "off": 0.79,
+    "def": 2.36,
+    "spi": 16.39,
+    "location": {
+      "city": "Mayaguez",
+      "zip": "61301"
+    }
+  },
+  {
+    "rank": 574,
+    "prev_rank": 562,
+    "name": "Orange County SC",
+    "league": "United Soccer League",
+    "off": 0.58,
+    "def": 1.99,
+    "spi": 16.19,
+    "location": {
+      "city": "O'Keefetown",
+      "zip": "15053"
+    }
+  },
+  {
+    "rank": 575,
+    "prev_rank": 575,
+    "name": "TS Galaxy",
+    "league": "South African ABSA Premier League",
+    "off": 0.37,
+    "def": 1.59,
+    "spi": 16.04,
+    "location": {
+      "city": "Ashburn",
+      "zip": "27988-0408"
+    }
+  },
+  {
+    "rank": 576,
+    "prev_rank": 576,
+    "name": "Kaizer Chiefs",
+    "league": "South African ABSA Premier League",
+    "off": 0.46,
+    "def": 1.76,
+    "spi": 16.03,
+    "location": {
+      "city": "North Cotyberg",
+      "zip": "67339-3533"
+    }
+  },
+  {
+    "rank": 577,
+    "prev_rank": 577,
+    "name": "Birmingham Legion FC",
+    "league": "United Soccer League",
+    "off": 0.66,
+    "def": 2.19,
+    "spi": 15.73,
+    "location": {
+      "city": "York",
+      "zip": "79084"
+    }
+  },
+  {
+    "rank": 578,
+    "prev_rank": 578,
+    "name": "Brisbane Roar",
+    "league": "Australian A-League",
+    "off": 0.6,
+    "def": 2.07,
+    "spi": 15.7,
+    "location": {
+      "city": "Lake Alysa",
+      "zip": "80926"
+    }
+  },
+  {
+    "rank": 579,
+    "prev_rank": 579,
+    "name": "Lamia",
+    "league": "Greek Super League",
+    "off": 0.47,
+    "def": 1.85,
+    "spi": 15.27,
+    "location": {
+      "city": "Elyria",
+      "zip": "05200"
+    }
+  },
+  {
+    "rank": 580,
+    "prev_rank": 580,
+    "name": "Newcastle Jets",
+    "league": "Australian A-League",
+    "off": 0.68,
+    "def": 2.28,
+    "spi": 15.09,
+    "location": {
+      "city": "Mooreville",
+      "zip": "66129-8934"
+    }
+  },
+  {
+    "rank": 581,
+    "prev_rank": 582,
+    "name": "Degerfors IF",
+    "league": "Swedish Allsvenskan",
+    "off": 0.68,
+    "def": 2.29,
+    "spi": 15.04,
+    "location": {
+      "city": "East Bobbyville",
+      "zip": "59261-0751"
+    }
+  },
+  {
+    "rank": 582,
+    "prev_rank": 581,
+    "name": "Port Vale",
+    "league": "English League One",
+    "off": 0.61,
+    "def": 2.16,
+    "spi": 15.03,
+    "location": {
+      "city": "DeSoto",
+      "zip": "85262-9350"
+    }
+  },
+  {
+    "rank": 583,
+    "prev_rank": 583,
+    "name": "AmaZulu",
+    "league": "South African ABSA Premier League",
+    "off": 0.4,
+    "def": 1.81,
+    "spi": 14.3,
+    "location": {
+      "city": "Birmingham",
+      "zip": "62354-9638"
+    }
+  },
+  {
+    "rank": 584,
+    "prev_rank": 584,
+    "name": "Bradford City",
+    "league": "English League Two",
+    "off": 0.48,
+    "def": 1.97,
+    "spi": 14.26,
+    "location": {
+      "city": "Port Cecelialand",
+      "zip": "13927-9775"
+    }
+  },
+  {
+    "rank": 585,
+    "prev_rank": 585,
+    "name": "Swindon Town",
+    "league": "English League Two",
+    "off": 0.56,
+    "def": 2.17,
+    "spi": 13.81,
+    "location": {
+      "city": "North Amari",
+      "zip": "15973-8266"
+    }
+  },
+  {
+    "rank": 586,
+    "prev_rank": 589,
+    "name": "Miami FC",
+    "league": "United Soccer League",
+    "off": 0.53,
+    "def": 2.11,
+    "spi": 13.81,
+    "location": {
+      "city": "Maximofurt",
+      "zip": "95372"
+    }
+  },
+  {
+    "rank": 587,
+    "prev_rank": 586,
+    "name": "Leyton Orient",
+    "league": "English League Two",
+    "off": 0.39,
+    "def": 1.84,
+    "spi": 13.55,
+    "location": {
+      "city": "Erdmanfield",
+      "zip": "35563-0937"
+    }
+  },
+  {
+    "rank": 588,
+    "prev_rank": 587,
+    "name": "Carlisle United",
+    "league": "English League Two",
+    "off": 0.39,
+    "def": 1.86,
+    "spi": 13.42,
+    "location": {
+      "city": "Fort Lavernview",
+      "zip": "54623-7976"
+    }
+  },
+  {
+    "rank": 589,
+    "prev_rank": 590,
+    "name": "Morecambe",
+    "league": "English League One",
+    "off": 0.58,
+    "def": 2.26,
+    "spi": 13.28,
+    "location": {
+      "city": "Cutler Bay",
+      "zip": "82368-5243"
+    }
+  },
+  {
+    "rank": 590,
+    "prev_rank": 591,
+    "name": "Golden Arrows",
+    "league": "South African ABSA Premier League",
+    "off": 0.43,
+    "def": 1.97,
+    "spi": 13.15,
+    "location": {
+      "city": "South Eudoraview",
+      "zip": "02532"
+    }
+  },
+  {
+    "rank": 591,
+    "prev_rank": 592,
+    "name": "Newport County",
+    "league": "English League Two",
+    "off": 0.49,
+    "def": 2.11,
+    "spi": 13.05,
+    "location": {
+      "city": "Davionton",
+      "zip": "01948"
+    }
+  },
+  {
+    "rank": 592,
+    "prev_rank": 588,
+    "name": "Hatayspor",
+    "league": "Turkish Turkcell Super Lig",
+    "off": 0.58,
+    "def": 2.29,
+    "spi": 13.01,
+    "location": {
+      "city": "Dubuque",
+      "zip": "02008-8185"
+    }
+  },
+  {
+    "rank": 593,
+    "prev_rank": 593,
+    "name": "Royal AM",
+    "league": "South African ABSA Premier League",
+    "off": 0.46,
+    "def": 2.06,
+    "spi": 12.93,
+    "location": {
+      "city": "Krajcikborough",
+      "zip": "96576-1634"
+    }
+  },
+  {
+    "rank": 594,
+    "prev_rank": 594,
+    "name": "Perth Glory",
+    "league": "Australian A-League",
+    "off": 0.58,
+    "def": 2.3,
+    "spi": 12.88,
+    "location": {
+      "city": "Roanoke",
+      "zip": "42139"
+    }
+  },
+  {
+    "rank": 595,
+    "prev_rank": 595,
+    "name": "Sekhukhune United",
+    "league": "South African ABSA Premier League",
+    "off": 0.24,
+    "def": 1.61,
+    "spi": 12.53,
+    "location": {
+      "city": "Treutelstead",
+      "zip": "98621-9137"
+    }
+  },
+  {
+    "rank": 596,
+    "prev_rank": 596,
+    "name": "Cambridge United",
+    "league": "English League One",
+    "off": 0.4,
+    "def": 1.98,
+    "spi": 12.42,
+    "location": {
+      "city": "Gibsonton",
+      "zip": "65702-4686"
+    }
+  },
+  {
+    "rank": 597,
+    "prev_rank": 597,
+    "name": "Stevenage",
+    "league": "English League Two",
+    "off": 0.36,
+    "def": 1.9,
+    "spi": 12.35,
+    "location": {
+      "city": "Lake Allisonport",
+      "zip": "97288-3334"
+    }
+  },
+  {
+    "rank": 598,
+    "prev_rank": 598,
+    "name": "Northampton Town",
+    "league": "English League Two",
+    "off": 0.34,
+    "def": 1.88,
+    "spi": 12.2,
+    "location": {
+      "city": "Hemet",
+      "zip": "57443-4784"
+    }
+  },
+  {
+    "rank": 599,
+    "prev_rank": 600,
+    "name": "Hartford Athletic",
+    "league": "United Soccer League",
+    "off": 0.56,
+    "def": 2.36,
+    "spi": 12.06,
+    "location": {
+      "city": "Towson",
+      "zip": "59171-6098"
+    }
+  },
+  {
+    "rank": 600,
+    "prev_rank": 602,
+    "name": "Monterey Bay",
+    "league": "United Soccer League",
+    "off": 0.47,
+    "def": 2.17,
+    "spi": 11.99,
+    "location": {
+      "city": "South Gregg",
+      "zip": "94484-2842"
+    }
+  },
+  {
+    "rank": 601,
+    "prev_rank": 599,
+    "name": "Indy Eleven",
+    "league": "United Soccer League",
+    "off": 0.43,
+    "def": 2.11,
+    "spi": 11.9,
+    "location": {
+      "city": "Keirashire",
+      "zip": "69420"
+    }
+  },
+  {
+    "rank": 602,
+    "prev_rank": 603,
+    "name": "Tianjin Teda",
+    "league": "Chinese Super League",
+    "off": 0.5,
+    "def": 2.26,
+    "spi": 11.8,
+    "location": {
+      "city": "Lake Domenick",
+      "zip": "73005"
+    }
+  },
+  {
+    "rank": 603,
+    "prev_rank": 604,
+    "name": "Macarthur FC",
+    "league": "Australian A-League",
+    "off": 0.63,
+    "def": 2.55,
+    "spi": 11.67,
+    "location": {
+      "city": "West Lincoln",
+      "zip": "78361-4294"
+    }
+  },
+  {
+    "rank": 604,
+    "prev_rank": 601,
+    "name": "Varbergs BoIS FC",
+    "league": "Swedish Allsvenskan",
+    "off": 0.49,
+    "def": 2.27,
+    "spi": 11.51,
+    "location": {
+      "city": "Fort Carter",
+      "zip": "44439"
+    }
+  },
+  {
+    "rank": 605,
+    "prev_rank": 605,
+    "name": "Charleston Battery",
+    "league": "United Soccer League",
+    "off": 0.45,
+    "def": 2.22,
+    "spi": 11.22,
+    "location": {
+      "city": "Phoenix",
+      "zip": "55018"
+    }
+  },
+  {
+    "rank": 606,
+    "prev_rank": 607,
+    "name": "Shanghai Greenland",
+    "league": "Chinese Super League",
+    "off": 0.56,
+    "def": 2.47,
+    "spi": 11.13,
+    "location": {
+      "city": "West Nadiaworth",
+      "zip": "80818-7856"
+    }
+  },
+  {
+    "rank": 607,
+    "prev_rank": 608,
+    "name": "Harrogate Town",
+    "league": "English League Two",
+    "off": 0.54,
+    "def": 2.43,
+    "spi": 11.07,
+    "location": {
+      "city": "Fort Katelyn",
+      "zip": "11078"
+    }
+  },
+  {
+    "rank": 608,
+    "prev_rank": 609,
+    "name": "Moroka Swallows",
+    "league": "South African ABSA Premier League",
+    "off": 0.24,
+    "def": 1.77,
+    "spi": 10.98,
+    "location": {
+      "city": "Tamarac",
+      "zip": "88613"
+    }
+  },
+  {
+    "rank": 609,
+    "prev_rank": 606,
+    "name": "Tulsa Roughnecks",
+    "league": "United Soccer League",
+    "off": 0.49,
+    "def": 2.37,
+    "spi": 10.76,
+    "location": {
+      "city": "New Nayeli",
+      "zip": "42094-9322"
+    }
+  },
+  {
+    "rank": 610,
+    "prev_rank": 614,
+    "name": "Rio Grande Valley FC Toros",
+    "league": "United Soccer League",
+    "off": 0.41,
+    "def": 2.21,
+    "spi": 10.72,
+    "location": {
+      "city": "Fort Carterfort",
+      "zip": "81225-8705"
+    }
+  },
+  {
+    "rank": 611,
+    "prev_rank": 610,
+    "name": "Hebei China Fortune FC",
+    "league": "Chinese Super League",
+    "off": 0.5,
+    "def": 2.43,
+    "spi": 10.52,
+    "location": {
+      "city": "Plymouth",
+      "zip": "43507"
+    }
+  },
+  {
+    "rank": 612,
+    "prev_rank": 611,
+    "name": "Colchester United",
+    "league": "English League Two",
+    "off": 0.27,
+    "def": 1.91,
+    "spi": 10.4,
+    "location": {
+      "city": "Kiehnside",
+      "zip": "64638-9423"
+    }
+  },
+  {
+    "rank": 613,
+    "prev_rank": 612,
+    "name": "Henan Jianye",
+    "league": "Chinese Super League",
+    "off": 0.46,
+    "def": 2.36,
+    "spi": 10.34,
+    "location": {
+      "city": "Havencester",
+      "zip": "18119-8415"
+    }
+  },
+  {
+    "rank": 614,
+    "prev_rank": 613,
+    "name": "Las Vegas Lights FC",
+    "league": "United Soccer League",
+    "off": 0.41,
+    "def": 2.26,
+    "spi": 10.19,
+    "location": {
+      "city": "Enid",
+      "zip": "84603"
+    }
+  },
+  {
+    "rank": 615,
+    "prev_rank": 615,
+    "name": "Gillingham",
+    "league": "English League Two",
+    "off": 0.27,
+    "def": 1.94,
+    "spi": 10.15,
+    "location": {
+      "city": "Isabelshire",
+      "zip": "71310-9202"
+    }
+  },
+  {
+    "rank": 616,
+    "prev_rank": 616,
+    "name": "Dalian Aerbin",
+    "league": "Chinese Super League",
+    "off": 0.51,
+    "def": 2.51,
+    "spi": 9.96,
+    "location": {
+      "city": "North Georgeburgh",
+      "zip": "41573"
+    }
+  },
+  {
+    "rank": 617,
+    "prev_rank": 617,
+    "name": "Tshakhuma Tsha Madzivhandila",
+    "league": "South African ABSA Premier League",
+    "off": 0.25,
+    "def": 1.91,
+    "spi": 9.88,
+    "location": {
+      "city": "Zemlakfield",
+      "zip": "40307"
+    }
+  },
+  {
+    "rank": 618,
+    "prev_rank": 618,
+    "name": "Guangzhou RF",
+    "league": "Chinese Super League",
+    "off": 0.66,
+    "def": 2.86,
+    "spi": 9.74,
+    "location": {
+      "city": "Gerlachstad",
+      "zip": "01934-2628"
+    }
+  },
+  {
+    "rank": 619,
+    "prev_rank": 619,
+    "name": "Maritzburg Utd",
+    "league": "South African ABSA Premier League",
+    "off": 0.26,
+    "def": 1.98,
+    "spi": 9.65,
+    "location": {
+      "city": "Port Kadenstead",
+      "zip": "89942-9442"
+    }
+  },
+  {
+    "rank": 620,
+    "prev_rank": 620,
+    "name": "Accrington Stanley",
+    "league": "English League One",
+    "off": 0.39,
+    "def": 2.28,
+    "spi": 9.56,
+    "location": {
+      "city": "New Johanna",
+      "zip": "93969"
+    }
+  },
+  {
+    "rank": 621,
+    "prev_rank": 621,
+    "name": "Wuhan Zall",
+    "league": "Chinese Super League",
+    "off": 0.39,
+    "def": 2.32,
+    "spi": 9.4,
+    "location": {
+      "city": "Port Craigboro",
+      "zip": "88943-2458"
+    }
+  },
+  {
+    "rank": 622,
+    "prev_rank": 622,
+    "name": "Crewe Alexandra",
+    "league": "English League Two",
+    "off": 0.36,
+    "def": 2.25,
+    "spi": 9.33,
+    "location": {
+      "city": "Brycemouth",
+      "zip": "98927"
+    }
+  },
+  {
+    "rank": 623,
+    "prev_rank": 623,
+    "name": "Detroit City FC",
+    "league": "United Soccer League",
+    "off": 0.27,
+    "def": 2.08,
+    "spi": 8.98,
+    "location": {
+      "city": "Terre Haute",
+      "zip": "16448-3721"
+    }
+  },
+  {
+    "rank": 624,
+    "prev_rank": 624,
+    "name": "Richards Bay",
+    "league": "South African ABSA Premier League",
+    "off": 0.2,
+    "def": 1.95,
+    "spi": 8.59,
+    "location": {
+      "city": "Thielstad",
+      "zip": "28731"
+    }
+  },
+  {
+    "rank": 625,
+    "prev_rank": 625,
+    "name": "Rochdale",
+    "league": "English League Two",
+    "off": 0.36,
+    "def": 2.4,
+    "spi": 8.31,
+    "location": {
+      "city": "Estrellafield",
+      "zip": "63452-7735"
+    }
+  },
+  {
+    "rank": 626,
+    "prev_rank": 626,
+    "name": "Grimsby Town",
+    "league": "English League Two",
+    "off": 0.26,
+    "def": 2.15,
+    "spi": 8.24,
+    "location": {
+      "city": "Rochester Hills",
+      "zip": "39293"
+    }
+  },
+  {
+    "rank": 627,
+    "prev_rank": 627,
+    "name": "Chippa United",
+    "league": "South African ABSA Premier League",
+    "off": 0.25,
+    "def": 2.16,
+    "spi": 8.13,
+    "location": {
+      "city": "Buffalo",
+      "zip": "73784-3076"
+    }
+  },
+  {
+    "rank": 628,
+    "prev_rank": 628,
+    "name": "Tranmere Rovers",
+    "league": "English League Two",
+    "off": 0.2,
+    "def": 2.02,
+    "spi": 8.08,
+    "location": {
+      "city": "Fort Princebury",
+      "zip": "98682"
+    }
+  },
+  {
+    "rank": 629,
+    "prev_rank": 635,
+    "name": "Loudoun United FC",
+    "league": "United Soccer League",
+    "off": 0.36,
+    "def": 2.47,
+    "spi": 7.86,
+    "location": {
+      "city": "West Hattie",
+      "zip": "16562-3529"
+    }
+  },
+  {
+    "rank": 630,
+    "prev_rank": 629,
+    "name": "Tianjin Quanujian",
+    "league": "Chinese Super League",
+    "off": 0.37,
+    "def": 2.51,
+    "spi": 7.83,
+    "location": {
+      "city": "Hodkiewicztown",
+      "zip": "53273"
+    }
+  },
+  {
+    "rank": 631,
+    "prev_rank": 630,
+    "name": "Barrow",
+    "league": "English League Two",
+    "off": 0.2,
+    "def": 2.06,
+    "spi": 7.76,
+    "location": {
+      "city": "Townetown",
+      "zip": "29341"
+    }
+  },
+  {
+    "rank": 632,
+    "prev_rank": 631,
+    "name": "Shenzhen FC",
+    "league": "Chinese Super League",
+    "off": 0.4,
+    "def": 2.6,
+    "spi": 7.73,
+    "location": {
+      "city": "Nitzscheworth",
+      "zip": "51526-9092"
+    }
+  },
+  {
+    "rank": 633,
+    "prev_rank": 632,
+    "name": "Chongqing Lifan",
+    "league": "Chinese Super League",
+    "off": 0.3,
+    "def": 2.35,
+    "spi": 7.66,
+    "location": {
+      "city": "Port Gerard",
+      "zip": "52393-5271"
+    }
+  },
+  {
+    "rank": 634,
+    "prev_rank": 633,
+    "name": "Hartlepool",
+    "league": "English League Two",
+    "off": 0.38,
+    "def": 2.56,
+    "spi": 7.61,
+    "location": {
+      "city": "Hirthehaven",
+      "zip": "87731-6943"
+    }
+  },
+  {
+    "rank": 635,
+    "prev_rank": 634,
+    "name": "Walsall",
+    "league": "English League Two",
+    "off": 0.2,
+    "def": 2.11,
+    "spi": 7.49,
+    "location": {
+      "city": "North Daveside",
+      "zip": "19188-8309"
+    }
+  },
+  {
+    "rank": 636,
+    "prev_rank": 636,
+    "name": "Sutton United",
+    "league": "English League Two",
+    "off": 0.23,
+    "def": 2.26,
+    "spi": 7.02,
+    "location": {
+      "city": "Fort Shaniya",
+      "zip": "88637-0203"
+    }
+  },
+  {
+    "rank": 637,
+    "prev_rank": 637,
+    "name": "AFC Wimbledon",
+    "league": "English League Two",
+    "off": 0.24,
+    "def": 2.3,
+    "spi": 6.96,
+    "location": {
+      "city": "Port Charlotte",
+      "zip": "12188"
+    }
+  },
+  {
+    "rank": 638,
+    "prev_rank": 638,
+    "name": "Doncaster Rovers",
+    "league": "English League Two",
+    "off": 0.2,
+    "def": 2.35,
+    "spi": 6.06,
+    "location": {
+      "city": "Fort Cordia",
+      "zip": "54828"
+    }
+  },
+  {
+    "rank": 639,
+    "prev_rank": 639,
+    "name": "Forest Green Rovers",
+    "league": "English League One",
+    "off": 0.2,
+    "def": 2.38,
+    "spi": 5.91,
+    "location": {
+      "city": "North Rosamond",
+      "zip": "12484"
+    }
+  },
+  {
+    "rank": 640,
+    "prev_rank": 640,
+    "name": "Crawley Town",
+    "league": "English League Two",
+    "off": 0.2,
+    "def": 2.41,
+    "spi": 5.75,
+    "location": {
+      "city": "North Vladimirburgh",
+      "zip": "50453-1868"
+    }
+  },
+  {
+    "rank": 641,
+    "prev_rank": 641,
+    "name": "Guizhou Renhe",
+    "league": "Chinese Super League",
+    "off": 0.2,
+    "def": 2.61,
+    "spi": 4.86,
+    "location": {
+      "city": "Torphyville",
+      "zip": "62257-7659"
+    }
+  }
+]

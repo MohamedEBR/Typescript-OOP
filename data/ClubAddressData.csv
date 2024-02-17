@@ -1,0 +1,642 @@
+rank,prev_rank,name,league,off,def,city,zip
+1,1,Manchester City,Barclays Premier League,2.79,0.28,Torpside,23616-1530
+2,2,Bayern Munich,German Bundesliga,3.04,0.68,Novi,45620-8492
+3,3,Barcelona,Spanish Primera Division,2.45,0.43,Romagueraberg,18701-3032
+4,4,Real Madrid,Spanish Primera Division,2.56,0.6,Port Hudson,57929-6258
+5,5,Liverpool,Barclays Premier League,2.63,0.67,Elmhurst,21820-0455
+6,6,Arsenal,Barclays Premier League,2.53,0.61,Port Emely,49194
+7,7,Newcastle,Barclays Premier League,2.38,0.53,Bergecester,81949
+8,8,Napoli,Italy Serie A,2.3,0.51,East Halleton,15613
+9,9,Borussia Dortmund,German Bundesliga,2.83,0.84,Lake Mariliefort,40639-8793
+10,10,Brighton and Hove Albion,Barclays Premier League,2.47,0.73,West Darryl,26935
+11,11,RB Leipzig,German Bundesliga,2.39,0.7,Port Kenton,37391-3427
+12,12,Benfica,Portuguese Liga,2.4,0.73,Kuvalisstad,20879
+13,13,Aston Villa,Barclays Premier League,2.01,0.51,New Gideon,18502-6897
+14,14,Atletico Madrid,Spanish Primera Division,2.26,0.67,West Marie,70650-4982
+15,15,Paris Saint-Germain,French Ligue 1,2.62,0.91,Lake Germanburgh,91800
+16,16,Manchester United,Barclays Premier League,2.35,0.74,North Mariah,11800-1617
+17,17,Internazionale,Italy Serie A,2.33,0.76,New Justice,39548
+18,18,Ajax,Dutch Eredivisie,2.66,1.03,Fort Kimberg,30398
+19,19,Lille,French Ligue 1,2.07,0.64,Caseystead,58850-8659
+20,20,Brentford,Barclays Premier League,2.1,0.67,Lake Otisfurt,48243-7509
+21,21,Real Sociedad,Spanish Primera Division,1.87,0.52,Lake Ridge,36913
+22,22,Sporting CP,Portuguese Liga,2.07,0.66,Donniemouth,33758-4627
+23,23,FC Porto,Portuguese Liga,2.16,0.72,Estebanview,82660
+24,24,Chelsea,Barclays Premier League,2.04,0.68,Bismarck,02285-2815
+25,25,Feyenoord,Dutch Eredivisie,2.28,0.87,East Conormouth,99669-9947
+26,26,Lyon,French Ligue 1,2.28,0.88,Lake Claudiastead,68897
+27,27,Stade Rennes,French Ligue 1,2.01,0.69,Vicentaburgh,92618-5502
+28,28,Bayer Leverkusen,German Bundesliga,2.03,0.72,Michaleview,59875-9407
+29,29,Athletic Bilbao,Spanish Primera Division,1.84,0.59,Palm Harbor,09943
+30,30,Celtic,Scottish Premiership,2.53,1.07,South Donato,80036
+31,32,Zenit St Petersburg,Russian Premier Liga,2.02,0.73,Irondequoit,35591
+32,31,Fiorentina,Italy Serie A,2.07,0.76,East Mireya,05548-6016
+33,33,FC Twente,Dutch Eredivisie,2.22,0.88,Parma,97764-4535
+34,34,Marseille,French Ligue 1,2.05,0.77,Dietrichborough,67574
+35,35,PSV,Dutch Eredivisie,2.38,1.02,Boyerside,03552
+36,36,Crystal Palace,Barclays Premier League,1.81,0.62,Port Miloport,21737
+37,37,Villarreal,Spanish Primera Division,2.14,0.86,Port Ignatius,02094-6222
+38,38,Lens,French Ligue 1,1.96,0.73,Lake Oda,88813
+39,39,AC Milan,Italy Serie A,2.05,0.8,Woodland,62482
+40,40,AS Roma,Italy Serie A,1.82,0.65,Ankundingborough,15242-8681
+41,41,FC Salzburg,Austrian T-Mobile Bundesliga,2.06,0.83,West Wellington,72252
+42,42,FC Cologne,German Bundesliga,2.03,0.81,Strongsville,06938-0697
+43,43,Tottenham Hotspur,Barclays Premier League,2.19,0.95,East Flossie,46495
+44,44,Rangers,Scottish Premiership,2.25,1,West Alexandrine,00473-0273
+45,45,Eintracht Frankfurt,German Bundesliga,2.07,0.88,Fort Jordicester,19912
+46,47,West Ham United,Barclays Premier League,1.94,0.81,Bayamon,49014
+47,46,Atalanta,Italy Serie A,2.1,0.93,Bartelltown,49899
+48,48,VfL Wolfsburg,German Bundesliga,2.07,0.92,Dandreshire,62825-3346
+49,49,Juventus,Italy Serie A,1.89,0.81,Lake Stephen,80718-7518
+50,50,Torino,Italy Serie A,1.7,0.66,West Fionabury,82829-4776
+51,51,Sevilla FC,Spanish Primera Division,1.81,0.77,Bertrandville,39884
+52,53,Mainz,German Bundesliga,2.11,1.02,Lake Tillmanfield,15673-4979
+53,52,Palmeiras,Brasileiro Série A,1.78,0.78,Port Rasheed,18081-8441
+54,55,Valencia,Spanish Primera Division,1.73,0.75,Earlhaven,67904-6249
+55,56,Lazio,Italy Serie A,1.77,0.79,Blockborough,34751
+56,57,Fulham,Barclays Premier League,1.9,0.9,South Daytonstad,07833-0448
+57,54,Besiktas,Turkish Turkcell Super Lig,2.14,1.1,Lake Odessaview,01874-2152
+58,58,Celta Vigo,Spanish Primera Division,1.72,0.77,Lake Alisa,82505-0833
+59,59,Nice,French Ligue 1,1.75,0.8,Michaelville,67372
+60,60,VfB Stuttgart,German Bundesliga,1.96,0.97,West Eltonburgh,08547-7731
+61,61,Borussia Monchengladbach,German Bundesliga,2.1,1.09,North Miami Beach,15381-0848
+62,64,Galatasaray,Turkish Turkcell Super Lig,2,1.01,Vancouver,41726
+63,63,AZ,Dutch Eredivisie,1.92,0.96,Apple Valley,46751-7072
+64,65,Girona FC,Spanish Primera Division,1.93,0.97,Kamrenstead,45874
+65,66,Real Betis,Spanish Primera Division,1.73,0.82,Skilesmouth,48559-9609
+66,67,SC Freiburg,German Bundesliga,1.91,0.99,Minneapolis,86305
+67,62,Flamengo,Brasileiro Série A,1.9,0.99,South Napoleonfort,33995-5709
+68,68,Strasbourg,French Ligue 1,1.78,0.89,Pocatello,27659-1512
+69,69,1. FC Union Berlin,German Bundesliga,1.71,0.84,New Jazmyneland,73607-3667
+70,70,Osasuna,Spanish Primera Division,1.63,0.8,Greenberg,11519-0090
+71,71,Young Boys,Swiss Raiffeisen Super League,2.1,1.21,Estelburgh,09577
+72,72,Atletico Mineiro,Brasileiro Série A,1.54,0.76,Port Mercedesstead,23158
+73,73,Getafe,Spanish Primera Division,1.51,0.73,South Terrill,96417
+74,74,AS Monaco,French Ligue 1,1.95,1.11,Claudieborough,57507
+75,75,Leicester City,Barclays Premier League,1.87,1.04,Reichelborough,17743
+76,76,KAA Gent,Belgian Jupiler League,1.93,1.1,East Dusty,13361-3332
+77,77,Reims,French Ligue 1,1.72,0.94,East Lempiton,04590
+78,78,Bologna,Italy Serie A,1.79,1,Port Gabriellaworth,18665-1170
+79,79,Werder Bremen,German Bundesliga,1.93,1.11,North Katrinamouth,26183
+80,82,Fenerbahce,Turkish Turkcell Super Lig,2.01,1.19,New Stanley,23546
+81,80,Monterrey,Mexican Primera Division Torneo Clausura,1.58,0.83,Smyrna,78516
+82,81,Everton,Barclays Premier League,1.82,1.03,Port Lexie,11650-3130
+83,83,TSG Hoffenheim,German Bundesliga,1.96,1.17,Maricopa,44020
+84,84,Sassuolo,Italy Serie A,1.9,1.12,East Alyson,59423
+85,85,Slavia Prague,UEFA Europa Conference League,1.83,1.06,New Ernieshire,44881
+86,86,Braga,Portuguese Liga,1.78,1.02,East Jessy,72049
+87,88,Bodo/Glimt,Norwegian Tippeligaen,2.15,1.34,North Kentonbury,95859
+88,87,Burnley,English League Championship,1.53,0.82,Pacochachester,16189-7964
+89,89,Rayo Vallecano,Spanish Primera Division,1.66,0.93,East Allyport,29968-7922
+90,90,Olympiacos,Greek Super League,1.69,0.98,El Paso,36937
+91,91,Dinamo Zagreb,UEFA Champions League,1.8,1.09,New Francescafurt,29079
+92,92,Genk,Belgian Jupiler League,2.07,1.33,Schoenmouth,67574-7835
+93,93,Clermont Foot,French Ligue 1,1.61,0.94,South Annettashire,22879-8874
+94,94,AEK Athens,Greek Super League,1.59,0.93,Pine Bluff,67256-8741
+95,95,Club Brugge,Belgian Jupiler League,1.85,1.16,Port Pedroport,44568
+96,96,Tigres UANL,Mexican Primera Division Torneo Clausura,1.55,0.91,South Britney,30513
+97,97,Club América,Mexican Primera Division Torneo Clausura,1.8,1.14,Hendersonville,25636
+98,98,Toulouse,French Ligue 1,1.64,1.03,Olsonview,64473-9356
+99,99,Udinese,Italy Serie A,1.67,1.06,Newtonborough,15218
+100,100,Lecce,Italy Serie A,1.46,0.88,Croninport,49089-6945
+101,101,Mallorca,Spanish Primera Division,1.51,0.93,New Marciaport,36504-4648
+102,102,Antwerp,Belgian Jupiler League,1.55,0.96,South Lilianaboro,77046-6325
+103,103,AFC Bournemouth,Barclays Premier League,1.68,1.08,Emeraldcester,38507
+104,104,Schalke 04,German Bundesliga,1.81,1.2,Port Audraworth,54349
+105,105,CSKA Moscow,Russian Premier Liga,1.54,0.96,Temple,44754-0034
+106,106,Wolverhampton,Barclays Premier League,1.55,0.99,Blickstead,97325
+107,107,Leeds United,Barclays Premier League,1.84,1.25,Pagacfurt,50473
+108,108,SK Sturm Graz,Austrian T-Mobile Bundesliga,1.71,1.14,East Rosemary,10523
+109,112,River Plate,Argentina Primera Division,1.61,1.05,North Sally,48436
+110,109,Espanyol,Spanish Primera Division,1.86,1.27,Lorain,59522-3583
+111,110,Monza,Italy Serie A,1.69,1.12,Lueilwitzberg,93898
+112,111,Vitesse,Dutch Eredivisie,1.65,1.08,South Vellaland,06990-8022
+113,117,São Paulo,Brasileiro Série A,1.53,0.99,Emoryberg,20603
+114,113,Montpellier,French Ligue 1,1.77,1.21,Fort Emilchester,35351-8129
+115,114,Slovácko,UEFA Europa Conference League,1.77,1.21,Port Neal,76218-3803
+116,115,Red Star Belgrade,UEFA Europa League,1.75,1.19,North Corene,19354
+117,116,Cadiz,Spanish Primera Division,1.52,0.99,Tiaboro,18013
+118,120,Adana Demirspor,Turkish Turkcell Super Lig,1.89,1.33,Harrisonburg,67036-5203
+119,118,FC Copenhagen,Danish SAS-Ligaen,1.75,1.2,New Kim,42303
+120,119,Union Saint Gilloise,Belgian Jupiler League,1.82,1.28,Hilperttown,90540
+121,131,Botafogo,Brasileiro Série A,1.46,0.95,Port Anna,02785
+122,121,FC Utrecht,Dutch Eredivisie,1.78,1.25,Irvine,67985-2870
+123,122,Shakhtar Donetsk,UEFA Europa League,1.77,1.24,Abilene,21646-4418
+124,123,Elche,Spanish Primera Division,1.62,1.11,Kassulketown,77610-1104
+125,124,Almeria,Spanish Primera Division,1.69,1.18,Jupiter,54714-0701
+126,126,FC Augsburg,German Bundesliga,1.73,1.22,Lake Barry,50880
+127,127,Southampton,Barclays Premier League,1.66,1.18,Pearl City,86040
+128,128,Sheffield United,English League Championship,1.49,1.03,Aufderharworth,21502-7983
+129,129,VfL Bochum,German Bundesliga,1.84,1.37,Corwinfort,39063
+130,125,Fluminense,Brasileiro Série A,1.53,1.08,New Elsie,22164-5808
+131,132,Nottingham Forest,Barclays Premier League,1.64,1.19,Camden,71945-8361
+132,133,Sparta,Dutch Eredivisie,1.7,1.25,South Lemuelbury,53468-0662
+133,134,Middlesbrough,English League Championship,1.6,1.17,Dearborn Heights,90432
+134,135,Brest,French Ligue 1,1.49,1.06,Rogahnport,86392-0194
+135,138,FC Midtjylland,Danish SAS-Ligaen,1.67,1.24,Euclid,40821
+136,136,Luton Town,English League Championship,1.35,0.94,Fort Pierretown,24238
+137,137,Pachuca,Mexican Primera Division Torneo Clausura,1.59,1.17,Brockfurt,03776-7146
+138,139,Viktoria Plzen,UEFA Champions League,1.82,1.41,Tampa,94149
+139,141,FC Krasnodar,Russian Premier Liga,1.7,1.31,Lake Eleazar,65391-8547
+140,142,Ferencvaros,UEFA Europa League,1.61,1.22,South Brayanview,40570
+141,143,Internacional,Brasileiro Série A,1.38,1.02,Lacey,29973
+142,144,Lokomotiv Moscow,Russian Premier Liga,1.62,1.26,East Antonio,10351
+143,145,Trabzonspor,Turkish Turkcell Super Lig,1.8,1.44,Powlowskichester,40342-6443
+144,146,Real Valladolid,Spanish Primera Division,1.55,1.2,Loweboro,63403-6101
+145,147,Hertha Berlin,German Bundesliga,1.71,1.36,Lafayette,01109
+146,152,Philadelphia Union,Major League Soccer,1.64,1.29,Williamworth,95980-4484
+147,148,Lorient,French Ligue 1,1.46,1.12,Glenview,95426
+148,151,Bragantino,Brasileiro Série A,1.48,1.15,New Princessview,03967-9225
+149,150,Empoli,Italy Serie A,1.57,1.25,Dickiton,43652-5823
+150,130,Los Angeles FC,Major League Soccer,1.6,1.28,Port Arturo,93995
+151,153,Spartak Moscow,Russian Premier Liga,1.58,1.26,Mission,99516-2683
+152,154,Dynamo Kiev,UEFA Europa League,1.51,1.19,Fort Reillychester,24890-1392
+153,140,Fortaleza,Brasileiro Série A,1.3,1,Woodland,72924-7246
+154,156,Ipswich Town,English League One,1.62,1.31,Fort Quinnside,94995
+155,157,Guimaraes,Portuguese Liga,1.26,0.96,West Moriahland,02932-4948
+156,159,Istanbul Basaksehir,Turkish Turkcell Super Lig,1.39,1.1,Fort Stephanietown,00861
+157,149,Molde,Norwegian Tippeligaen,1.83,1.54,Port Henricester,30873
+158,160,Anderlecht,Belgian Jupiler League,1.46,1.18,East Vito,87589-3953
+159,161,León,Mexican Primera Division Torneo Clausura,1.35,1.07,Lake Mark,17853-8781
+160,155,Atlético Paranaense,Brasileiro Série A,1.38,1.11,Handberg,89177-8871
+161,162,SC Dnipro-1,UEFA Europa Conference League,1.55,1.28,East Hannah,38311-5429
+162,163,Atlas,Mexican Primera Division Torneo Clausura,1.41,1.14,Alafaya,03412-8872
+163,164,Lech Poznan,UEFA Europa Conference League,1.42,1.15,Fort Leonardoshire,90592
+164,165,Swansea City,English League Championship,1.5,1.23,Torphyworth,84880-3576
+165,193,FK Austria Vienna,Austrian T-Mobile Bundesliga,1.73,1.46,West Horace,23875
+166,166,Steaua Bucuresti,UEFA Europa Conference League,1.5,1.24,Haverhill,67214-5232
+167,167,Fatih Karagümrük,Turkish Turkcell Super Lig,1.82,1.56,Johnpaulstad,99347
+168,168,Terek Grozny,Russian Premier Liga,1.46,1.2,Pearl City,92552-2375
+169,169,Go Ahead Eagles,Dutch Eredivisie,1.65,1.39,Lutherside,22406-6957
+170,158,Yokohama F. Marinos,Japanese J League,1.75,1.49,Port Lomacester,84747-3017
+171,172,Cercle Brugge,Belgian Jupiler League,1.62,1.38,Port Gustaveberg,06655-0845
+172,173,FC Sheriff Tiraspol,UEFA Europa League,1.51,1.27,Sheboygan,69277
+173,174,FK Partizan Belgrade,UEFA Europa Conference League,1.41,1.17,Tyrelfield,52186-8007
+174,175,Nantes,French Ligue 1,1.35,1.11,Erinstad,95399
+175,176,LASK Linz,Austrian T-Mobile Bundesliga,1.53,1.3,Luisstead,18727
+176,177,Vasco da Gama,Brasileiro Série A,1.44,1.21,Nyahport,72955-4419
+177,170,Corinthians,Brasileiro Série A,1.23,1,Adolphfield,27632
+178,178,Coventry City,English League Championship,1.28,1.06,South Kyleigh,13983-8034
+179,180,PAOK Salonika,Greek Super League,1.4,1.18,North Joychester,65409-5663
+180,181,Guadalajara,Mexican Primera Division Torneo Clausura,1.35,1.13,Los Angeles,67381
+181,179,Santos,Brasileiro Série A,1.26,1.04,West Yoshiko,69533
+182,183,Famalicao,Portuguese Liga,1.44,1.24,Lake Henrifurt,76240
+183,184,Verona,Italy Serie A,1.37,1.18,Overland Park,42840-8132
+184,185,Cruz Azul,Mexican Primera Division Torneo Clausura,1.32,1.13,Goodyear,42700
+185,171,Vissel Kobe,Japanese J League,1.48,1.3,Fort Norenestead,04714-8863
+186,204,Konyaspor,Turkish Turkcell Super Lig,1.42,1.24,South Chazfort,80289-1403
+187,186,Metz,French Ligue 2,1.32,1.15,Doylefield,16836-6530
+188,187,Boavista,Portuguese Liga,1.39,1.22,Fort Danfield,60706
+189,188,Frosinone,Italy Serie B,1.37,1.19,Duluth,62122
+190,189,Heerenveen,Dutch Eredivisie,1.66,1.49,Leannonboro,12112
+191,197,Cruzeiro,Brasileiro Série A,1.36,1.19,East Giovani,97374-1332
+192,182,Talleres de Córdoba,Argentina Primera Division,1.34,1.17,South Alexannestad,98579
+193,205,Argentinos Juniors,Argentina Primera Division,1.27,1.11,Nolanfort,13450
+194,190,FK Qarabag,UEFA Europa League,1.41,1.25,Wisozkcester,14967-1105
+195,191,Maccabi Haifa,UEFA Champions League,1.69,1.54,Nolanport,00883
+196,195,Malmo FF,Swedish Allsvenskan,1.59,1.44,East Lenny,49716-6785
+197,192,Hapoel Be'er,UEFA Europa Conference League,1.49,1.34,Franeyburgh,10725
+198,214,BK Hacken,Swedish Allsvenskan,1.77,1.64,Faheyview,15106
+199,194,Spezia,Italy Serie A,1.45,1.32,Dawsonfield,30164-7081
+200,196,NEC,Dutch Eredivisie,1.54,1.41,New Dulce,04240
+201,198,Toluca,Mexican Primera Division Torneo Clausura,1.56,1.44,New Adelineworth,69158-6909
+202,199,Salernitana,Italy Serie A,1.48,1.36,Rohnert Park,78817
+203,200,West Bromwich Albion,English League Championship,1.37,1.25,Deltona,67022
+204,201,Gil Vicente,Portuguese Liga,1.36,1.24,East Tessie,38397
+205,202,Rapid Vienna,Austrian T-Mobile Bundesliga,1.58,1.47,Lake Mabelle,13112
+206,203,Chaves,Portuguese Liga,1.4,1.29,Fort Alfonsoworth,75692-4960
+207,206,Auxerre,French Ligue 1,1.33,1.21,West Coleworth,19884-9319
+208,209,Cagliari,Italy Serie B,1.22,1.11,Rathberg,90945-5193
+209,212,FC Cincinnati,Major League Soccer,1.49,1.4,South Stan,41563-3644
+210,207,Vizela,Portuguese Liga,1.23,1.12,Lake Dougview,52601-9431
+211,210,Santos Laguna,Mexican Primera Division Torneo Clausura,1.43,1.35,New Bertha,82254-9128
+212,211,Stoke City,English League Championship,1.25,1.15,West Tomasside,81988-5891
+213,213,AGF Aarhus,Danish SAS-Ligaen,1.28,1.19,Briannebury,73083
+214,215,Cremonese,Italy Serie A,1.47,1.4,South Evalynshire,87359
+215,216,FC Arouca,Portuguese Liga,1.18,1.09,North Ellaton,54352-1915
+216,217,Gazovik Orenburg,Russian Premier Liga,1.55,1.48,Hendersonville,29218
+217,218,Boca Juniors,Argentina Primera Division,1.13,1.03,Kearny,16574-2686
+218,208,Atlanta United FC,Major League Soccer,1.56,1.5,North Jayce,93466-4555
+219,219,Panathinaikos,Greek Super League,0.97,0.87,Tarynmouth,48875-0942
+220,220,Millwall,English League Championship,1.33,1.25,Altamonte Springs,81280-2929
+221,221,Genoa,Italy Serie B,1.24,1.16,San Mateo,96169
+222,222,Aris Salonika,Greek Super League,1.4,1.34,Kristyworth,93780
+223,234,Grêmio,Brasileiro Série A,1.41,1.35,East Alta,56565
+224,223,Angers,French Ligue 1,1.33,1.27,Fort Isabellabury,30392-8606
+225,224,Estudiantes,Argentina Primera Division,1.18,1.12,Meggieworth,96110
+226,226,Dinamo Moscow,Russian Premier Liga,1.43,1.4,Greensboro,83162
+227,225,Nashville SC,Major League Soccer,1.3,1.27,Osinskistead,28523
+228,229,St Gallen,Swiss Raiffeisen Super League,1.67,1.67,Runolfssonstad,87087
+229,230,Casa Pia,Portuguese Liga,1.24,1.2,Highlands Ranch,87905
+230,231,St Etienne,French Ligue 2,1.54,1.53,Dallas,84395-2007
+231,232,Rio Ave,Portuguese Liga,1.25,1.22,Kuhicshire,05898
+232,228,Urawa Red Diamonds,Japanese J League,1.19,1.17,West Kimberlychester,16039
+233,235,Sunderland,English League Championship,1.34,1.35,Fort Sadiemouth,13424
+234,227,Bahía,Brasileiro Série A,1.25,1.25,Beattychester,73731-1410
+235,236,Norwich City,English League Championship,1.23,1.23,Watsonville,34442-4338
+236,237,Brondby,Danish SAS-Ligaen,1.57,1.61,West Andreannefort,21231-2692
+237,238,Watford,English League Championship,1.28,1.29,Fort Rashadfield,16919
+238,240,IF Elfsborg,Swedish Allsvenskan,1.5,1.53,East Jeramy,64943
+239,239,Bordeaux,French Ligue 2,1.12,1.12,Lake Josiane,04759-3297
+240,248,América Mineiro,Brasileiro Série A,1.31,1.34,Lake Vanland,93126
+241,241,KVC Westerlo,Belgian Jupiler League,1.56,1.62,New Alejandrinside,07614
+242,247,Kawasaki Frontale,Japanese J League,1.39,1.44,Port Keaganton,18282-1744
+243,242,AEK Larnaca,UEFA Europa League,1.16,1.18,Lake Marley,80914-5558
+244,243,Apollon Limassol,UEFA Europa Conference League,1.21,1.24,East Mikestad,23742-0068
+245,259,Columbus Crew,Major League Soccer,1.44,1.5,Cleveland Heights,93873
+246,245,Seattle Sounders FC,Major League Soccer,1.31,1.35,Lavinialand,42489-5594
+247,244,FC Lugano,Swiss Raiffeisen Super League,1.45,1.51,Darrenside,14984-5119
+248,233,New York City FC,Major League Soccer,1.3,1.35,North Noah,42689-8468
+249,249,OH Leuven,Belgian Jupiler League,1.44,1.53,New Katlynside,64166-0574
+250,251,New York Red Bulls,Major League Soccer,1.13,1.18,Walshfield,94759
+251,250,San Lorenzo,Argentina Primera Division,0.92,0.95,Evanscester,74569-8015
+252,252,Blackburn,English League Championship,1.18,1.23,Kaiashire,01283-8768
+253,253,Santa Clara,Portuguese Liga,1.25,1.33,Bergnaumfield,96278-2631
+254,255,FC St. Pauli,German 2. Bundesliga,1.3,1.39,Centennial,29914
+255,256,Rostov,Russian Premier Liga,1.36,1.46,South Lenny,94872-0523
+256,258,Maritimo,Portuguese Liga,1.3,1.4,Deontown,35134-8738
+257,260,Hibernian,Scottish Premiership,1.33,1.43,Mount Pleasant,35237-4292
+258,261,Bristol City,English League Championship,1.17,1.25,Lake Denacester,97693
+259,262,Hearts,Scottish Premiership,1.4,1.52,Moore,65316-0330
+260,257,Rosenborg,Norwegian Tippeligaen,1.54,1.67,Schummboro,63561
+261,263,FC Nordsjaelland,Danish SAS-Ligaen,1.34,1.46,Santa Barbara,17071
+262,264,Lanus,Argentina Primera Division,1.19,1.29,Anchorage,09896
+263,265,CFR 1907 Cluj,UEFA Europa Conference League,1.22,1.33,Sandrashire,18341
+264,268,Orlando City SC,Major League Soccer,1.35,1.47,Arvada,53351-3876
+265,267,Wolfsberger AC,Austrian T-Mobile Bundesliga,1.43,1.58,Larsonfort,38926
+266,269,Levante,Spanish Segunda Division,1.05,1.15,Alfberg,70749-6326
+267,254,Viborg,Danish SAS-Ligaen,1.18,1.3,Tamaraton,64182
+268,273,DC United,Major League Soccer,1.32,1.46,Port Aniyaberg,18860-3264
+269,271,Kashima Antlers,Japanese J League,1.18,1.3,Kohlerview,16512-7192
+270,270,Tenerife,Spanish Segunda Division,1,1.09,Burleson,60320
+271,246,FC Dallas,Major League Soccer,1.2,1.33,Moorestad,18154-0076
+272,266,New England Revolution,Major League Soccer,1.41,1.57,East Modestaton,60168-9211
+273,276,Cuiaba,Brasileiro Série A,1.09,1.22,North Robertashire,24945
+274,275,Basel,Swiss Raiffeisen Super League,1.39,1.58,North Ayana,46384-1448
+275,272,Vancouver Whitecaps,Major League Soccer,1.4,1.59,North Consuelo,41451
+276,277,Ludogorets,UEFA Europa League,1.3,1.49,Fletaside,95669-8202
+277,278,Nagoya Grampus Eight,Japanese J League,1.11,1.27,South Casandramouth,11549
+278,279,Hamburg SV,German 2. Bundesliga,1.53,1.75,South Gardner,38295
+279,280,Parma,Italy Serie B,1.11,1.27,Port Reinholdboro,17675-8472
+280,281,Puebla,Mexican Primera Division Torneo Clausura,1.32,1.52,New Emmaleetown,50272-0773
+281,282,Sampdoria,Italy Serie A,1.36,1.57,Vincentworth,53968
+282,283,Standard Liege,Belgian Jupiler League,1.37,1.58,Savannah,07106-3945
+283,284,Motherwell,Scottish Premiership,1.24,1.43,Port Arthur,23409
+284,285,Silkeborg,Danish SAS-Ligaen,1.37,1.59,San Luis Obispo,77031
+285,286,FC Andorra,Spanish Segunda Division,1.05,1.21,Toledo,69510-9818
+286,287,Sporting de Charleroi,Belgian Jupiler League,1.32,1.54,Casa Grande,23987-0956
+287,288,FC Zurich,Swiss Raiffeisen Super League,1.35,1.57,Fort Emely,39830-3392
+288,289,St. Truidense,Belgian Jupiler League,1.08,1.26,Kailynfort,83756
+289,274,Velez Sarsfield,Argentina Primera Division,0.97,1.14,Brookhaven,10287
+290,292,Pumas Unam,Mexican Primera Division Torneo Clausura,1.25,1.47,New Ladarius,86245
+291,293,SC Paderborn,German 2. Bundesliga,1.44,1.69,West Juwanshire,54924-9215
+292,294,Portimonense,Portuguese Liga,1.16,1.37,Lake Cooperville,64247
+293,296,Defensa y Justicia,Argentina Primera Division,1.09,1.29,McKenzieboro,14717-1540
+294,295,Bastia,French Ligue 2,1.2,1.42,Spinkastad,31520-4174
+295,297,Estoril Praia,Portuguese Liga,1.16,1.38,East Cletusside,56716
+296,312,Portland Timbers,Major League Soccer,1.29,1.54,Tinley Park,10104-5267
+297,299,Granada,Spanish Segunda Division,0.99,1.19,Jefferson City,69102-9282
+298,290,Bari,Italy Serie B,1.1,1.32,Jaskolskichester,55043
+299,301,Mamelodi Sundowns,South African ABSA Premier League,1.04,1.25,New Margaret,93666-8744
+300,291,Sanfrecce Hiroshima,Japanese J League,1.17,1.41,Eileenview,01159-3834
+301,302,Servette,Swiss Raiffeisen Super League,1.33,1.61,Tyriqueworth,62989
+302,303,Atlético San Luis,Mexican Primera Division Torneo Clausura,1.18,1.44,Fort Eastonworth,34472
+303,298,Los Angeles Galaxy,Major League Soccer,1.4,1.7,Port Noah,12231-3626
+304,304,FC Volendam,Dutch Eredivisie,1.47,1.78,North Madie,76715
+305,305,RKC,Dutch Eredivisie,1.45,1.76,Muellerbury,04264
+306,306,Caen,French Ligue 2,1.18,1.44,Zoeville,87053-1233
+307,307,Odense BK,Danish SAS-Ligaen,1.35,1.65,Tucson,34767
+308,331,Goiás,Brasileiro Série A,1.11,1.36,Carterfurt,28687-6397
+309,309,Sivasspor,Turkish Turkcell Super Lig,1.25,1.53,Wolffhaven,38461-5719
+310,310,Kasimpasa,Turkish Turkcell Super Lig,1.3,1.59,Gibsonhaven,35170
+311,320,Coritiba,Brasileiro Série A,1.09,1.35,East Nathaniel,76254-8732
+312,313,Guingamp,French Ligue 2,1.13,1.4,Lake Shayneworth,12312
+313,311,Tigre,Argentina Primera Division,1.09,1.36,Gavinfurt,50895
+314,308,Minnesota United FC,Major League Soccer,1.28,1.58,Pensacola,27126
+315,314,F.B.C Unione Venezia,Italy Serie B,1.24,1.53,South Clementview,90040
+316,317,Necaxa,Mexican Primera Division Torneo Clausura,1.05,1.32,Greysonmouth,40028
+317,315,Rosario Central,Argentina Primera Division,1.11,1.38,Shawnstad,17612-8431
+318,319,Hull City,English League Championship,1.05,1.31,Kimberlychester,02857-2137
+319,321,Fortuna Düsseldorf,German 2. Bundesliga,1.27,1.58,West Elwynborough,27851-1805
+320,335,Lillestrom,Norwegian Tippeligaen,1.32,1.64,Port Dillan,76501
+321,322,Kayserispor,Turkish Turkcell Super Lig,1.38,1.71,Fort Manuelabury,82057-8448
+322,323,Aberdeen,Scottish Premiership,1.14,1.43,Percivalchester,07244
+323,324,Paris FC,French Ligue 2,1.06,1.34,Mayertstad,82393-6602
+324,325,Preston North End,English League Championship,1.12,1.41,Midland,83439
+325,316,SK Brann,Norwegian Tippeligaen,1.3,1.63,Annandale,71471-4083
+326,326,Real Zaragoza,Spanish Segunda Division,0.92,1.17,Macejkovicbury,77027-4353
+327,327,Omonia Nicosia,UEFA Europa League,1.25,1.57,Gusside,40893
+328,334,Sporting Kansas City,Major League Soccer,1.16,1.46,Melodyview,52462
+329,328,Albacete,Spanish Segunda Division,1.13,1.43,Port Winonafield,85511-4668
+330,300,Antalyaspor,Turkish Turkcell Super Lig,1.18,1.48,Fort Loniefurt,65453
+331,329,FC Luzern,Swiss Raiffeisen Super League,1.32,1.65,Reno,81856-8020
+332,318,Racing Club,Argentina Primera Division,1.17,1.48,New Benjamin,38999-3155
+333,357,Cerezo Osaka,Japanese J League,1.09,1.38,Waukegan,53031-0827
+334,333,Fortuna Sittard,Dutch Eredivisie,1.36,1.71,New Gildaboro,77753-0311
+335,332,Alavés,Spanish Segunda Division,0.85,1.1,Lake Elnoraport,68470-1654
+336,337,Newell's Old Boys,Argentina Primera Division,0.84,1.09,Aracelychester,44357
+337,336,Karlsruher SC,German 2. Bundesliga,1.32,1.67,East Lourdesfield,62115-2301
+338,338,Tijuana,Mexican Primera Division Torneo Clausura,1.18,1.5,Denaland,54624-0495
+339,340,Le Havre,French Ligue 2,0.78,1.01,Boyermouth,06922
+340,330,San Jose Earthquakes,Major League Soccer,1.27,1.62,West Haydenfurt,36129-2903
+341,342,AC Ajaccio,French Ligue 1,1,1.29,Norfolk,83938
+342,344,Slovan Bratislava,UEFA Europa Conference League,1.12,1.44,New Ashlynnbury,41013-7877
+343,345,Ural Sverdlovsk Oblast,Russian Premier Liga,0.98,1.27,South Lemuelview,97617
+344,346,1. FC Heidenheim 1846,German 2. Bundesliga,1.22,1.57,Emardcester,62791-7891
+345,343,Consadole Sapporo,Japanese J League,1.59,2.01,Beulahworth,77565
+346,348,Krylia Sovetov,Russian Premier Liga,1.02,1.33,Dibbertberg,79000
+347,349,Sheffield Wednesday,English League One,1.12,1.45,Ogden,67700-8384
+348,350,KV Mechelen,Belgian Jupiler League,1.45,1.85,Rippinborough,53606
+349,352,Toronto FC,Major League Soccer,1.17,1.51,Sydneefurt,32562
+350,355,Montreal Impact,Major League Soccer,1.21,1.57,Florissant,00941-9696
+351,339,Huracán,Argentina Primera Division,0.9,1.2,Stammview,80027-8595
+352,347,Djurgardens IF,Swedish Allsvenskan,1.21,1.58,East Alvaland,50322-5551
+353,353,Pacos Ferreira,Portuguese Liga,1.1,1.45,Haleyburgh,84352
+354,354,FC Juárez,Mexican Primera Division Torneo Clausura,1.02,1.36,East Bethanystead,72128-7867
+355,351,Eibar,Spanish Segunda Division,0.91,1.22,West Jayden,65303
+356,381,Viking FK,Norwegian Tippeligaen,1.52,1.98,Fort Ashlynnside,76513
+357,365,CA Independiente,Argentina Primera Division,1.04,1.38,North Queen,24448
+358,356,Colon Santa Fe,Argentina Primera Division,1.04,1.4,Tampa,02271
+359,358,Barnsley,English League One,1.26,1.67,East Velva,07272
+360,360,Sochi,Russian Premier Liga,1.11,1.5,Lake Johnsonhaven,39801-5391
+361,361,Charlotte FC,Major League Soccer,1.24,1.66,Port Lempiport,21947-2211
+362,362,Birmingham,English League Championship,1.02,1.4,Shaynaberg,85934
+363,363,Alanyaspor,Turkish Turkcell Super Lig,1.42,1.88,Alishamouth,08353
+364,364,Cardiff City,English League Championship,1.04,1.41,Port Danny,88239-9863
+365,367,WSG Swarovski Wattens,Austrian T-Mobile Bundesliga,1.33,1.78,Warner Robins,80536-3701
+366,370,Las Palmas,Spanish Segunda Division,0.91,1.27,West Edmond,46837
+367,366,Godoy Cruz,Argentina Primera Division,1,1.39,Terryview,13698-0977
+368,373,Banfield,Argentina Primera Division,0.92,1.29,New Mandyfurt,26256
+369,371,Randers FC,Danish SAS-Ligaen,1.18,1.63,Lake Jo,55370-4949
+370,372,SpVgg Greuther Fürth,German 2. Bundesliga,1.12,1.55,Murrayberg,24712-4254
+371,369,Ankaragucu,Turkish Turkcell Super Lig,1.06,1.48,East Mariamhaven,35343
+372,409,Istanbulspor,Turkish Turkcell Super Lig,1.17,1.61,Swiftberg,15658-9735
+373,359,Chicago Fire,Major League Soccer,1.18,1.63,Vadaburgh,04801
+374,374,Querétaro,Mexican Primera Division Torneo Clausura,0.98,1.39,Moenshire,84743
+375,375,Troyes,French Ligue 1,1.23,1.7,Baton Rouge,27558
+376,376,Fakel Voronezh,Russian Premier Liga,1.01,1.43,McCulloughstead,82510
+377,378,Wigan,English League Championship,0.92,1.32,Lake Edison,95114-1139
+378,379,FC Groningen,Dutch Eredivisie,1.24,1.73,Koeppbury,90271-4923
+379,380,Excelsior,Dutch Eredivisie,1.26,1.75,Estevanchester,70270-4055
+380,341,Austria Lustenau,Austrian T-Mobile Bundesliga,1.31,1.82,Port Ada,56541
+381,377,Austin FC,Major League Soccer,1.24,1.73,East Oscar,75746-2421
+382,383,Como,Italy Serie B,1.05,1.5,Mayaguez,92060
+383,384,Sochaux,French Ligue 2,1.02,1.47,Veumhaven,36814
+384,416,Houston Dynamo,Major League Soccer,1.21,1.71,Canton,58232
+385,385,Huddersfield Town,English League Championship,0.97,1.41,Collinstown,57728-3684
+386,387,Emmen,Dutch Eredivisie,1.25,1.77,Burien,62435-8051
+387,388,Grasshoppers Zürich,Swiss Raiffeisen Super League,1.39,1.95,Grahamborough,74163-5206
+388,368,Valerenga,Norwegian Tippeligaen,1.24,1.76,Eleonoreworth,14354
+389,390,FK Nizhny Novgorod,Russian Premier Liga,0.92,1.36,Longview,72771
+390,391,SK Austria Klagenfurt,Austrian T-Mobile Bundesliga,1.32,1.89,Preciousland,40186-2366
+391,389,Colorado Rapids,Major League Soccer,1.08,1.59,Rodolfoton,01207
+392,393,Queens Park Rangers,English League Championship,1.04,1.54,Belleworth,39599-2199
+393,394,Hammarby,Swedish Allsvenskan,1.21,1.75,Julianachester,99480
+394,395,Holstein Kiel,German 2. Bundesliga,1.33,1.91,Lake Elsinore,36268
+395,396,SV Darmstadt 98,German 2. Bundesliga,1.07,1.58,North Christianatown,12757
+396,411,Real Salt Lake,Major League Soccer,1.09,1.61,Renton,78663
+397,398,Mazatlán FC,Mexican Primera Division Torneo Clausura,1.12,1.66,Elianefurt,21723
+398,402,Instituto,Argentina Primera Division,1,1.5,Lake Michealhaven,91612-4779
+399,403,Atlético Tucumán,Argentina Primera Division,0.93,1.41,Vancouver,27223
+400,399,Ballkani,UEFA Europa Conference League,1.2,1.76,South Luciennetown,63824-4227
+401,400,Melbourne City,Australian A-League,1.32,1.93,Donatohaven,87980
+402,401,Leganes,Spanish Segunda Division,0.86,1.33,North Rosiestead,83866-6566
+403,382,FC Tokyo,Japanese J League,1.17,1.74,Lake Oswald,95085-9699
+404,392,Sarmiento,Argentina Primera Division,0.93,1.43,Fort Stoneside,62744
+405,404,Platense,Argentina Primera Division,0.85,1.32,Adrainmouth,37147-7541
+406,405,Hartberg,Austrian T-Mobile Bundesliga,1.19,1.77,Kuhnstead,73638
+407,406,Pisa,Italy Serie B,0.93,1.44,East Buckburgh,07196
+408,407,Belgrano Cordoba,Argentina Primera Division,0.9,1.4,Krajcikfield,09622-2248
+409,408,Cambuur Leeuwarden,Dutch Eredivisie,1.25,1.86,Hodkiewiczshire,90189-9780
+410,410,Rotherham United,English League Championship,0.96,1.48,Lake Aniyah,44380
+411,417,Gimnasia La Plata,Argentina Primera Division,0.86,1.36,Freidafield,24156
+412,412,Sudtirol,Italy Serie B,0.7,1.15,Fort Crystelville,49301-0798
+413,425,St. Louis CITY SC,Major League Soccer,1.12,1.72,Antioch,45880
+414,413,Sagan Tosu,Japanese J League,0.92,1.46,Salmaton,46156-7938
+415,414,Bolton,English League One,0.89,1.42,Port Berenice,24423-8862
+416,415,Real Oviedo,Spanish Segunda Division,0.78,1.28,Smyrna,33290
+417,397,Sarpsborg,Norwegian Tippeligaen,1.14,1.76,Lake Rosendo,78992
+418,427,Tromso,Norwegian Tippeligaen,1.08,1.69,Silver Spring,13669
+419,386,Umraniyespor,Turkish Turkcell Super Lig,1.14,1.77,Country Club,88393-6890
+420,418,Palermo,Italy Serie B,1.05,1.66,Shirleyview,87701
+421,419,Rigas Futbola Skola,UEFA Europa Conference League,1.16,1.8,Pourosshire,29857
+422,420,AaB,Danish SAS-Ligaen,0.99,1.58,Lake Kellenboro,76640-4474
+423,421,Villarreal B,Spanish Segunda Division,0.98,1.56,Colliermouth,04278
+424,436,Giresunspor,Turkish Turkcell Super Lig,1.06,1.68,Hoffman Estates,49699-8727
+425,422,1. FC Kaiserslautern,German 2. Bundesliga,1.02,1.65,Trishaton,79130
+426,423,Málaga,Spanish Segunda Division,0.79,1.34,Reading,21718
+427,424,Blackpool,English League Championship,1.06,1.7,East Merlin,59362
+428,426,Plymouth Argyle,English League One,1.02,1.66,Peabody,63564-5541
+429,428,Racing Santander,Spanish Segunda Division,0.85,1.44,Kuhlmanberg,63625-3948
+430,431,Dijon FCO,French Ligue 2,0.85,1.44,Dickinsonville,32465
+431,429,Central Córdoba Santiago del Estero,Argentina Primera Division,0.87,1.47,North Napoleon,49664-7605
+432,430,Barracas Central,Argentina Primera Division,0.87,1.48,Felicitamouth,42345-6295
+433,432,Zalgiris Vilnius,UEFA Europa Conference League,1.1,1.79,Schroederboro,15280
+434,433,St Mirren,Scottish Premiership,0.95,1.58,Omaworth,74444-2879
+435,435,Central Coast Mariners,Australian A-League,1.27,2.03,Bernardburgh,70711-5343
+436,434,Union Santa Fe,Argentina Primera Division,0.85,1.46,Flint,67116-1179
+437,437,Peterborough United,English League One,1.01,1.68,Fort Shyanneside,53558-2930
+438,445,IFK Norrkoping,Swedish Allsvenskan,1.08,1.78,East Sanfordside,72990-8961
+439,438,Derby County,English League One,0.94,1.6,Luellaburgh,38950-2220
+440,439,FC Cartagena,Spanish Segunda Division,0.89,1.53,New Raulchester,80049-9573
+441,440,FC Vaduz,Swiss Raiffeisen Super League,0.96,1.63,East Kamrenburgh,95547-0457
+442,441,Sporting Gijón,Spanish Segunda Division,0.85,1.48,Labadieport,73909-4394
+443,442,KV Kortrijk,Belgian Jupiler League,1.08,1.8,Port Sabinaport,34350-6357
+444,447,Inter Miami CF,Major League Soccer,1.05,1.77,Woodbury,43667-7049
+445,443,Kalmar FF,Swedish Allsvenskan,0.96,1.64,South Giovanna,65893-2941
+446,444,Reading,English League Championship,0.9,1.58,Williamsonburgh,05127-5179
+447,446,US Quevilly,French Ligue 2,0.96,1.66,East Savanah,66965
+448,448,Ascoli,Italy Serie B,0.84,1.5,Monicafield,97155-1775
+449,449,SD Huesca,Spanish Segunda Division,0.73,1.36,Runteville,02437-0501
+450,457,Odd BK,Norwegian Tippeligaen,0.91,1.62,Dickinsonfort,21670-3621
+451,450,Kilmarnock,Scottish Premiership,0.91,1.63,Lake Jamelton,75051
+452,451,St Johnstone,Scottish Premiership,0.88,1.58,New Haven,69355-3454
+453,452,OFI Crete,Greek Super League,0.9,1.62,Jefferson City,34587-1657
+454,453,Mirandes,Spanish Segunda Division,0.86,1.56,Woodland,01065-0861
+455,454,Valenciennes,French Ligue 2,0.9,1.62,Jakobborough,27192
+456,455,Arminia Bielefeld,German 2. Bundesliga,1.14,1.96,North Graceshire,44998
+457,456,1. FC Magdeburg,German 2. Bundesliga,1.08,1.88,East Sister,33547-0464
+458,458,Modena,Italy Serie B,0.92,1.67,Lake Letitia,19927
+459,459,Reggina,Italy Serie B,0.84,1.56,New Johnnyland,82348
+460,460,Rodez,French Ligue 2,0.75,1.44,Lake Dovie,91623-2758
+461,461,HJK Helsinki,UEFA Europa League,0.94,1.71,Ericatown,46764
+462,462,Grenoble,French Ligue 2,0.61,1.23,West Caesar,75942-6924
+463,463,Lyngby,Danish SAS-Ligaen,0.86,1.61,Crooksmouth,75825
+464,464,Guangzhou Evergrande,Chinese Super League,1.08,1.93,Schillerchester,49673
+465,465,Portsmouth,English League One,0.82,1.57,Jamaalworth,25328-6080
+466,466,SV Zulte Waregem,Belgian Jupiler League,1.35,2.32,Savannahborough,34794-5427
+467,467,Pau,French Ligue 2,0.92,1.75,Funkside,33025-1514
+468,468,Cittadella,Italy Serie B,0.7,1.42,North Antwoncester,13585-1729
+469,472,Avispa Fukuoka,Japanese J League,0.78,1.56,Dustinland,92696-5236
+470,469,Hannover 96,German 2. Bundesliga,1.07,1.98,Timmycester,87567
+471,488,Kashiwa Reysol,Japanese J League,0.91,1.75,Stamford,52792
+472,470,Ross County,Scottish Premiership,0.92,1.76,Lake Vernonton,26638
+473,471,Amiens,French Ligue 2,0.83,1.63,Brakusland,99745
+474,473,Orlando Pirates,South African ABSA Premier League,0.75,1.53,Lockmanbury,55295
+475,474,Spal,Italy Serie B,0.83,1.65,Marquischester,24778-2983
+476,475,SD Ponferradina,Spanish Segunda Division,0.77,1.55,New Britain,33370-3875
+477,476,Perugia,Italy Serie B,0.84,1.67,North Yessenia,11671
+478,478,Nimes,French Ligue 2,1.01,1.91,Port Emmett,96381
+479,479,Atromitos,Greek Super League,0.71,1.48,Lake Elwin,48728-3011
+480,484,Arsenal Sarandi,Argentina Primera Division,0.75,1.54,Fort Alexys,06463-0212
+481,490,Stromsgodset,Norwegian Tippeligaen,0.99,1.89,Emmiefield,93345-1808
+482,477,San Antonio FC,United Soccer League,0.88,1.74,Friedrichfield,86202
+483,500,Kyoto Purple Sanga,Japanese J League,0.83,1.68,Fort Mafalda,05030
+484,481,Burgos,Spanish Segunda Division,0.69,1.47,Thompsonworth,35368
+485,480,AIK,Swedish Allsvenskan,0.84,1.7,Katelynntown,54718
+486,502,Gamba Osaka,Japanese J League,0.92,1.82,South Aaronberg,94038-1887
+487,486,Stabaek,Norwegian Tippeligaen,0.94,1.85,New Aracelibury,05495
+488,482,Livingston,Scottish Premiership,0.83,1.69,Rock Hill,61807-1419
+489,483,Cashpoint SC Rheindorf Altach,Austrian T-Mobile Bundesliga,0.82,1.68,Emilyton,55616
+490,485,Sydney FC,Australian A-League,1.05,2.03,Lake Enochborough,76638-4135
+491,487,Ternana,Italy Serie B,0.85,1.74,Lake Jean,16011
+492,491,Charlton Athletic,English League One,0.98,1.94,Cristinaberg,80659
+493,492,SV Ried,Austrian T-Mobile Bundesliga,0.87,1.8,East Elisabeth,37978
+494,493,Western Sydney FC,Australian A-League,0.99,1.97,Lake Maybellport,86916-7589
+495,489,Shonan Bellmare,Japanese J League,0.83,1.74,Fountainebleau,43122-6934
+496,495,Laval,French Ligue 2,0.83,1.75,New Clintonworth,26595
+497,497,Benevento,Italy Serie B,0.77,1.67,Lake Piper,50301-0514
+498,498,Beijing Guoan,Chinese Super League,0.98,1.99,Eldridgeview,86518
+499,499,1. FC Nürnberg,German 2. Bundesliga,0.8,1.72,East Ryan,03719
+500,494,Louisville City FC,United Soccer League,0.83,1.77,Colemanside,92023
+501,501,Dundee Utd,Scottish Premiership,0.87,1.85,Blandaberg,40265-3110
+502,503,Wycombe Wanderers,English League One,0.78,1.72,West Robertafort,83940
+503,509,Haugesund,Norwegian Tippeligaen,0.87,1.86,Kemmerville,16100-2312
+504,506,Annecy,French Ligue 2,0.79,1.75,Remingtonland,58310-8666
+505,507,Shanghai SIPG,Chinese Super League,0.9,1.92,North Malindahaven,51005-1151
+506,508,Jahn Regensburg,German 2. Bundesliga,0.9,1.92,Hartmannstead,86220-8928
+507,505,San Diego Loyal SC,United Soccer League,0.95,2,Port Lucioberg,83598-7056
+508,504,Tampa Bay Rowdies,United Soccer League,0.88,1.9,South Mitchel,97098
+509,510,Pyunik Yerevan,UEFA Europa Conference League,0.87,1.9,Port Pablo,67367-4993
+510,496,IFK Goteborg,Swedish Allsvenskan,0.8,1.8,Annandale,51836-2650
+511,511,UD Ibiza,Spanish Segunda Division,0.71,1.66,Alejandraworth,12282
+512,513,Fleetwood Town,English League One,0.76,1.75,Roxaneside,99658-6164
+513,514,Hansa Rostock,German 2. Bundesliga,0.77,1.77,Meridian,33444
+514,515,Sacramento Republic FC,United Soccer League,0.79,1.81,Ninaberg,27891-2754
+515,516,FC Khimki,Russian Premier Liga,0.82,1.87,Provo,73782-5240
+516,517,KV Oostende,Belgian Jupiler League,1.02,2.18,West Brandyn,96640
+517,518,Winterthur,Swiss Raiffeisen Super League,0.81,1.86,Abbycester,72447
+518,519,Brescia,Italy Serie B,0.74,1.74,Romagueraboro,33154-7809
+519,520,Giannina,Greek Super League,0.72,1.72,North Glendafort,55077-8215
+520,521,AC Horsens,Danish SAS-Ligaen,0.88,1.98,Townecester,17457
+521,522,Arizona United,United Soccer League,0.87,1.98,Lake Lolita,54736-3630
+522,530,Memphis 901 FC,United Soccer League,0.95,2.1,Kassulkeboro,89353
+523,523,Lincoln City,English League One,0.61,1.57,Ryannville,64806-3138
+524,524,Eintracht Braunschweig,German 2. Bundesliga,0.88,2.02,Madalineworth,65297
+525,525,Adelaide United,Australian A-League,1.06,2.3,South Gate,33515
+526,512,Albirex Niigata,Japanese J League,0.82,1.93,Port Estrellaburgh,37104-7504
+527,526,Eupen,Belgian Jupiler League,0.98,2.19,Alliestead,75179
+528,527,Exeter City,English League One,0.85,1.98,Corvallis,99759
+529,528,Asteras Tripolis,Greek Super League,0.5,1.42,East Armand,18140
+530,529,Sandefjord,Norwegian Tippeligaen,0.91,2.11,Johnsonborough,73028-3408
+531,531,Melbourne Victory,Australian A-League,0.77,1.9,Cuyahoga Falls,68229
+532,532,FC Sion,Swiss Raiffeisen Super League,0.96,2.19,Irvine,68969
+533,539,IK Sirius,Swedish Allsvenskan,0.79,1.94,Lubbock,97028
+534,546,Colorado Springs Switchbacks FC,United Soccer League,0.77,1.92,Botsfordburgh,35380-9221
+535,534,Torpedo Moskow,Russian Premier Liga,0.72,1.86,Morissettefort,01855
+536,535,Lugo,Spanish Segunda Division,0.58,1.64,Azusa,18428-3599
+537,536,Cosenza,Italy Serie B,0.54,1.57,Port Una,23684
+538,537,Shamrock Rovers,UEFA Europa Conference League,0.69,1.84,New Kiarra,28606-4526
+539,533,Mjallby,Swedish Allsvenskan,0.57,1.64,Bednarburgh,40010
+540,538,Oxford United,English League One,0.64,1.76,North Raphaelleland,78657
+541,540,Black Aces,South African ABSA Premier League,0.56,1.65,Williamsonburgh,73479
+542,541,RFC Seraing,Belgian Jupiler League,0.75,1.98,Port Juanita,23177
+543,543,Oakland Roots,United Soccer League,0.75,1.98,Hahnborough,99598-2386
+544,542,Brommapojkarna,Swedish Allsvenskan,0.7,1.91,Lake Merlin,33574-6819
+545,544,Stellenbosch FC,South African ABSA Premier League,0.64,1.83,Rancho Palos Verdes,79519-3123
+546,547,Volos NFC,Greek Super League,0.67,1.9,West Sincereland,42709
+547,548,Burton Albion,English League One,0.74,2.01,Leesburg,37731-2075
+548,545,Aalesund,Norwegian Tippeligaen,0.71,1.98,Mafaldabury,80013-3641
+549,555,El Paso Locomotive FC,United Soccer League,0.72,2,Bossier City,94725-5592
+550,549,Niort,French Ligue 2,0.71,1.98,Lake Carleyview,16283
+551,550,Ionikos FC,Greek Super League,0.58,1.77,Michaelborough,93892
+552,551,Levadiakos,Greek Super League,0.61,1.83,North Shanon,72992
+553,552,Shrewsbury Town,English League One,0.63,1.87,West Leiffort,60742-4807
+554,553,SuperSport United,South African ABSA Premier League,0.45,1.55,North Angelofurt,53196
+555,556,SV Sandhausen,German 2. Bundesliga,0.72,2.04,Homenickborough,81611
+556,557,Shandong Luneng,Chinese Super League,0.82,2.22,Roseland,78679
+557,558,Salford City,English League Two,0.78,2.16,New Eileen,97125-5375
+558,559,Jiangsu Suning FC,Chinese Super League,0.71,2.04,Fort Laruecester,81187
+559,560,Cheltenham Town,English League One,0.67,1.99,Minot,13258
+560,554,Gazisehir Gaziantep,Turkish Turkcell Super Lig,0.71,2.05,Jayceberg,46877-8731
+561,567,Halmstads BK,Swedish Allsvenskan,0.64,1.94,Arcadia,06711
+562,561,Mansfield Town,English League Two,0.71,2.08,Lake Kaylie,77054-1521
+563,563,Milton Keynes Dons,English League One,0.58,1.86,Daretown,94065
+564,564,Panetolikos,Greek Super League,0.63,1.97,Stehrbury,96994
+565,571,New Mexico United,United Soccer League,0.67,2.04,Maudieshire,53046
+566,566,Yokohama FC,Japanese J League,0.65,2,East Maximecester,13471
+567,568,Stockport County,English League Two,0.49,1.72,Leannonhaven,54796-5841
+568,565,Hamarkamaratene,Norwegian Tippeligaen,0.68,2.08,Hoboken,04019
+569,570,IFK Värnamo,Swedish Allsvenskan,0.58,1.91,Cleoland,47367-8418
+570,569,Pittsburgh Riverhounds,United Soccer League,0.51,1.82,West Joycechester,07704-8386
+571,572,Bristol Rovers,English League One,0.65,2.07,Daviston,25272
+572,573,Western United,Australian A-League,0.77,2.3,North Maximus,82328
+573,574,Wellington Phoenix,Australian A-League,0.79,2.36,Cutler Bay,33369-6037
+574,562,Orange County SC,United Soccer League,0.58,1.99,Fontana,05455-0924
+575,575,TS Galaxy,South African ABSA Premier League,0.37,1.59,Mariannafield,94035-6627
+576,576,Kaizer Chiefs,South African ABSA Premier League,0.46,1.76,Madalinemouth,44709-3663
+577,577,Birmingham Legion FC,United Soccer League,0.66,2.19,Schusterbury,52063-3997
+578,578,Brisbane Roar,Australian A-League,0.6,2.07,Vincenzatown,35592
+579,579,Lamia,Greek Super League,0.47,1.85,Daleburgh,55823
+580,580,Newcastle Jets,Australian A-League,0.68,2.28,Fort Griffin,63695
+581,582,Degerfors IF,Swedish Allsvenskan,0.68,2.29,South Rogelio,42845
+582,581,Port Vale,English League One,0.61,2.16,Albany,65096-8944
+583,583,AmaZulu,South African ABSA Premier League,0.4,1.81,Maeborough,79533
+584,584,Bradford City,English League Two,0.48,1.97,Martytown,89193
+585,585,Swindon Town,English League Two,0.56,2.17,Lake Jetttown,70266
+586,589,Miami FC,United Soccer League,0.53,2.11,Jarrettfort,49823-5726
+587,586,Leyton Orient,English League Two,0.39,1.84,Lake Zackarybury,86265-3574
+588,587,Carlisle United,English League Two,0.39,1.86,Rhiannonshire,73116-9188
+589,590,Morecambe,English League One,0.58,2.26,Des Plaines,58654-6705
+590,591,Golden Arrows,South African ABSA Premier League,0.43,1.97,El Paso,39280-7916
+591,592,Newport County,English League Two,0.49,2.11,Wolfffurt,35044-1645
+592,588,Hatayspor,Turkish Turkcell Super Lig,0.58,2.29,Kemmertown,73499
+593,593,Royal AM,South African ABSA Premier League,0.46,2.06,Riverton,07408
+594,594,Perth Glory,Australian A-League,0.58,2.3,Port Kadeboro,03005
+595,595,Sekhukhune United,South African ABSA Premier League,0.24,1.61,South Winifredstead,66677-0130
+596,596,Cambridge United,English League One,0.4,1.98,Port Sandra,91755
+597,597,Stevenage,English League Two,0.36,1.9,Minneapolis,83564-8749
+598,598,Northampton Town,English League Two,0.34,1.88,Uriahboro,76796-3175
+599,600,Hartford Athletic,United Soccer League,0.56,2.36,Leslystead,60716-0340
+600,602,Monterey Bay,United Soccer League,0.47,2.17,Palo Alto,19709-4175
+601,599,Indy Eleven,United Soccer League,0.43,2.11,Fort Kevonmouth,53449-2180
+602,603,Tianjin Teda,Chinese Super League,0.5,2.26,Palm Beach Gardens,62921-9572
+603,604,Macarthur FC,Australian A-League,0.63,2.55,Santa Cruz,11476-6642
+604,601,Varbergs BoIS FC,Swedish Allsvenskan,0.49,2.27,Hendersonville,62017-9055
+605,605,Charleston Battery,United Soccer League,0.45,2.22,West Carolynfield,16448
+606,607,Shanghai Greenland,Chinese Super League,0.56,2.47,Ernestobury,51657-0603
+607,608,Harrogate Town,English League Two,0.54,2.43,Lafayette,27388-5960
+608,609,Moroka Swallows,South African ABSA Premier League,0.24,1.77,West Ashlynnton,40661
+609,606,Tulsa Roughnecks,United Soccer League,0.49,2.37,Yostville,85974-1327
+610,614,Rio Grande Valley FC Toros,United Soccer League,0.41,2.21,South Harrison,73705-2547
+611,610,Hebei China Fortune FC,Chinese Super League,0.5,2.43,South Isabellafurt,99083
+612,611,Colchester United,English League Two,0.27,1.91,Blockland,10695
+613,612,Henan Jianye,Chinese Super League,0.46,2.36,New Adrianna,23795-8620
+614,613,Las Vegas Lights FC,United Soccer League,0.41,2.26,New Brenden,54681
+615,615,Gillingham,English League Two,0.27,1.94,Gulgowskiview,78355
+616,616,Dalian Aerbin,Chinese Super League,0.51,2.51,Koeppburgh,18890
+617,617,Tshakhuma Tsha Madzivhandila,South African ABSA Premier League,0.25,1.91,Sydniestead,18792-9835
+618,618,Guangzhou RF,Chinese Super League,0.66,2.86,Guiseppeland,41711
+619,619,Maritzburg Utd,South African ABSA Premier League,0.26,1.98,New Adellchester,06252-1852
+620,620,Accrington Stanley,English League One,0.39,2.28,New Rosalee,99991-5265
+621,621,Wuhan Zall,Chinese Super League,0.39,2.32,Mackenzieboro,42922-1473
+622,622,Crewe Alexandra,English League Two,0.36,2.25,North Jadenbury,07698-6850
+623,623,Detroit City FC,United Soccer League,0.27,2.08,East Marquisecester,97338-5344
+624,624,Richards Bay,South African ABSA Premier League,0.2,1.95,Cathedral City,44359-3500
+625,625,Rochdale,English League Two,0.36,2.4,West Delia,46092-5572
+626,626,Grimsby Town,English League Two,0.26,2.15,Dominicfurt,36713-8430
+627,627,Chippa United,South African ABSA Premier League,0.25,2.16,Dunwoody,91635-7478
+628,628,Tranmere Rovers,English League Two,0.2,2.02,New Elwin,83471-1311
+629,635,Loudoun United FC,United Soccer League,0.36,2.47,Nolanbury,25411
+630,629,Tianjin Quanujian,Chinese Super League,0.37,2.51,Hamillbury,51430
+631,630,Barrow,English League Two,0.2,2.06,New Jayson,43125
+632,631,Shenzhen FC,Chinese Super League,0.4,2.6,West Wilburnworth,55041
+633,632,Chongqing Lifan,Chinese Super League,0.3,2.35,Hawthorne,03068-1032
+634,633,Hartlepool,English League Two,0.38,2.56,Fort Clementina,56092-6320
+635,634,Walsall,English League Two,0.2,2.11,Kristoferside,68292-0789
+636,636,Sutton United,English League Two,0.23,2.26,Fort Julianmouth,22681
+637,637,AFC Wimbledon,English League Two,0.24,2.3,Jeramieworth,67361-5774
+638,638,Doncaster Rovers,English League Two,0.2,2.35,Clemensfield,15629-8740
+639,639,Forest Green Rovers,English League One,0.2,2.38,East Sofiaworth,96716
+640,640,Crawley Town,English League Two,0.2,2.41,East Myraworth,45414
+641,641,Guizhou Renhe,Chinese Super League,0.2,2.61,South Glenna,98359
